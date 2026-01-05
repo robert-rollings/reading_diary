@@ -1023,3 +1023,11 @@ The happy ending between Mary and John Ducane felt sudden and unexpected. One co
 This sudden ending is why I gave four stars rather than five. The ending between Mary & John felt abrupt. But i enjoyed and admired _The nice and the good_ and will look to read more Murdoch in future.
 
 ## 2026
+
+### January 2026
+
+#### The Crippled God by Steven Erikson  
+  
+Started: 2026-01-05  
+Finished: 2026
+
