@@ -972,18 +972,11 @@ Perhaps these interactions were normal between heterosexual men in the 19th cent
 I greatly enjoyed _Great Expectations_ and so know that Dickens can do oh so much better. The moral simplification, sentimentalization, and lack of restraint leading to hyperbole was too frustrating to allow me to continue; I read, after all, for pleasure. I can imagine that _Nicholas Nickleby_ is a parody of Dickens, so different was my reading experience between the two novels. I will try Dickens again, but will look to his later work.
 
 #### The nice and the good by Iris Murdoch
-
+⭐️⭐️⭐️⭐️
 Started: 2025-12-30
-Finished: 
+Finished: 2026-01-04
 #bookclub
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMjcxMjgzLC0xNTI5MDM3NDU4LC0xMT
-YyMzg0NDIyLC0xMzAyMjUwOTgwLC0zMjI5MDMzMDgsLTU5NDE3
-ODM4LDEwMDQ3Mjg0NDAsMzUyMDUwNjYxLDQzNjM4NzQyNywtMT
-g5NjY3NTYwOCwtMTAxMDc3OTg0MiwxNzMxNDQ0ODk2LC02NzA3
-MDM0MzIsLTE4MjgxNTQ0MjUsMjAwNDAzNzcxMywxODkxODM0Nz
-k0LC05MjM0NzcyODYsLTEyMzYxNzk5NjYsMjAwOTU2NjA2MCwt
-MTMyODcxMTIwOF19
--->
+
+## 2026
