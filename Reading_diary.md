@@ -995,7 +995,7 @@ Duncane:
 > "Her people seemed preocuiped, almost too preocuipied to rejoice as they ought to at her reapearence"
 - Chapter thirty, page 268
 
-This is in contrast to Mary, Willy, Paula and of course Ducane.
+This is in contrast to Mary, Willy, Paula and of course Ducane. Octavian and Kate's love is narcississtic as contrast to the love that Mary, Paula, Pierce and Barbie all demonstrate.
 
 Does the novel achieve its purpose? Yes. The central thesis is that there is no greater evel than man's inhumanity to man and that no good can come except through love is manifest deeply in each deeply drawn relationship. Ducane with Jessica, his obsession with Kate and ultimately his love and admiration for Mary.
 As Kate says _"Loving people matters doesnt it? Really nothing else matters except that".
@@ -1014,7 +1014,7 @@ and is portraied not as a "real" man:
 
 > "it occured to no one to count Uncle Theo as a man"
 
-In addition there is the episode in Idia where there was a scandal between Theo and a Novice Monk which ended in death. I dont' see the purpose of Theo in the plot or indeed in the moral lesson except perhaps to show homosexuality as a vice - lust without love - perhaps. Where jessica is active in her lust for love perhaps Theo is a contrast to provide the fullness of the lesson? I felt this was not neccessary and I resent this portrait.
+In addition there is the episode in Idia where there was a scandal between Theo and a Novice Monk which ended in death. I dont' see the purpose of Theo in the plot or indeed in the moral lesson except perhaps to show homosexuality as a vice - lust without love - perhaps. Where jessica is active in her lust for love perhaps Theo is a contrast to provide the fullness of the lesson? I felt this was not neccessary and I resent this portrait. It could be argued that Theo is a moral counterpoint to Ducane - where Theo's desire is intelectual and controling could be a warning to the fate of Ducane - especially in relations to Jessica. But still the Pederastic nature of Theo's desire was uneccessary to draw this portrait.
 
 Class and the privalege of the english upper middle cannot be ingonred in her group. I found the treatment of those of a lower station than the Dorset set as problematic. McGrath, Judy and Fives are by turns; blackmailers, sexually unfaithful (if not a sex worker) and unreliable theives. The middle class characters are portraied with complexity, able to be both good and bad. It is hard to find good in McGrath. It confuses me why at the end Ducane gives McGrath a job as his servant and driver. Is this to show the moral superiority of Ducane in his abilty to forgive and proviee a second chance? This doesn't make sense to me.
 
