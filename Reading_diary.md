@@ -1028,22 +1028,29 @@ This sudden ending is why I gave four stars rather than five. The ending between
 
 #### The Crippled God by Steven Erikson  
 ⭐️⭐️⭐️⭐️⭐️  
-Started: 2026-01-05  
-Finished: 2026-01-15
+**Started:** 2026-01-05  
+**Finished:** 2026-01-15  
 
-The conclusion to such an epic work defies a review that is susinct. The first, the most important for me, question I have to ask is _did Erikson deserve the trust I placed in him on finishing Dust of Dreams_? The answer is yes.
+The conclusion to such an epic work defies a review that is succinct. The first—and most important—question I have to ask is: *Did Erikson deserve the trust I placed in him upon finishing* **Dust of Dreams**? The answer is yes.  
 
-In many ways the crippled god was the architypal _Malazan Book of the Fallen_ novel. A plot filled with symbolism, complex motivations and contradicting points of view and clashing perspectives - never explained to the reader. The novel can be read in three levels:
+In many ways, *The Crippled God* is the archetypal *Malazan Book of the Fallen* novel: a plot filled with symbolism, complex motivations, and clashing perspectives—rarely explained to the reader. The novel can be read on three levels:  
 
-1. A fast paced fantacy novel filled with the classic tropes (excellently done) of Gods, Monsters, Good vs Evil, Magic and Dragons. Epic battles and tragic sacrifice.
-2. A beautifully crafted world of vast and intrecately drawn landscapes, cultures, peoples and chracters.
-3. A treatese in Moral Philosophy which weights what is god, what is love and what is either without compassion.
+1. A fast-paced fantasy novel filled with the classic tropes (excellently done) of **Gods**, **Monsters**, **Good vs. Evil**, **Magic**, and **Dragons**—epic battles and tragic sacrifice.  
+2. A beautifully crafted world of vast and intricately drawn landscapes, cultures, peoples, and characters.  
+3. A treatise in moral philosophy that weighs what is God, what is love, and what either means without compassion.  
 
-On 1 and 2 Erikson compoletely succeeds. The action, world and characters are beautifully drawn and the pace franetic. We are drawn with the bone-hunters accross the desert, feeling their thirst, their desperation. We feel their world and their pain and the action is viscerally drawn with all the gore, violance and horror of war. The withholding of Tavore's inner life, until the final chapters, contined to work excellently as a story telling technique. She is the canvas for others projections and becomes the vehicle by which we come to understand the motivations and beliefs of others. This is particually striking and poinent.
+On 1 and 2, Erikson completely succeeds. The action, world, and characters are beautifully drawn, and the pace frantic. We are drawn with the **Bonehunters** across the desert, feeling their thirst and desperation. We feel their world and their pain, and the action is viscerally rendered with all the gore, violence, and horror of war. The withholding of **Tavore’s** inner life until the final chapters continues to work excellently as a storytelling technique. She is the canvas for others’ projections and becomes the vehicle through which we come to understand the motivations and beliefs of others. This is particularly striking and poignant.  
 
-On 3 Erikson almost but does not completely succeed. The Crippled Gos and the putting right the injusticies pilled upon him is a great and good cause. But I'm left with unease; is the pain and suffering of one being - no matter how great - worth the death and torture of thousands? A utilitarian argument is not the only way to criticise Erikson's moral message. Erikson plays with the "Great Men" theory of history with Tavore, Shadowthrone, and Cotillion as the "Great Men". What about the little people used as pawns to write this wrong. You could extend this to a marxist criticism. The proletariat (Bonehunters and others are sacraficed by the boregeous (Tavore) for the nobility (The Crippled God, etc.).
+On 3, Erikson almost—but not completely—succeeds. *The Crippled God* and the attempt to right the injustices piled upon Him form a great and noble cause. Yet I’m left with unease: is the pain and suffering of one being—no matter how great—worth the death and torture of thousands? Is Erikson suggesting that the little people should be sacrificed for their betters?  
 
-This is really nitpicking. As a piece of litterature and a great story the _Malazan Book of the Fallen_ is a masterpiece. It is fantasy and it is litterary fiction. In scope, scale and structure it can be compared to another great work of litterature - Dante's Divine Comedy. An epic work of morality, with God, monsters and angels. The just and the unjust.
+A utilitarian argument is not the only way to critique Erikson’s moral message. He plays with the “Great Men” theory of history, with **Tavore**, **Shadowthrone**, and **Cotillion** as the “Great Men.” But what of the little people used as pawns to right this wrong? You could extend this to a Marxist criticism: the proletariat—the **Bonehunters** and others—are sacrificed by the bourgeois (**Tavore**) for the nobility (**The Crippled God**, etc.).  
 
-One final note. The poetry at the beggning of parts and chapters didn't really work for me. This may well be a personal failing. I'm not comfortabl with poetry and find it hard to appreciate.
+There is, however, a counterbalance. The Gods are shown as greedy, selfish, and venal—but also as the creations of a fallen humanity. It is humanity’s task to right the wrongs as best they can. Justice depends on good people doing the right thing for the right reasons. **Tavore** and the **Bonehunters** are the ones who decide to act, and through them, Erikson reasserts faith in the power of compassion and agency.  
+
+Even with these moral tensions unresolved, the ambition and coherence of Erikson’s vision remain extraordinary.  
+
+As a piece of literature and a great story, the *Malazan Book of the Fallen* is a masterpiece. It is fantasy, and it is literary fiction. In scope, scale, and structure, it can be compared to another great work of literature—Dante’s *Divine Comedy*: an epic work of morality, with **Gods**, **Monsters**, and **Angels**; the just and the unjust. The themes of redemption, faith, and love are comparable.  
+
+One final note: the poetry at the beginning of parts and chapters didn’t really work for me. This may well be a personal failing. I’m not comfortable with poetry and find it hard to appreciate, though I recognize it as part of Erikson’s attempt to give the saga a mythic and elegiac tone.  
+
 
