@@ -1027,7 +1027,23 @@ This sudden ending is why I gave four stars rather than five. The ending between
 ### January 2026
 
 #### The Crippled God by Steven Erikson  
-  
+⭐️⭐️⭐️⭐️⭐️  
 Started: 2026-01-05  
-Finished: 2026
+Finished: 2026-01-15
+
+The conclusion to such an epic work defies a review that is susinct. The first, the most important for me, question I have to ask is _did Erikson deserve the trust I placed in him on finishing Dust of Dreams_? The answer is yes.
+
+In many ways the crippled god was the architypal _Malazan Book of the Fallen_ novel. A plot filled with symbolism, complex motivations and contradicting points of view and clashing perspectives - never explained to the reader. The novel can be read in three levels:
+
+1. A fast paced fantacy novel filled with the classic tropes (excellently done) of Gods, Monsters, Good vs Evil, Magic and Dragons. Epic battles and tragic sacrifice.
+2. A beautifully crafted world of vast and intrecately drawn landscapes, cultures, peoples and chracters.
+3. A treatese in Moral Philosophy which weights what is god, what is love and what is either without compassion.
+
+On 1 and 2 Erikson compoletely succeeds. The action, world and characters are beautifully drawn and the pace franetic. We are drawn with the bone-hunters accross the desert, feeling their thirst, their desperation. We feel their world and their pain and the action is viscerally drawn with all the gore, violance and horror of war. The withholding of Tavore's inner life, until the final chapters, contined to work excellently as a story telling technique. She is the canvas for others projections and becomes the vehicle by which we come to understand the motivations and beliefs of others. This is particually striking and poinent.
+
+On 3 Erikson almost but does not completely succeed. The Crippled Gos and the putting right the injusticies pilled upon him is a great and good cause. But I'm left with unease; is the pain and suffering of one being - no matter how great - worth the death and torture of thousands? A utilitarian argument is not the only way to criticise Erikson's moral message. Erikson plays with the "Great Men" theory of history with Tavore, Shadowthrone, and Cotillion as the "Great Men". What about the little people used as pawns to write this wrong. You could extend this to a marxist criticism. The proletariat (Bonehunters and others are sacraficed by the boregeous (Tavore) for the nobility (The Crippled God, etc.).
+
+This is really nitpicking. As a piece of litterature and a great story the _Malazan Book of the Fallen_ is a masterpiece. It is fantasy and it is litterary fiction. In scope, scale and structure it can be compared to another great work of litterature - Dante's Divine Comedy. An epic work of morality, with God, monsters and angels. The just and the unjust.
+
+One final note. The poetry at the beggning of parts and chapters didn't really work for me. This may well be a personal failing. I'm not comfortabl with poetry and find it hard to appreciate.
 
