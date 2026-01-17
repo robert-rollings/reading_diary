@@ -17,6 +17,95 @@ paths:
             application/json:
               schema:
                 type: object
+                required:
+                  - entries
+                  - series_table
+                  - meta
+                properties:
+                  entries:
+                    type: array
+                    description: Per-book index entries derived from the diary.
+                    items:
+                      type: object
+                      required:
+                        - id
+                        - title
+                        - author
+                        - year
+                        - month
+                        - ratingStars
+                        - source
+                      properties:
+                        id:
+                          type: string
+                        title:
+                          type: string
+                        author:
+                          type: string
+                        year:
+                          type: integer
+                        month:
+                          type: integer
+                        monthName:
+                          type: string
+                        dateFinished:
+                          type: string
+                          nullable: true
+                        ratingStars:
+                          type: integer
+                          minimum: 0
+                          maximum: 5
+                        tags:
+                          type: array
+                          items:
+                            type: string
+                        series:
+                          type: object
+                          nullable: true
+                          properties:
+                            name:
+                              type: string
+                            number:
+                              type: integer
+                        source:
+                          type: object
+                          required:
+                            - file
+                            - anchor
+                          properties:
+                            file:
+                              type: string
+                            anchor:
+                              type: string
+                  series_table:
+                    type: array
+                    description: Parsed series table at top of diary.
+                    items:
+                      type: object
+                      required:
+                        - seriesName
+                        - author
+                        - ratingStars
+                        - reviewText
+                      properties:
+                        seriesName:
+                          type: string
+                        author:
+                          type: string
+                        ratingStars:
+                          type: integer
+                          minimum: 0
+                          maximum: 5
+                        reviewText:
+                          type: string
+                  meta:
+                    type: object
+                    description: Index metadata and generation info.
+                    properties:
+                      generatedAt:
+                        type: string
+                      sourceFile:
+                        type: string
   /robert-rollings/reading_diary/main/diary/years/{year}.md:
     get:
       operationId: getDiaryYear
