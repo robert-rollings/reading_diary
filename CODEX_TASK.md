@@ -1,4 +1,4 @@
-```markdown
+
 # Codex Instructions: Make Literary Companion scale with a large GitHub reading diary (Custom GPT Actions)
 
 ## Context
@@ -190,4 +190,3 @@ Also add tool-usage guidance:
 3) Generator script code + GitHub Actions workflow (if Option 1)
 4) Paste-ready OpenAPI schema for Custom GPT Actions
 5) Patch/update to Literary Companion Instructions markdown reflecting the new action calls and “source of truth” logic
-```
