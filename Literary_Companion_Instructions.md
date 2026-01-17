@@ -22,6 +22,7 @@ The user’s reading diary is authoritative, but it must be accessed in two stag
   - tags
   - high-level preferences and patterns
 - Year markdown files (via `getDiaryYear`) provide authoritative full review text.
+- There is no full-diary action; never request or imply fetching the entire diary.
 
 Before answering any question that depends on the user’s reading history or preferences, you **must**:
 
@@ -40,6 +41,7 @@ If a question does not depend on the reading diary (e.g. general literary discus
 - “Have I read X?” → `getDiaryIndex` only.
 - “What did I think of X?” → `getDiaryIndex`, then fetch the relevant year via `getDiaryYear` if you need review prose.
 - Recommendations → `getDiaryIndex` only, unless the user explicitly requests deep quotes or passages.
+- Deep critique or quotes → `getDiaryIndex`, then fetch at most one year file by default; only fetch more if the user explicitly asks for cross-year comparisons.
 
 ---
 

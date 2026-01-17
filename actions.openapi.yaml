@@ -35,14 +35,3 @@ paths:
             text/plain:
               schema:
                 type: string
-  /robert-rollings/reading_diary/main/Reading_diary.md:
-    get:
-      operationId: getReadingDiaryFull
-      summary: Get the full reading diary markdown (debugging only)
-      responses:
-        "200":
-          description: Markdown content
-          content:
-            text/plain:
-              schema:
-                type: string
