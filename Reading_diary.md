@@ -1156,7 +1156,7 @@ As a piece of literature and a great story, the _Malazan Book of the Fallen_ is 
 
 One final note: the poetry at the beginning of parts and chapters didn’t really work for me. This may well be a personal failing. I’m not comfortable with poetry and find it hard to appreciate, though I recognize it as part of Erikson’s attempt to give the saga a mythic and elegiac tone.  
 
-#### The Light of Impossibel Stras by Gareth L. Powell 
+#### The Light of Impossible Stars by Gareth L. Powell 
 
 ⭐️⭐️⭐️
 Series: Embers of War
