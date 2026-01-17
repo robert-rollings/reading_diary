@@ -28,7 +28,7 @@ Sorted by `Rating` and alphabetically by `Author`.
 
 ### January 2024
 
-#### The Angel's Game by Carlos Ruiz Zafón
+#### The Angel's Game (Cemetery of Forgotten Books 2) by Carlos Ruiz Zafón
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -68,7 +68,7 @@ Hard SiFi but interesting. Book clearly the first in a series. Who / what is the
 
 ### March 2024
 
-#### Child 44 by Tom Rob Smith
+#### Child 44 (Leo Demidov Trilogy 1) by Tom Rob Smith
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -94,7 +94,7 @@ Very entertaining but formulaic. The commandant was a one dimensional antagonist
 
 Penultimate culture series novel and this sees the culture at its best. Lots of exciting politics, space battles and mischievous minds all working together at cross purposes with the humans getting caught in between.
 
-#### The secret speech by Tom Rob Smith
+#### The secret speech (Leo Demidov Trilogy 2) by Tom Rob Smith
 
 ⭐️⭐️⭐️⭐️
 
@@ -158,7 +158,7 @@ Enjoyed this one. Same wonderful battle scenes. But some issues with the pacing 
 
 Horror pain adventure loss this was a dark but violently told tale. Where this goes in the story or why this needed to happen I do not know but I enjoyed the journey!
 
-#### Shōgun by James Clavell
+#### Shōgun (Asian Saga 3) by James Clavell
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -178,37 +178,37 @@ Wow. Read this in one weekend. Fantastic space opera. Fast paced and full of pat
 
 ### August 2024
 
-#### Dissolution by C.J. Sansom
+#### Dissolution (Shardlake series 1) by C.J. Sansom
 
 ⭐️⭐️⭐️⭐️
 
 Very enjoyable read. Real page turner and well researched. Look forward to reading another.
 
-#### Red Rising by Pierce Brown
+#### Red Rising (Red Rising Saga 1) by Pierce Brown
 
 ⭐️⭐️⭐️
 
 Real page turner. I’m enjoying the universe that is being built. Very much a coming of age story.
 
-#### Golden Son by Pierce Brown
+#### Golden Son (Red Rising Saga 2) by Pierce Brown
 
 ⭐️⭐️⭐️⭐️
 
 Expands on the u inverse of the finally irst novel. We see Darrow grow up a bit and struggle through a number of challenges. Very entertaining and couldn’t put it down. I wounded if they revealed Darrow’s secret of his “Red” origins too soon. Will have to wait to find out.
 
-#### Dark Fire by C.J. Sansom
+#### Dark Fire (Shardlake series 2) by C.J. Sansom
 
 ⭐️⭐️⭐️
 
 Enjoyable historical thriller. This novel lacked the dark menace of the first. But was still an enjoyable page turner.
 
-#### Morning star by Pierce Brown
+#### Morning star (Red Rising Saga 3) by Pierce Brown
 
 ⭐️⭐️⭐️⭐️
 
 Third in the story. I grew frustrated towards the end that the same cycle of capture and defeat would continue. Brown had me deceived. Loved the twist at the end. Don’t think I will rush to read the next volume. But will get to them I’m sure.
 
-#### The prisoner of heaven by Carlos Ruiz Zafón
+#### The prisoner of heaven (Cemetery of Forgotten Books 3) by Carlos Ruiz Zafón
 
 ⭐️⭐️⭐️
 
@@ -231,7 +231,7 @@ Question the book raises is are all authors magpies steeling the nuggets and con
 
 ### September 2024
 
-#### Malice by John Gwynne (The Faithful & The Fallen 1)
+#### Malice (The Faithful and the Fallen 1) by John Gwynne
 
 ⭐️⭐️⭐️⭐️
 
@@ -256,7 +256,7 @@ Book gives a good view of mid century sexism and the challenges women face.
 
 I found the portrait of Zott as too perfect almost decision itself. She never shouted at Mad, never bullied, never sort revenge. She sets a standard that’s impossible to reach.
 
-#### Valour (The faithful and the fallen 2) by John Gwynne
+#### Valour (The Faithful and the Fallen 2) by John Gwynne
 
 ⭐️⭐️⭐️⭐️
 
@@ -276,7 +276,7 @@ Enjoyable sci-fi fantasy fusion.
 
 Entertaining. Good twist at the end. Good pace. Will likely read the next one.
 
-#### Ruin by John Gwynne (The Faithful & The Fallen 3)
+#### Ruin (The Faithful and the Fallen 3) by John Gwynne
 
 ⭐️⭐️⭐️
 
@@ -300,7 +300,7 @@ Reverent twist at the end of full of action, drama and pathos. Though I didn’t
 
 Uplifting exciting and optimistic. A brilliant and engaging story of shared humanity and compassion. I enjoyed the first person style.
 
-#### Wrath by John Gwynne (Faithful and the fallen 4)
+#### Wrath (The Faithful and the Fallen 4) by John Gwynne
 
 ⭐️⭐️⭐️
 
@@ -321,43 +321,43 @@ Not sure what to make of this one. Challenging. At times sound of hard to follow
 
 Very readable. Point is very labored at times. Made me reconsider how I eat.
 
-#### The Darkness That Comes Before by R. Scott Bakker
+#### The Darkness That Comes Before (Prince of Nothing 1) by R. Scott Bakker
 
 Did not finish
 
 Couldn’t get into this. Gave up. I found the names confusing and the lore hard to follow. Couldn’t get a feel for the characters or the world.
 
-#### The alloy of Law by Brandon Sanderson
+#### The alloy of Law (Wax and Wayne 1) by Brandon Sanderson
 
 ⭐️⭐️⭐️
 
 Enjoyable return to the world of Mistborn. I enjoy the Victorian line works and the new characters. Tight not group and close focus on three characters.
 
-#### Enders game by Orson Scott Card
+#### Enders game (Ender Saga 1) by Orson Scott Card
 
 ⭐️⭐️⭐️⭐️⭐️
 
 One of the best books I have read in a very long time. The twist at the end was I suppose, in hindsight, inevitable but I did t see it. Ended is so beautifully drawn. The battle school so well imagined. The story felt vast even though it was short and set in a very small space.
 
-#### Prince of thorns by Mark Lawrence
+#### Prince of thorns (The Broken Empire 1) by Mark Lawrence
 
 ⭐️⭐️⭐️⭐️
 
 Very enjoyable. Dark and twisted and visceral. You can hear and smell the clash and stink of battle. The stench of the brothers leaps off the page. Pacing excellent descriptions vividly drawn. Questions on the origin of the world. Our world a 1,000 years after nuclear war?
 
-#### Shadows of self by Brandon Sanderson
+#### Shadows of self (Wax and Wayne 2) by Brandon Sanderson
 
 ⭐️⭐️⭐️
 
 Enjoyable adventure. More of the comers opening up. Nothing ground breaking on the previous novels.
 
-#### Pandora’s star by Peter F. Hamilton
+#### Pandora’s star (Commonwealth Saga 1) by Peter F. Hamilton
 
 ⭐️⭐️⭐️⭐️
 
 The first part of the story. We are left with a literal cliff hanger as Ozzie, Orion and their alien companion fall of the edge of a disk world and the prime invasion os happening and key players are realizing the starter os real. The only complaint with the star flyer idea is that it has to be real to be included in the plot. Part of me wonders if the SI (Sentient Intelligence) is the Starflyer, I suspect this even more seeing that the. Ext book is called Judas Unchained . Will read the next one right away to continue the story.
 
-#### Judas unchained by Peter F. Hamilton
+#### Judas unchained (Commonwealth Saga 2) by Peter F. Hamilton
 
 ⭐️⭐️⭐️
 
@@ -365,49 +365,49 @@ So the SI wasn’t the starflyer! Enjoyed a lot. I found the Silken and Izzie su
 
 ### December 2024
 
-#### Speaker for the dead by Orson Scott Card
+#### Speaker for the dead (Ender Saga 2) by Orson Scott Card
 
 ⭐️⭐️⭐️
 
 Interesting follow up to Enders Game. Explores morality and a good character study. How Ended became so unbelievably good at reading people isn’t clear. Liked the description of a completely different life cycle and what that means for morality.
 
-#### Edge Dancer by Brandon Sanderson
+#### Edge Dancer (Stormlight Archive 2.5) by Brandon Sanderson
 
 ⭐️⭐️⭐️
 
 Enjoyable little novel. Lift is a great character and so enjoyable to read.
 
-#### Dawnshard by Brandon Sanderson
+#### Dawnshard (Stormlight Archive 3.5) by Brandon Sanderson
 
 ⭐️⭐️⭐️⭐️
 
 Enjoyable short book expanding the universe and lore of the Stormlight Archive series.
 
-#### Wind and truth by Brandon Sanderson
+#### Wind and truth (Stormlight Archive 5) by Brandon Sanderson
 
 ⭐️⭐️
 
 Enjoyable conclusion without the moral weight and grace of the first few books. The twist wasn’t quite twisty enough however a good tale. The world building was incredible. Will read the next story ark.
 
-#### Endymion by Dan Simmons
+#### Endymion (Hyperion Cantos 3) by Dan Simmons
 
 ⭐️⭐️⭐️⭐️⭐️
 
 I loved this book. I struggled with the first two Hyperion books but this one was a joy to read. Mysterious and well paced. The story had me hooked. I look forward to reading the next!
 
-#### The blade itself by Joe Abercrombie
+#### The blade itself (The First Law 1) by Joe Abercrombie
 
 ⭐️⭐️⭐️⭐️
 
 Extremely enjoyable. Dark bloody but full of humor. The characters and world are vivid and the plot interesting. This really was a great opening.
 
-#### The rise of Endymion by Dan Simmons
+#### The rise of Endymion (Hyperion Cantos 4) by Dan Simmons
 
 ⭐️⭐️⭐️⭐️⭐️
 
 Extremely good. I guessed that Raul would be the father. Don’t see A. Bettick as the observer. Excellent resolution to the story. Mixes metaphysics and theology beautifully. A hymn to humanism and the hope of a better future.
 
-#### Before they are hanged by Joe Abercrombie
+#### Before they are hanged (The First Law 2) by Joe Abercrombie
 
 ⭐️⭐️⭐️⭐️
 
@@ -424,25 +424,25 @@ Amazing how Abercrombie makes a torturer a sympathetic character. Another thorou
 
 Beautiful and erotically charged. Paints London and the people of Victorian London vividly. The wife of John / Johnny is a character I would like to have seen more of. In a way she suffers as much as anyone but has no agency. She is a victim of sexism and of the law more than Johnny. And it is heavily implied that she is rapped by Johnny. The sex scenes are beautifully and erotically drawn showing male sexuality in a raw and tender way. I would have liked more of this treatment for the female characters especially Mrs Ellis and her partner. I haven’t read a better portrayal of gay male lust and sexuality.
 
-#### Last argument of kings by Joe Abercrombie
+#### Last argument of kings (The First Law 3) by Joe Abercrombie
 
 ⭐️⭐️⭐️⭐️
 
 Delightfully dark. No character is good or evil. Some are just more evil than others. The characters are delightfully drawn with perhaps the exception of Black Dow. I look forward to reading more books by Joe Abercrombie.
 
-#### Xenocide by Orson Scott Card
+#### Xenocide (Ender Saga 3) by Orson Scott Card
 
 ⭐️⭐️⭐️⭐️
 
 I was surprised at how much I enjoyed this. Interesting exploration on the nature of humanity, consciousness and the bonds that unite people. Provided an interesting study of the nature of authority and the metaphysics of religion.
 
-#### Bands of mourning by Brandon Sanderson
+#### Bands of mourning (Wax and Wayne 3) by Brandon Sanderson
 
 ⭐️⭐️⭐️
 
 Enjoyable great adventure. Felt the characters were well drawn however it was a little predictable and felt a bit hackneyed. But the world is amazing and the lore impressive.
 
-#### The children of the mind by Orson Scott Card
+#### The children of the mind (Ender Saga 4) by Orson Scott Card
 
 ⭐️⭐️⭐️
 
@@ -462,7 +462,7 @@ The pacing worked well overall but I felt the lines of the plot were a predictab
 
 The book felt a little pointless. It enables another nation of the First Law world to be drawn a little better, but the story felt pointless. It didn't weave into the arc of the universe or add any real depth to the characters and politics of the first law series.
 
-#### Ender in Exile by Orson Scott Card
+#### Ender in Exile (Ender Saga 6) by Orson Scott Card
 
 ⭐️
 
@@ -474,13 +474,13 @@ I was very disappointed by this novel. I did not feel, in context of the rest of
 
 This was a deeply moving novel. I saw myself reflected in the the protagonist clearly. I found the timeline in the story interesting. It jumped around quite a bit reflecting back and forward in time. White in his post-script puts this style down to his drinking at the time of writting. I found it added to the story and feeling of authenticity as it felt like a friend telling you their life story. They jump around, skip ahead and loop back just in this way. White's prose is excellent, crisp and beautifully described. The similes are rich and I never felt frustrated by the pace and length of time taken to describe the world. A real joy to read.
 
-#### The fifth season by N.K. Jemisin
+#### The fifth season (The Broken Earth 1) by N.K. Jemisin
 
 ⭐️⭐️⭐️⭐️
 
 This was a Fantasy novel of surprising complexity. It was only at the end that I realised that the three lead female chracters were the same person (Damaya) at diffierent times. This created a really full and in depth understanding of her characterisation. The enslavement of the Rogas was a very good theme. Jemisin's treatment of Gay, Bi and Transgender characters and non-standard relationships was subtly even beautifuly done. I found the third person present tense writting style difficult to understand at first but got used to it. Once the narator's identify is made clear - the Stone Eater who has been following the Damaya it made more sense. Though I find novels written in the present tense difficult in general and less compelling than others. However, the plot, pacing, dialogue and chracterisation allowed me to see through this. The world is not so brilliantly drawn as other fantasy series. However, the focus on chracterisation more than makes up for it.
 
-#### The Obelisk Gate by N.K. Jemisin
+#### The Obelisk Gate (The Broken Earth 2) by N.K. Jemisin
 
 ⭐️⭐️⭐️⭐️
 
@@ -505,25 +505,25 @@ The role of May is interesting. The torture of Toru by leaving him down the well
 
 I enjoyed the book, never knowing which way the plot would go and what was real and what was not. In some ways it reminded me of Shutter Island by Dennis Lehane.
 
-#### The Stone Sky by by N.K. Jemisin
+#### The Stone Sky (The Broken Earth 3) by N.K. Jemisin
 
 ⭐️⭐️⭐️
 
 This was a good end to the series. The confrontation between Essun and Nassun felt inevitable (from the first book really) but I found the redemptive ark of Schaffa fullfilling. I came to enjoy the first person narrative and the voice of Hoa. I found the exploration of the nature of freedom, free will and nature of life well drawn. I felt that the death of Jija did not have the emotional impact that I was expecting. I suspect this is because Jemisin did not draw out the inner conflict that must have been present in Jija enough, and given the perspective of Hoa as narrator this was probably not easy to do. Stone Sky felt like a fitting finale to a very enjoyable series. The centrality of female characters, the treastment of minorities and relationships, consent and love all beautifuly drawn. The narrative felt free of judgement. But the supporting cast of characters outside of Nassun and Essun did feel a little flat.
 
-#### She Who Became the Sun by Shelley Parker-Chan
+#### She Who Became the Sun (The Radiant Emperor 1) by Shelley Parker-Chan
 
 ⭐️
 
 This was an enjoyable read though I found the genre mix-up a little confusing. I liked the historical fiction and delving into the world of 14th century China. The swapping of genders of the main protagonist was interesting and made the novel an intersting study on identify and reality. I found the "magic" elements a bit too much for a novel that is rooted so clearly in history. The "manadate of heaven" magic tipped this novel slightly further into fantasy terratory. In terms of style I found it easily readable and well paced. The imagry was strong and the emotional depth of the key protagonists was well drawn. I also liked the moral ambiguity of all the characters we grow to love. All are guilty of ruthlessness to achieve their ends using destiny as an inescapble trap to do terrible things.
 
-#### The Dreaming Void by Peter F Hamilton
+#### The Dreaming Void (Void Trilogy 1) by Peter F Hamilton
 
 ⭐️⭐️⭐️
 
 Highly enjoyable space opera that cobines SciFi with Fantasy. The books are fast paced and highly exciting. I found myself looking forward to the Edeard sections a great deal. The similarities with humanity in this later Commonwealth are similar to the "Culture Series". With extensive body modifications forcefields etc. In some ways the technology is so advanced it falls into the background and it becomes about politics and the struggle of individual humans to live their lives. I like this. It makes this far flung future feel more real.
 
-#### The Temporal Void by Peter F Hamilton
+#### The Temporal Void (Void Trilogy 2) by Peter F Hamilton
 
 ⭐️⭐️⭐️
 
@@ -545,7 +545,7 @@ I loved the vivid and beautiful descriptions, the world of the Abbey would beaut
 
 The quotations in Latin. As all the characters in the book would have spoken to each other in Latin, the quotations in Latin which were often not translated were frustrating. It felt like an act of intelectual snobbery by Eco. While it was often possible to infer the meaning of the quotes from context this was not always possible. While not understanding them did not mean that I could not follow the story I felt excluded from a complete understanding of the characters and their lives.
 
-#### The evolutionary void by Peter F Hamilton
+#### The evolutionary void (Void Trilogy 3) by Peter F Hamilton
 
 ⭐️⭐️⭐️
 
@@ -562,7 +562,7 @@ This is only the fourth autobiography I have read (John Simpson, Malcolm X, John
 
 ### April 2025
 
-#### Gardens Of The Moon by Steven Erikson
+#### Gardens Of The Moon (Malazan Book of the Fallen 1) by Steven Erikson
 
 ⭐️ ⭐️ ⭐️
 
@@ -589,13 +589,13 @@ The visual imagery was also well done. I felt and smelt the world around me buil
 
 Though this was a very short novel the scope was impressive. The scale of the plot and pace packed into a short 200 odd pages made the novel feel longer than it was. Not that it was too long, just I finished this novel feeling I had had a long journey that I was reluctant to finish.
 
-#### Revelation space by Alastair Reynolds
+#### Revelation space (Revelation Space 1) by Alastair Reynolds
 
 ⭐️⭐️⭐️
 
 A solid space opera that at times feels vast but zooms down into the psychology and motivations of a few key players. I felt the world could have been more fully drawn and the nature of the different political groups / human sects more fully. The pacing was good. It kept me turning the pages and I found it easy to imagine e the characters. Will return to read the rest of the series.
 
-#### Tai-Pan by James Clavell
+#### Tai-Pan (Asian Saga 2) by James Clavell
 
 ⭐️⭐️⭐️⭐️
 
@@ -605,13 +605,13 @@ Yet again Clavell is fascinated by the differences in western and Asian thought 
 
 ### May 2025
 
-#### Redemption Ark by Alastair Reynolds
+#### Redemption Ark (Revelation Space 2) by Alastair Reynolds
 
 ⭐️⭐️⭐️
 
 This was most certainly a middle novel. The plot was structured in the classic three part structure with the end and the climax thrilling. The nature of the treat to humanity and life in general set against the petty lives and concerns of politics were well drawn. Unfortunately I forgot to write my review of this novel directly after reading so my insights are somewhat diminished. However a thoroughly enjoyable read and I will be going back to finish the series. Hopefully my thoughts on that book will be more in depth.
 
-#### Deadhouse Gates by Steven Erikson
+#### Deadhouse Gates (Malazan Book of the Fallen 2) by Steven Erikson
 
 ⭐️⭐️⭐️⭐️
 
@@ -623,7 +623,7 @@ I felt the pacing was well done, at each point I wanted to know what happened ne
 
 ### June 2025
 
-#### Absolution Gap by Alastair Reynolds
+#### Absolution Gap (Revelation Space 3) by Alastair Reynolds
 
 ⭐️⭐️⭐️
 
@@ -633,13 +633,13 @@ Character work is stronger than in the earlier volumes. “Pig” Scorpio’s ar
 
 Is it great literature? Probably not. The prose can be functional and the plot occasionally overstuffed. But as immersive, idea-rich space opera it kept me racing through pages, delighted by the constant toggling between cosmic stakes and needle-point human dilemmas. I’ll happily sign up for another Reynolds voyage.
 
-#### Memories of ice by Steven Erickson
+#### Memories of ice (Malazan Book of the Fallen 3) by Steven Erickson
 
 ⭐️⭐️⭐️⭐️
 
 I can see why people are so passionate about the Malian book of the fallen. The world building is exquisite. Each place felt real. I could smell the air feel the texture of the grass the feel of the city or field. The strength of humanity and our capacity for compassion and possibility of redemption were the key themes. The book is long - over 1000 pages yet I felt the pace was well done. The shifting perspectives and plot lines kept me intrigued and turning the next page.
 
-#### A memory called empire by Arkady Martine
+#### A memory called empire (Teixcalaan 1) by Arkady Martine
 
 ⭐️⭐️⭐️⭐️
 
@@ -647,7 +647,7 @@ Beautifully written and vivid. The world of Teixcalaanli was beautifully rendere
 
 ### July 2025
 
-#### House of chains by Steven Erikson
+#### House of chains (Malazan Book of the Fallen 4) by Steven Erikson
 
 ⭐️⭐️⭐️
 
@@ -676,7 +676,7 @@ The sympathetic Iraqi driver/security guard, Farris, is drawn with warmth — bu
 
 Fundamentally left me more uncertain than satisfied — but perhaps that’s part of the point. It opens up important questions about identity, satire, and complicity that linger well beyond the final page.
 
-#### Midnight Tides by Steven Erikson
+#### Midnight Tides (Malazan Book of the Fallen 5) by Steven Erikson
 
 ⭐⭐⭐⭐
 
@@ -694,7 +694,7 @@ Midnight Tides may have begun as the outlier in the series, but by the end, it e
 
 ### August 2025
 
-#### A Desolation Called Peace by Arkady Martine  
+#### A Desolation Called Peace (Teixcalaan 2) by Arkady Martine  
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -708,7 +708,7 @@ The Teixcalaanli world itself leans into the poetic, refined, and graceful — q
 
 This emphasis makes sense from an author writing from a feminist — possibly queer-feminist — point of view. The pacing was excellent. The shifts between The Jewel of the World, Lsel Station, and the fleet kept the tension high and the pages turning. A colourful book, rich in intrigue and adventure. Thoroughly enjoyed.
 
-#### The Bonehunters – Steven Erikson  
+#### The Bonehunters (Malazan Book of the Fallen 6) by Steven Erikson
 
 ⭐⭐⭐⭐
 > Admired more than I loved. The story didn’t grip me quite as tightly as other Malazan entries, but the moral complexity, thematic richness, and depth of character development made this one of the most intellectually satisfying in the series so far.
@@ -779,7 +779,7 @@ The pacing was excellent, reading as much like a thriller as science fiction. Th
 
 Ready Player One was far more than just a nostalgia-fuelled adventure. It blended the energy of a treasure hunt with sharp social commentary, weaving in themes of isolation, surveillance, and systemic injustice without losing its momentum. I came away impressed by how well it balanced excitement with depth.
 
-#### Reapers Gate by Steven Erikson
+#### Reapers Gate (Malazan Book of the Fallen 7) by Steven Erikson
 
 ⭐️⭐️⭐️⭐️
 
@@ -814,7 +814,7 @@ What I admired most was that Yuzuki resists the fairy-tale neatness of something
 
 Butter left me with the sense that hope is fragile but possible — that liberation comes not from grand gestures, but from daring to live your own life, and welcoming support from those who love you for who you are.
 
-#### All Systems Red: The Murderbot Diaries by Martha Wells
+#### All Systems Red: The Murderbot Diaries (The Murderbot Diaries 1) by Martha Wells
 
 ⭐️⭐️⭐️⭐️
 
@@ -830,7 +830,7 @@ Structurally, the book felt more like a “very long short story” than a short
 
 ### October 2025
 
-#### Toll the Hounds by Steven Erikson
+#### Toll the Hounds (Malazan Book of the Fallen 8) by Steven Erikson
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -901,7 +901,7 @@ The foreshadowing of the Marble Fleet’s mysterious “Enemy” adds depth and 
 
 _Embers of War_ may not reach the moral and philosophical heights of the _Culture_ series, but it captures something of its spirit: a fascination with conscience, choice, and the possibility of redemption in the vast, cold arena of space.
 
-#### Artificial Condition: The Murderbot Diaries by Martha Wells
+#### Artificial Condition: The Murderbot Diaries (The Murderbot Diaries 2) by Martha Wells
 
 ⭐️⭐️⭐️
 
@@ -942,7 +942,7 @@ I'm not sure, yet, that there is a clear moral theme to the story. There is a di
 
 In summary I found the novel formulaic with little emotional resonance. But very enjoyable to read. Who doesn't love a space adventure? I great read for the beach.
 
-#### Rogue Protocol: The Murderbot Diaries by Martha Wells
+#### Rogue Protocol: The Murderbot Diaries (The Murderbot Diaries 3) by Martha Wells
 
 ⭐️⭐️⭐️
 Finished: 2025-11-19
@@ -963,7 +963,7 @@ Absolutely — here is a **polished, final review** of _Shadows Upon Time_, writ
 
 ---
 
-#### **Shadows Upon Time — Christopher Ruocchio**
+#### Shadows Upon Time (The Sun Eater 7) by Christopher Ruocchio
 
 ⭐️⭐️⭐️⭐️  
 Finished: 30 November 2025
@@ -1011,7 +1011,7 @@ _Shadows Upon Time_ is not a perfect ending, but it is a bold one — and the Su
 
 ### December 2025
 
-#### Dust of Dreams by Steven Erikson
+#### Dust of Dreams (Malazan Book of the Fallen 9) by Steven Erikson
 
 ⭐️⭐️⭐️
 Started: 2025-12-01
@@ -1128,7 +1128,7 @@ This sudden ending is why I gave four stars rather than five. The ending between
 
 ### January 2026
 
-#### The Crippled God by Steven Erikson  
+#### The Crippled God (Malazan Book of the Fallen 10) by Steven Erikson  
 
 ⭐️⭐️⭐️⭐️⭐️  
 **Started:** 2026-01-05  
