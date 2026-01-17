@@ -1,15 +1,44 @@
 openapi: 3.1.1
 info:
   title: Reading Diary Source
-  description: Fetches the live Markdown reading diary from GitHub raw.
-  version: "1.0"
+  description: Fetches diary index metadata and year chunks from GitHub raw.
+  version: "1.1"
 servers:
   - url: https://raw.githubusercontent.com
 paths:
+  /robert-rollings/reading_diary/main/diary/index.json:
+    get:
+      operationId: getDiaryIndex
+      summary: Get the diary metadata index
+      responses:
+        "200":
+          description: JSON metadata index
+          content:
+            application/json:
+              schema:
+                type: object
+  /robert-rollings/reading_diary/main/diary/years/{year}.md:
+    get:
+      operationId: getDiaryYear
+      summary: Get a single year chunk of the diary
+      parameters:
+        - in: path
+          name: year
+          required: true
+          schema:
+            type: string
+          description: Four-digit year, e.g. 2025
+      responses:
+        "200":
+          description: Markdown content for the year
+          content:
+            text/plain:
+              schema:
+                type: string
   /robert-rollings/reading_diary/main/Reading_diary.md:
     get:
-      operationId: getReadingDiary
-      summary: Get the live reading diary markdown
+      operationId: getReadingDiaryFull
+      summary: Get the full reading diary markdown (debugging only)
       responses:
         "200":
           description: Markdown content
