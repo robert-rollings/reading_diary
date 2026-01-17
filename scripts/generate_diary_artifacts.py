@@ -30,6 +30,7 @@ MONTHS = {
 }
 
 FINISHED_RE = re.compile(r"finished\s*:\s*(.+)", re.IGNORECASE)
+STARTED_RE = re.compile(r"started\s*:\s*(.+)", re.IGNORECASE)
 TAG_RE = re.compile(r"(?<!\w)#([A-Za-z0-9_-]+)")
 YEAR_RE = re.compile(r"^##\s+(\d{4})\s*$")
 MONTH_RE = re.compile(r"^###\s+(.+)$")
@@ -202,6 +203,14 @@ def extract_finished(lines: list[str]) -> str | None:
     return None
 
 
+def extract_started(lines: list[str]) -> str | None:
+    for line in lines:
+        match = STARTED_RE.search(line)
+        if match:
+            return parse_date(match.group(1))
+    return None
+
+
 def make_entry_id(title: str, author: str | None, year: int, month_num: int | None) -> str:
     month_val = month_num or 0
     base = f"{title or ''}|{author or ''}|{year}|{month_val}"
@@ -271,6 +280,7 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
         rating = extract_rating(entry_lines[1:])
         tags = extract_tags(entry_lines[1:])
         finished = extract_finished(entry_lines[1:])
+        started = extract_started(entry_lines[1:])
         series_name, series_number = extract_series_metadata(entry_lines[1:])
         if not series_name:
             series_name = current_entry.get("series_name")
@@ -284,6 +294,7 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
             "month": current_entry["month_num"],
             "monthName": current_entry["month_name"],
             "dateFinished": finished,
+            "statDate": started,
             "ratingStars": rating,
             "source": {
                 "file": f"years/{current_entry['year']}.md",
