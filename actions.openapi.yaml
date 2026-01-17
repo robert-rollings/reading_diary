@@ -1,0 +1,19 @@
+openapi: 3.1.1
+info:
+  title: Reading Diary Source
+  description: Fetches the live Markdown reading diary from GitHub raw.
+  version: "1.0"
+servers:
+  - url: https://raw.githubusercontent.com
+paths:
+  /robert-rollings/reading_diary/main/Reading_diary.md:
+    get:
+      operationId: getReadingDiary
+      summary: Get the live reading diary markdown
+      responses:
+        "200":
+          description: Markdown content
+          content:
+            text/plain:
+              schema:
+                type: string
