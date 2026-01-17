@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,6 +30,7 @@ jobs:
         run: python3 scripts/generate_diary_artifacts.py
 
       - name: Commit generated files
+        shell: bash
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name "github-actions[bot]"
