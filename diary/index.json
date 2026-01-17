@@ -85,7 +85,7 @@
         "anchor": "entry-2024-02-hyperion-cantos-book-1-5cd68fbc",
         "file": "years/2024.md"
       },
-      "title": "Hyperion Cantos",
+      "title": "Hyperion Cantos Book 1",
       "year": 2024
     },
     {
@@ -1592,10 +1592,24 @@
       },
       "title": "The Crippled God",
       "year": 2026
+    },
+    {
+      "author": "Gareth L. Powell",
+      "dateFinished": null,
+      "id": "2026-01-the-light-of-impossibel-stras-1917e2b4",
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 3,
+      "source": {
+        "anchor": "entry-2026-01-the-light-of-impossibel-stras-1917e2b4",
+        "file": "years/2026.md"
+      },
+      "title": "The Light of Impossibel Stras",
+      "year": 2026
     }
   ],
   "meta": {
-    "entryCount": 106,
+    "entryCount": 107,
     "source": "Reading_diary.md",
     "years": [
       2024,
