@@ -7,10 +7,6 @@
       "month": 1,
       "monthName": "January",
       "ratingStars": 5,
-      "series": {
-        "name": "Cemetery of Forgotten Books",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2024-01-the-angel-s-game-8dfbdd13",
         "file": "years/2024.md"
@@ -89,7 +85,7 @@
         "anchor": "entry-2024-02-hyperion-cantos-book-1-5cd68fbc",
         "file": "years/2024.md"
       },
-      "title": "Hyperion Cantos Book 1",
+      "title": "Hyperion Cantos",
       "year": 2024
     },
     {
@@ -99,10 +95,6 @@
       "month": 3,
       "monthName": "March",
       "ratingStars": 5,
-      "series": {
-        "name": "Leo Demidov Trilogy",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-03-child-44-ca2bfddc",
         "file": "years/2024.md"
@@ -149,9 +141,6 @@
       "month": 4,
       "monthName": "April",
       "ratingStars": 5,
-      "series": {
-        "name": "Culture Series"
-      },
       "source": {
         "anchor": "entry-2024-04-surface-detail-fdba91b9",
         "file": "years/2024.md"
@@ -166,10 +155,6 @@
       "month": 4,
       "monthName": "April",
       "ratingStars": 4,
-      "series": {
-        "name": "Leo Demidov Trilogy",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2024-04-the-secret-speech-3c91a343",
         "file": "years/2024.md"
@@ -239,7 +224,7 @@
       "monthName": "May",
       "ratingStars": 5,
       "series": {
-        "name": "The Sun Eater",
+        "name": "Sun Eater",
         "number": 2
       },
       "source": {
@@ -293,7 +278,7 @@
       "monthName": "June",
       "ratingStars": 4,
       "series": {
-        "name": "The Sun Eater",
+        "name": "Sun Eater",
         "number": 3
       },
       "source": {
@@ -329,7 +314,7 @@
       "monthName": "July",
       "ratingStars": 5,
       "series": {
-        "name": "The Sun Eater",
+        "name": "Sun Eater",
         "number": 4
       },
       "source": {
@@ -346,10 +331,6 @@
       "month": 7,
       "monthName": "July",
       "ratingStars": 5,
-      "series": {
-        "name": "Asian Saga",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2024-07-shogun-0335aa8f",
         "file": "years/2024.md"
@@ -383,7 +364,7 @@
       "monthName": "July",
       "ratingStars": 5,
       "series": {
-        "name": "The Sun Eater",
+        "name": "Sun Eater",
         "number": 5
       },
       "source": {
@@ -400,10 +381,6 @@
       "month": 8,
       "monthName": "August",
       "ratingStars": 4,
-      "series": {
-        "name": "Shardlake series",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-08-dissolution-f3a8f98f",
         "file": "years/2024.md"
@@ -418,10 +395,6 @@
       "month": 8,
       "monthName": "August",
       "ratingStars": 3,
-      "series": {
-        "name": "Red Rising Saga",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-08-red-rising-8b86458a",
         "file": "years/2024.md"
@@ -436,10 +409,6 @@
       "month": 8,
       "monthName": "August",
       "ratingStars": 4,
-      "series": {
-        "name": "Red Rising Saga",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2024-08-golden-son-ba1b7450",
         "file": "years/2024.md"
@@ -454,10 +423,6 @@
       "month": 8,
       "monthName": "August",
       "ratingStars": 3,
-      "series": {
-        "name": "Shardlake series",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2024-08-dark-fire-24273cc7",
         "file": "years/2024.md"
@@ -472,10 +437,6 @@
       "month": 8,
       "monthName": "August",
       "ratingStars": 4,
-      "series": {
-        "name": "Red Rising Saga",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2024-08-morning-star-856031fd",
         "file": "years/2024.md"
@@ -490,10 +451,6 @@
       "month": 8,
       "monthName": "August",
       "ratingStars": 3,
-      "series": {
-        "name": "Cemetery of Forgotten Books",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2024-08-the-prisoner-of-heaven-b026d49d",
         "file": "years/2024.md"
@@ -519,16 +476,12 @@
       "year": 2024
     },
     {
-      "author": "John Gwynne",
+      "author": "John Gwynne (The Faithful & The Fallen 1)",
       "dateFinished": null,
       "id": "2024-09-malice-ffa2ccb6",
       "month": 9,
       "monthName": "September",
       "ratingStars": 4,
-      "series": {
-        "name": "The Faithful and the Fallen",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-09-malice-ffa2ccb6",
         "file": "years/2024.md"
@@ -579,7 +532,7 @@
       "monthName": "September",
       "ratingStars": 4,
       "series": {
-        "name": "The Faithful and the Fallen",
+        "name": "The Faithful And The Fallen",
         "number": 2
       },
       "source": {
@@ -622,16 +575,12 @@
       "year": 2024
     },
     {
-      "author": "John Gwynne",
+      "author": "John Gwynne (The Faithful & The Fallen 3)",
       "dateFinished": null,
       "id": "2024-10-ruin-2d7f4e14",
       "month": 10,
       "monthName": "October",
       "ratingStars": 3,
-      "series": {
-        "name": "The Faithful and the Fallen",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2024-10-ruin-2d7f4e14",
         "file": "years/2024.md"
@@ -647,7 +596,7 @@
       "monthName": "October",
       "ratingStars": 3,
       "series": {
-        "name": "The Sun Eater",
+        "name": "Sun Eater",
         "number": 6
       },
       "source": {
@@ -690,16 +639,12 @@
       "year": 2024
     },
     {
-      "author": "John Gwynne",
+      "author": "John Gwynne (Faithful and the fallen 4)",
       "dateFinished": null,
       "id": "2024-10-wrath-cd73d7be",
       "month": 10,
       "monthName": "October",
       "ratingStars": 3,
-      "series": {
-        "name": "The Faithful and the Fallen",
-        "number": 4
-      },
       "source": {
         "anchor": "entry-2024-10-wrath-cd73d7be",
         "file": "years/2024.md"
@@ -749,10 +694,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 0,
-      "series": {
-        "name": "Prince of Nothing",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-11-the-darkness-that-comes-before-16b31275",
         "file": "years/2024.md"
@@ -767,10 +708,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 3,
-      "series": {
-        "name": "Wax and Wayne",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-11-the-alloy-of-law-cf014ad6",
         "file": "years/2024.md"
@@ -785,10 +722,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 5,
-      "series": {
-        "name": "Ender Saga",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-11-enders-game-3b5c8a09",
         "file": "years/2024.md"
@@ -803,10 +736,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 4,
-      "series": {
-        "name": "The Broken Empire",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-11-prince-of-thorns-1d6ba5bd",
         "file": "years/2024.md"
@@ -821,10 +750,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 3,
-      "series": {
-        "name": "Wax and Wayne",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2024-11-shadows-of-self-3c39393b",
         "file": "years/2024.md"
@@ -839,10 +764,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 4,
-      "series": {
-        "name": "Commonwealth Saga",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-11-pandoras-star-e4b98ed5",
         "file": "years/2024.md"
@@ -857,10 +778,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 3,
-      "series": {
-        "name": "Commonwealth Saga",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2024-11-judas-unchained-d022d4b4",
         "file": "years/2024.md"
@@ -875,10 +792,6 @@
       "month": 12,
       "monthName": "December",
       "ratingStars": 3,
-      "series": {
-        "name": "Ender Saga",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2024-12-speaker-for-the-dead-a0666c4f",
         "file": "years/2024.md"
@@ -893,9 +806,6 @@
       "month": 12,
       "monthName": "December",
       "ratingStars": 3,
-      "series": {
-        "name": "Stormlight Archive"
-      },
       "source": {
         "anchor": "entry-2024-12-edge-dancer-7ef53461",
         "file": "years/2024.md"
@@ -910,9 +820,6 @@
       "month": 12,
       "monthName": "December",
       "ratingStars": 4,
-      "series": {
-        "name": "Stormlight Archive"
-      },
       "source": {
         "anchor": "entry-2024-12-dawnshard-5ef8395a",
         "file": "years/2024.md"
@@ -927,10 +834,6 @@
       "month": 12,
       "monthName": "December",
       "ratingStars": 2,
-      "series": {
-        "name": "Stormlight Archive",
-        "number": 5
-      },
       "source": {
         "anchor": "entry-2024-12-wind-and-truth-a79eda31",
         "file": "years/2024.md"
@@ -945,10 +848,6 @@
       "month": 12,
       "monthName": "December",
       "ratingStars": 5,
-      "series": {
-        "name": "Hyperion Cantos",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2024-12-endymion-3362a277",
         "file": "years/2024.md"
@@ -963,10 +862,6 @@
       "month": 12,
       "monthName": "December",
       "ratingStars": 4,
-      "series": {
-        "name": "The First Law",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2024-12-the-blade-itself-77cdf688",
         "file": "years/2024.md"
@@ -981,10 +876,6 @@
       "month": 12,
       "monthName": "December",
       "ratingStars": 5,
-      "series": {
-        "name": "Hyperion Cantos",
-        "number": 4
-      },
       "source": {
         "anchor": "entry-2024-12-the-rise-of-endymion-b8a4941f",
         "file": "years/2024.md"
@@ -999,10 +890,6 @@
       "month": 12,
       "monthName": "December",
       "ratingStars": 4,
-      "series": {
-        "name": "The First Law",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2024-12-before-they-are-hanged-ea9431c2",
         "file": "years/2024.md"
@@ -1034,10 +921,6 @@
       "month": 1,
       "monthName": "January",
       "ratingStars": 4,
-      "series": {
-        "name": "The First Law",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2025-01-last-argument-of-kings-8abc601c",
         "file": "years/2025.md"
@@ -1052,10 +935,6 @@
       "month": 1,
       "monthName": "January",
       "ratingStars": 4,
-      "series": {
-        "name": "Ender Saga",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2025-01-xenocide-c3e99adf",
         "file": "years/2025.md"
@@ -1070,10 +949,6 @@
       "month": 1,
       "monthName": "January",
       "ratingStars": 3,
-      "series": {
-        "name": "Wax and Wayne",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2025-01-bands-of-mourning-27b7cae6",
         "file": "years/2025.md"
@@ -1088,10 +963,6 @@
       "month": 1,
       "monthName": "January",
       "ratingStars": 3,
-      "series": {
-        "name": "Ender Saga",
-        "number": 4
-      },
       "source": {
         "anchor": "entry-2025-01-the-children-of-the-mind-3a3a0a2a",
         "file": "years/2025.md"
@@ -1120,10 +991,6 @@
       "month": 1,
       "monthName": "January",
       "ratingStars": 1,
-      "series": {
-        "name": "Ender Saga",
-        "number": 6
-      },
       "source": {
         "anchor": "entry-2025-01-ender-in-exile-02db5b3d",
         "file": "years/2025.md"
@@ -1152,10 +1019,6 @@
       "month": 1,
       "monthName": "January",
       "ratingStars": 4,
-      "series": {
-        "name": "The Broken Earth",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2025-01-the-fifth-season-03e6814c",
         "file": "years/2025.md"
@@ -1170,10 +1033,6 @@
       "month": 1,
       "monthName": "January",
       "ratingStars": 4,
-      "series": {
-        "name": "The Broken Earth",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2025-01-the-obelisk-gate-5ae83ef7",
         "file": "years/2025.md"
@@ -1205,10 +1064,6 @@
       "month": 2,
       "monthName": "February",
       "ratingStars": 3,
-      "series": {
-        "name": "The Broken Earth",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2025-02-the-stone-sky-de88bfe4",
         "file": "years/2025.md"
@@ -1223,10 +1078,6 @@
       "month": 2,
       "monthName": "February",
       "ratingStars": 1,
-      "series": {
-        "name": "The Radiant Emperor",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2025-02-she-who-became-the-sun-b158237c",
         "file": "years/2025.md"
@@ -1241,10 +1092,6 @@
       "month": 2,
       "monthName": "February",
       "ratingStars": 3,
-      "series": {
-        "name": "Void Trilogy",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2025-02-the-dreaming-void-bc4f1343",
         "file": "years/2025.md"
@@ -1259,10 +1106,6 @@
       "month": 2,
       "monthName": "February",
       "ratingStars": 3,
-      "series": {
-        "name": "Void Trilogy",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2025-02-the-temporal-void-d100da9b",
         "file": "years/2025.md"
@@ -1291,10 +1134,6 @@
       "month": 3,
       "monthName": "March",
       "ratingStars": 3,
-      "series": {
-        "name": "Void Trilogy",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2025-03-the-evolutionary-void-62a8aaf3",
         "file": "years/2025.md"
@@ -1326,10 +1165,6 @@
       "month": 4,
       "monthName": "April",
       "ratingStars": 3,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2025-04-gardens-of-the-moon-a731a266",
         "file": "years/2025.md"
@@ -1361,9 +1196,6 @@
       "month": 4,
       "monthName": "April",
       "ratingStars": 3,
-      "series": {
-        "name": "Revelation Space"
-      },
       "source": {
         "anchor": "entry-2025-04-revelation-space-bef8a7c4",
         "file": "years/2025.md"
@@ -1378,10 +1210,6 @@
       "month": 4,
       "monthName": "April",
       "ratingStars": 4,
-      "series": {
-        "name": "Asian Saga",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2025-04-tai-pan-8b4d0490",
         "file": "years/2025.md"
@@ -1396,9 +1224,6 @@
       "month": 5,
       "monthName": "May",
       "ratingStars": 3,
-      "series": {
-        "name": "Revelation Space"
-      },
       "source": {
         "anchor": "entry-2025-05-redemption-ark-a686b09c",
         "file": "years/2025.md"
@@ -1413,10 +1238,6 @@
       "month": 5,
       "monthName": "May",
       "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2025-05-deadhouse-gates-26af8ff9",
         "file": "years/2025.md"
@@ -1431,9 +1252,6 @@
       "month": 6,
       "monthName": "June",
       "ratingStars": 3,
-      "series": {
-        "name": "Revelation Space"
-      },
       "source": {
         "anchor": "entry-2025-06-absolution-gap-5bfc18fb",
         "file": "years/2025.md"
@@ -1448,10 +1266,6 @@
       "month": 6,
       "monthName": "June",
       "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2025-06-memories-of-ice-ed63a8bb",
         "file": "years/2025.md"
@@ -1466,10 +1280,6 @@
       "month": 6,
       "monthName": "June",
       "ratingStars": 4,
-      "series": {
-        "name": "Teixcalaan",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2025-06-a-memory-called-empire-130151fc",
         "file": "years/2025.md"
@@ -1484,10 +1294,6 @@
       "month": 7,
       "monthName": "July",
       "ratingStars": 3,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 4
-      },
       "source": {
         "anchor": "entry-2025-07-house-of-chains-38a24a4d",
         "file": "years/2025.md"
@@ -1519,10 +1325,6 @@
       "month": 7,
       "monthName": "July",
       "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 5
-      },
       "source": {
         "anchor": "entry-2025-07-midnight-tides-b4569017",
         "file": "years/2025.md"
@@ -1537,10 +1339,6 @@
       "month": 8,
       "monthName": "August",
       "ratingStars": 5,
-      "series": {
-        "name": "Teixcalaan",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2025-08-a-desolation-called-peace-8d600343",
         "file": "years/2025.md"
@@ -1555,10 +1353,6 @@
       "month": 8,
       "monthName": "August",
       "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 6
-      },
       "source": {
         "anchor": "entry-2025-08-the-bonehunters-775a9209",
         "file": "years/2025.md"
@@ -1587,10 +1381,6 @@
       "month": 8,
       "monthName": "August",
       "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 7
-      },
       "source": {
         "anchor": "entry-2025-08-reapers-gate-5fdad835",
         "file": "years/2025.md"
@@ -1622,10 +1412,6 @@
       "month": 9,
       "monthName": "September",
       "ratingStars": 4,
-      "series": {
-        "name": "The Murderbot Diaries",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2025-09-all-systems-red-the-murderbot-diaries-cc899e96",
         "file": "years/2025.md"
@@ -1640,10 +1426,6 @@
       "month": 10,
       "monthName": "October",
       "ratingStars": 5,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 8
-      },
       "source": {
         "anchor": "entry-2025-10-toll-the-hounds-47b979be",
         "file": "years/2025.md"
@@ -1689,10 +1471,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 4,
-      "series": {
-        "name": "Embers of War",
-        "number": 1
-      },
       "source": {
         "anchor": "entry-2025-11-embers-of-war-9dc5f0a8",
         "file": "years/2025.md"
@@ -1707,10 +1485,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 3,
-      "series": {
-        "name": "The Murderbot Diaries",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2025-11-artificial-condition-the-murderbot-diaries-cc858b68",
         "file": "years/2025.md"
@@ -1725,10 +1499,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 3,
-      "series": {
-        "name": "Embers of War",
-        "number": 2
-      },
       "source": {
         "anchor": "entry-2025-11-fleet-of-knives-fff2c8fa",
         "file": "years/2025.md"
@@ -1743,10 +1513,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 3,
-      "series": {
-        "name": "The Murderbot Diaries",
-        "number": 3
-      },
       "source": {
         "anchor": "entry-2025-11-rogue-protocol-the-murderbot-diaries-9d391f00",
         "file": "years/2025.md"
@@ -1761,10 +1527,6 @@
       "month": 11,
       "monthName": "November",
       "ratingStars": 4,
-      "series": {
-        "name": "The Sun Eater",
-        "number": 7
-      },
       "source": {
         "anchor": "entry-2025-11-shadows-upon-time-5f7c501e",
         "file": "years/2025.md"
@@ -1779,10 +1541,6 @@
       "month": 12,
       "monthName": "December",
       "ratingStars": 3,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 9
-      },
       "source": {
         "anchor": "entry-2025-12-dust-of-dreams-c74981ec",
         "file": "years/2025.md"
@@ -1828,38 +1586,16 @@
       "month": 1,
       "monthName": "January",
       "ratingStars": 5,
-      "series": {
-        "name": "Malazan Book of the Fallen",
-        "number": 10
-      },
       "source": {
         "anchor": "entry-2026-01-the-crippled-god-cfc8b8a1",
         "file": "years/2026.md"
       },
       "title": "The Crippled God",
       "year": 2026
-    },
-    {
-      "author": "Gareth L. Powell",
-      "dateFinished": null,
-      "id": "2026-01-the-light-of-impossible-stars-f2975c63",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 3,
-      "series": {
-        "name": "Embers of War",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2026-01-the-light-of-impossible-stars-f2975c63",
-        "file": "years/2026.md"
-      },
-      "title": "The Light of Impossible Stars",
-      "year": 2026
     }
   ],
   "meta": {
-    "entryCount": 107,
+    "entryCount": 106,
     "source": "Reading_diary.md",
     "years": [
       2024,

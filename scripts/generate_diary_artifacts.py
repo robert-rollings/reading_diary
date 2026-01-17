@@ -34,6 +34,16 @@ TAG_RE = re.compile(r"(?<!\w)#([A-Za-z0-9_-]+)")
 YEAR_RE = re.compile(r"^##\s+(\d{4})\s*$")
 MONTH_RE = re.compile(r"^###\s+(.+)$")
 ENTRY_RE = re.compile(r"^####\s+")
+AUTHOR_SERIES_MAP = {
+    "ian m banks": "Culture Series",
+    "iain m banks": "Culture Series",
+    "iain banks": "Culture Series",
+}
+AUTHOR_TITLE_SERIES_MAP = {
+    ("gareth l. powell", "embers of war"): ("Embers of War", 1),
+    ("gareth l. powell", "fleet of knives"): ("Embers of War", 2),
+    ("gareth l. powell", "the light of impossible stars"): ("Embers of War", 3),
+}
 
 
 def strip_markdown(text: str) -> str:
@@ -281,6 +291,14 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
             flush_entry()
             title, author = parse_heading(line)
             series_name, series_number = extract_series_info(title)
+            if not series_name and author:
+                mapped = AUTHOR_SERIES_MAP.get(author.lower())
+                if mapped:
+                    series_name = mapped
+            if not series_name and author and title:
+                mapped = AUTHOR_TITLE_SERIES_MAP.get((author.lower(), title.lower()))
+                if mapped:
+                    series_name, series_number = mapped
             entry_id = make_entry_id(title, author, current_year, current_month_num)
             current_entry = {
                 "id": entry_id,
