@@ -34,6 +34,8 @@ TAG_RE = re.compile(r"(?<!\w)#([A-Za-z0-9_-]+)")
 YEAR_RE = re.compile(r"^##\s+(\d{4})\s*$")
 MONTH_RE = re.compile(r"^###\s+(.+)$")
 ENTRY_RE = re.compile(r"^####\s+")
+SERIES_RE = re.compile(r"^series\s*:\s*(.+)$", re.IGNORECASE)
+SERIES_NUMBER_RE = r"(\d+(?:\.\d+)?)"
 AUTHOR_SERIES_MAP = {
     "ian m banks": "Culture Series",
     "iain m banks": "Culture Series",
@@ -67,6 +69,10 @@ def normalize_series_name(name: str) -> str:
     return text
 
 
+def parse_series_number(value: str) -> int | float:
+    return float(value) if "." in value else int(value)
+
+
 def slugify(text: str, max_len: int = 50) -> str:
     text = strip_markdown(text)
     text = unicodedata.normalize("NFKD", text)
@@ -80,26 +86,45 @@ def slugify(text: str, max_len: int = 50) -> str:
     return text or "entry"
 
 
-def extract_series_info(title: str) -> tuple[str | None, int | None]:
+def extract_series_info(title: str) -> tuple[str | None, int | float | None]:
     clean = strip_markdown(title)
+
     for segment in re.findall(r"\(([^)]+)\)", clean):
         segment = segment.strip()
         if not segment:
             continue
-        match = re.match(r"^\s*book\s+(\d+)\s+of\s+(.+?)\s*$", segment, re.IGNORECASE)
+        match = re.match(rf"^\s*book\s+{SERIES_NUMBER_RE}\s+of\s+(.+?)\s*$", segment, re.IGNORECASE)
         if match:
-            return normalize_series_name(match.group(2)), int(match.group(1))
-        match = re.match(r"^\s*(.+?)\s+book\s+(\d+)\s*$", segment, re.IGNORECASE)
+            return normalize_series_name(match.group(2)), parse_series_number(match.group(1))
+        match = re.match(rf"^\s*(.+?)\s+book\s+{SERIES_NUMBER_RE}\s*$", segment, re.IGNORECASE)
         if match:
-            return normalize_series_name(match.group(1)), int(match.group(2))
-        match = re.match(r"^\s*(.+?)\s+(\d+)\s*$", segment)
+            return normalize_series_name(match.group(1)), parse_series_number(match.group(2))
+        match = re.match(rf"^\s*(.+?)\s+{SERIES_NUMBER_RE}\s*$", segment)
         if match:
-            return normalize_series_name(match.group(1)), int(match.group(2))
+            return normalize_series_name(match.group(1)), parse_series_number(match.group(2))
 
-    match = re.match(r"^\s*(.+?)\s+book\s+(\d+)\b", clean, re.IGNORECASE)
+    match = re.match(rf"^\s*(.+?)\s+book\s+{SERIES_NUMBER_RE}\b", clean, re.IGNORECASE)
     if match:
-        return normalize_series_name(match.group(1)), int(match.group(2))
+        return normalize_series_name(match.group(1)), parse_series_number(match.group(2))
 
+    return None, None
+
+
+def extract_series_metadata(lines: list[str]) -> tuple[str | None, int | float | None]:
+    for line in lines:
+        match = SERIES_RE.match(strip_markdown(line))
+        if not match:
+            continue
+        value = match.group(1).strip()
+        if not value:
+            continue
+        number_match = re.match(rf"^(.+?)\s+#?{SERIES_NUMBER_RE}\s*$", value)
+        if number_match:
+            return (
+                normalize_series_name(number_match.group(1)),
+                parse_series_number(number_match.group(2)),
+            )
+        return normalize_series_name(value), None
     return None, None
 
 
@@ -246,6 +271,10 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
         rating = extract_rating(entry_lines[1:])
         tags = extract_tags(entry_lines[1:])
         finished = extract_finished(entry_lines[1:])
+        series_name, series_number = extract_series_metadata(entry_lines[1:])
+        if not series_name:
+            series_name = current_entry.get("series_name")
+            series_number = current_entry.get("series_number")
 
         entry = {
             "id": current_entry["id"],
@@ -261,10 +290,10 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
                 "anchor": f"entry-{current_entry['id']}",
             },
         }
-        if current_entry.get("series_name"):
-            series_obj = {"name": current_entry["series_name"]}
-            if current_entry.get("series_number") is not None:
-                series_obj["number"] = current_entry["series_number"]
+        if series_name:
+            series_obj = {"name": series_name}
+            if series_number is not None:
+                series_obj["number"] = series_number
             entry["series"] = series_obj
         if tags:
             entry["tags"] = tags

@@ -8,7 +8,7 @@
       "monthName": "January",
       "ratingStars": 5,
       "series": {
-        "name": "Cemetery of Forgotten Books",
+        "name": "Cemetery Of Forgotten Books",
         "number": 2
       },
       "source": {
@@ -180,7 +180,7 @@
     {
       "author": "Stephen King",
       "dateFinished": null,
-      "id": "2024-04-the-gun-slinger-book-1-of-the-dark-tower-7d66c66b",
+      "id": "2024-04-the-gun-slinger-403c0d55",
       "month": 4,
       "monthName": "April",
       "ratingStars": 4,
@@ -189,16 +189,16 @@
         "number": 1
       },
       "source": {
-        "anchor": "entry-2024-04-the-gun-slinger-book-1-of-the-dark-tower-7d66c66b",
+        "anchor": "entry-2024-04-the-gun-slinger-403c0d55",
         "file": "years/2024.md"
       },
-      "title": "The Gun Slinger (book 1 of the Dark Tower)",
+      "title": "The Gun Slinger",
       "year": 2024
     },
     {
       "author": "Christopher Ruocchio",
       "dateFinished": null,
-      "id": "2024-04-empire-of-silence-the-sun-eater-1-0ec2649b",
+      "id": "2024-04-empire-of-silence-1748ca2a",
       "month": 4,
       "monthName": "April",
       "ratingStars": 4,
@@ -207,16 +207,16 @@
         "number": 1
       },
       "source": {
-        "anchor": "entry-2024-04-empire-of-silence-the-sun-eater-1-0ec2649b",
+        "anchor": "entry-2024-04-empire-of-silence-1748ca2a",
         "file": "years/2024.md"
       },
-      "title": "Empire of Silence (The Sun Eater 1)",
+      "title": "Empire of Silence",
       "year": 2024
     },
     {
       "author": "Stephen King",
       "dateFinished": null,
-      "id": "2024-04-the-drawing-of-the-three-the-dark-tower-2-e6200cbb",
+      "id": "2024-04-the-drawing-of-the-three-6c9e0551",
       "month": 4,
       "monthName": "April",
       "ratingStars": 2,
@@ -225,16 +225,16 @@
         "number": 2
       },
       "source": {
-        "anchor": "entry-2024-04-the-drawing-of-the-three-the-dark-tower-2-e6200cbb",
+        "anchor": "entry-2024-04-the-drawing-of-the-three-6c9e0551",
         "file": "years/2024.md"
       },
-      "title": "The drawing of the three (The dark tower 2)",
+      "title": "The drawing of the three",
       "year": 2024
     },
     {
       "author": "Christopher Ruocchio",
       "dateFinished": null,
-      "id": "2024-05-howling-dark-sun-eater-2-2ec1830d",
+      "id": "2024-05-howling-dark-4fedf301",
       "month": 5,
       "monthName": "May",
       "ratingStars": 5,
@@ -243,16 +243,16 @@
         "number": 2
       },
       "source": {
-        "anchor": "entry-2024-05-howling-dark-sun-eater-2-2ec1830d",
+        "anchor": "entry-2024-05-howling-dark-4fedf301",
         "file": "years/2024.md"
       },
-      "title": "Howling Dark (Sun Eater 2)",
+      "title": "Howling Dark",
       "year": 2024
     },
     {
       "author": "Brandon Sanderson",
       "dateFinished": null,
-      "id": "2024-06-the-way-of-kings-stormlight-archive-1-58ffc19d",
+      "id": "2024-06-the-way-of-kings-056a26c8",
       "month": 6,
       "monthName": "June",
       "ratingStars": 4,
@@ -261,16 +261,16 @@
         "number": 1
       },
       "source": {
-        "anchor": "entry-2024-06-the-way-of-kings-stormlight-archive-1-58ffc19d",
+        "anchor": "entry-2024-06-the-way-of-kings-056a26c8",
         "file": "years/2024.md"
       },
-      "title": "The way of kings (Stormlight archive 1)",
+      "title": "The way of kings",
       "year": 2024
     },
     {
       "author": "Brandon Sanderson",
       "dateFinished": null,
-      "id": "2024-06-words-of-radiance-stormlight-archive-2-bf7be17a",
+      "id": "2024-06-words-of-radiance-94953050",
       "month": 6,
       "monthName": "June",
       "ratingStars": 5,
@@ -279,16 +279,16 @@
         "number": 2
       },
       "source": {
-        "anchor": "entry-2024-06-words-of-radiance-stormlight-archive-2-bf7be17a",
+        "anchor": "entry-2024-06-words-of-radiance-94953050",
         "file": "years/2024.md"
       },
-      "title": "Words of radiance (Stormlight archive 2)",
+      "title": "Words of radiance",
       "year": 2024
     },
     {
       "author": "Christopher Ruocchio",
       "dateFinished": null,
-      "id": "2024-06-the-demon-in-white-sun-eater-3-82445953",
+      "id": "2024-06-the-demon-in-white-1a4850df",
       "month": 6,
       "monthName": "June",
       "ratingStars": 4,
@@ -297,16 +297,16 @@
         "number": 3
       },
       "source": {
-        "anchor": "entry-2024-06-the-demon-in-white-sun-eater-3-82445953",
+        "anchor": "entry-2024-06-the-demon-in-white-1a4850df",
         "file": "years/2024.md"
       },
-      "title": "The demon in white (Sun Eater 3)",
+      "title": "The demon in white",
       "year": 2024
     },
     {
       "author": "Brandon Sanderson",
       "dateFinished": null,
-      "id": "2024-06-oathbringer-stormlight-archive-3-033a38b4",
+      "id": "2024-06-oathbringer-cdd8e1e2",
       "month": 6,
       "monthName": "June",
       "ratingStars": 4,
@@ -315,16 +315,16 @@
         "number": 3
       },
       "source": {
-        "anchor": "entry-2024-06-oathbringer-stormlight-archive-3-033a38b4",
+        "anchor": "entry-2024-06-oathbringer-cdd8e1e2",
         "file": "years/2024.md"
       },
-      "title": "Oathbringer (Stormlight archive 3)",
+      "title": "Oathbringer",
       "year": 2024
     },
     {
       "author": "Christopher Ruocchio",
       "dateFinished": null,
-      "id": "2024-07-kingdoms-of-death-sun-eater-4-d70b1d94",
+      "id": "2024-07-kingdoms-of-death-ad1eb0dd",
       "month": 7,
       "monthName": "July",
       "ratingStars": 5,
@@ -333,10 +333,10 @@
         "number": 4
       },
       "source": {
-        "anchor": "entry-2024-07-kingdoms-of-death-sun-eater-4-d70b1d94",
+        "anchor": "entry-2024-07-kingdoms-of-death-ad1eb0dd",
         "file": "years/2024.md"
       },
-      "title": "Kingdoms of death (Sun Eater 4)",
+      "title": "Kingdoms of death",
       "year": 2024
     },
     {
@@ -360,7 +360,7 @@
     {
       "author": "Brandon Sanderson",
       "dateFinished": null,
-      "id": "2024-07-rythym-of-war-stormlight-archive-4-c0472ed3",
+      "id": "2024-07-rythym-of-war-f597ea51",
       "month": 7,
       "monthName": "July",
       "ratingStars": 4,
@@ -369,16 +369,16 @@
         "number": 4
       },
       "source": {
-        "anchor": "entry-2024-07-rythym-of-war-stormlight-archive-4-c0472ed3",
+        "anchor": "entry-2024-07-rythym-of-war-f597ea51",
         "file": "years/2024.md"
       },
-      "title": "Rythym of War (Stormlight archive 4)",
+      "title": "Rythym of War",
       "year": 2024
     },
     {
       "author": "Christopher Ruocchio",
       "dateFinished": null,
-      "id": "2024-07-ashes-of-man-sun-eater-5-521aed22",
+      "id": "2024-07-ashes-of-man-1da56c22",
       "month": 7,
       "monthName": "July",
       "ratingStars": 5,
@@ -387,10 +387,10 @@
         "number": 5
       },
       "source": {
-        "anchor": "entry-2024-07-ashes-of-man-sun-eater-5-521aed22",
+        "anchor": "entry-2024-07-ashes-of-man-1da56c22",
         "file": "years/2024.md"
       },
-      "title": "Ashes of Man (Sun Eater 5)",
+      "title": "Ashes of Man",
       "year": 2024
     },
     {
@@ -401,7 +401,7 @@
       "monthName": "August",
       "ratingStars": 4,
       "series": {
-        "name": "Shardlake series",
+        "name": "Shardlake Series",
         "number": 1
       },
       "source": {
@@ -455,7 +455,7 @@
       "monthName": "August",
       "ratingStars": 3,
       "series": {
-        "name": "Shardlake series",
+        "name": "Shardlake Series",
         "number": 2
       },
       "source": {
@@ -491,7 +491,7 @@
       "monthName": "August",
       "ratingStars": 3,
       "series": {
-        "name": "Cemetery of Forgotten Books",
+        "name": "Cemetery Of Forgotten Books",
         "number": 3
       },
       "source": {
@@ -521,16 +521,16 @@
     {
       "author": "John Gwynne",
       "dateFinished": null,
-      "id": "2024-09-malice-ffa2ccb6",
+      "id": "2024-09-malice-4aa6c73a",
       "month": 9,
       "monthName": "September",
       "ratingStars": 4,
       "series": {
-        "name": "The Faithful and the Fallen",
+        "name": "The Faithful And The Fallen",
         "number": 1
       },
       "source": {
-        "anchor": "entry-2024-09-malice-ffa2ccb6",
+        "anchor": "entry-2024-09-malice-4aa6c73a",
         "file": "years/2024.md"
       },
       "title": "Malice",
@@ -539,7 +539,7 @@
     {
       "author": "Brandon Sanderson",
       "dateFinished": null,
-      "id": "2024-09-the-final-empire-mistborn-1-9e2ad5ff",
+      "id": "2024-09-the-final-empire-07104f3e",
       "month": 9,
       "monthName": "September",
       "ratingStars": 4,
@@ -548,10 +548,10 @@
         "number": 1
       },
       "source": {
-        "anchor": "entry-2024-09-the-final-empire-mistborn-1-9e2ad5ff",
+        "anchor": "entry-2024-09-the-final-empire-07104f3e",
         "file": "years/2024.md"
       },
-      "title": "The final empire (Mistborn 1)",
+      "title": "The final empire",
       "year": 2024
     },
     {
@@ -574,19 +574,19 @@
     {
       "author": "John Gwynne",
       "dateFinished": null,
-      "id": "2024-09-valour-the-faithful-and-the-fallen-2-dba6f38d",
+      "id": "2024-09-valour-9f8fef77",
       "month": 9,
       "monthName": "September",
       "ratingStars": 4,
       "series": {
-        "name": "The Faithful and the Fallen",
+        "name": "The Faithful And The Fallen",
         "number": 2
       },
       "source": {
-        "anchor": "entry-2024-09-valour-the-faithful-and-the-fallen-2-dba6f38d",
+        "anchor": "entry-2024-09-valour-9f8fef77",
         "file": "years/2024.md"
       },
-      "title": "Valour (The faithful and the fallen 2)",
+      "title": "Valour",
       "year": 2024
     },
     {
@@ -606,7 +606,7 @@
     {
       "author": "Brandon Sanderson",
       "dateFinished": null,
-      "id": "2024-10-the-well-of-ascension-mistborn-2-0761a3f3",
+      "id": "2024-10-the-well-of-ascension-c9e07ae8",
       "month": 10,
       "monthName": "October",
       "ratingStars": 2,
@@ -615,25 +615,25 @@
         "number": 2
       },
       "source": {
-        "anchor": "entry-2024-10-the-well-of-ascension-mistborn-2-0761a3f3",
+        "anchor": "entry-2024-10-the-well-of-ascension-c9e07ae8",
         "file": "years/2024.md"
       },
-      "title": "The well of ascension (Mistborn 2)",
+      "title": "The well of ascension",
       "year": 2024
     },
     {
       "author": "John Gwynne",
       "dateFinished": null,
-      "id": "2024-10-ruin-2d7f4e14",
+      "id": "2024-10-ruin-1cd7094e",
       "month": 10,
       "monthName": "October",
       "ratingStars": 3,
       "series": {
-        "name": "The Faithful and the Fallen",
+        "name": "The Faithful And The Fallen",
         "number": 3
       },
       "source": {
-        "anchor": "entry-2024-10-ruin-2d7f4e14",
+        "anchor": "entry-2024-10-ruin-1cd7094e",
         "file": "years/2024.md"
       },
       "title": "Ruin",
@@ -642,7 +642,7 @@
     {
       "author": "Christopher Ruocchio",
       "dateFinished": null,
-      "id": "2024-10-disquiet-gods-sun-eater-6-3261ea77",
+      "id": "2024-10-disquiet-gods-3b934234",
       "month": 10,
       "monthName": "October",
       "ratingStars": 3,
@@ -651,16 +651,16 @@
         "number": 6
       },
       "source": {
-        "anchor": "entry-2024-10-disquiet-gods-sun-eater-6-3261ea77",
+        "anchor": "entry-2024-10-disquiet-gods-3b934234",
         "file": "years/2024.md"
       },
-      "title": "Disquiet Gods (Sun Eater 6)",
+      "title": "Disquiet Gods",
       "year": 2024
     },
     {
       "author": "Brandon Sanderson",
       "dateFinished": null,
-      "id": "2024-10-the-hero-of-ages-mistborn-3-2ca412ee",
+      "id": "2024-10-the-hero-of-ages-1d2b4d7e",
       "month": 10,
       "monthName": "October",
       "ratingStars": 4,
@@ -669,10 +669,10 @@
         "number": 3
       },
       "source": {
-        "anchor": "entry-2024-10-the-hero-of-ages-mistborn-3-2ca412ee",
+        "anchor": "entry-2024-10-the-hero-of-ages-1d2b4d7e",
         "file": "years/2024.md"
       },
-      "title": "The hero of ages (Mistborn 3)",
+      "title": "The hero of ages",
       "year": 2024
     },
     {
@@ -692,16 +692,16 @@
     {
       "author": "John Gwynne",
       "dateFinished": null,
-      "id": "2024-10-wrath-cd73d7be",
+      "id": "2024-10-wrath-18a32f92",
       "month": 10,
       "monthName": "October",
       "ratingStars": 3,
       "series": {
-        "name": "The Faithful and the Fallen",
+        "name": "The Faithful And The Fallen",
         "number": 4
       },
       "source": {
-        "anchor": "entry-2024-10-wrath-cd73d7be",
+        "anchor": "entry-2024-10-wrath-18a32f92",
         "file": "years/2024.md"
       },
       "title": "Wrath",
@@ -710,7 +710,7 @@
     {
       "author": "Ada Palmer",
       "dateFinished": null,
-      "id": "2024-11-too-like-the-lightning-terra-incognita-1-4264831d",
+      "id": "2024-11-too-like-the-lightning-eb912913",
       "month": 11,
       "monthName": "November",
       "ratingStars": 2,
@@ -719,10 +719,10 @@
         "number": 1
       },
       "source": {
-        "anchor": "entry-2024-11-too-like-the-lightning-terra-incognita-1-4264831d",
+        "anchor": "entry-2024-11-too-like-the-lightning-eb912913",
         "file": "years/2024.md"
       },
-      "title": "Too like the lightning (Terra Incognita 1)",
+      "title": "Too like the lightning",
       "year": 2024
     },
     {
@@ -750,7 +750,7 @@
       "monthName": "November",
       "ratingStars": 0,
       "series": {
-        "name": "Prince of Nothing",
+        "name": "Prince Of Nothing",
         "number": 1
       },
       "source": {
@@ -768,7 +768,7 @@
       "monthName": "November",
       "ratingStars": 3,
       "series": {
-        "name": "Wax and Wayne",
+        "name": "Wax And Wayne",
         "number": 1
       },
       "source": {
@@ -822,7 +822,7 @@
       "monthName": "November",
       "ratingStars": 3,
       "series": {
-        "name": "Wax and Wayne",
+        "name": "Wax And Wayne",
         "number": 2
       },
       "source": {
@@ -1071,7 +1071,7 @@
       "monthName": "January",
       "ratingStars": 3,
       "series": {
-        "name": "Wax and Wayne",
+        "name": "Wax And Wayne",
         "number": 3
       },
       "source": {
@@ -1199,9 +1199,9 @@
       "year": 2025
     },
     {
-      "author": "by N.K. Jemisin",
+      "author": "N.K. Jemisin",
       "dateFinished": null,
-      "id": "2025-02-the-stone-sky-de88bfe4",
+      "id": "2025-02-the-stone-sky-ad4a88c1",
       "month": 2,
       "monthName": "February",
       "ratingStars": 3,
@@ -1210,7 +1210,7 @@
         "number": 3
       },
       "source": {
-        "anchor": "entry-2025-02-the-stone-sky-de88bfe4",
+        "anchor": "entry-2025-02-the-stone-sky-ad4a88c1",
         "file": "years/2025.md"
       },
       "title": "The Stone Sky",
@@ -1327,7 +1327,7 @@
       "monthName": "April",
       "ratingStars": 3,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 1
       },
       "source": {
@@ -1414,7 +1414,7 @@
       "monthName": "May",
       "ratingStars": 4,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 2
       },
       "source": {
@@ -1449,7 +1449,7 @@
       "monthName": "June",
       "ratingStars": 4,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 3
       },
       "source": {
@@ -1485,7 +1485,7 @@
       "monthName": "July",
       "ratingStars": 3,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 4
       },
       "source": {
@@ -1520,7 +1520,7 @@
       "monthName": "July",
       "ratingStars": 4,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 5
       },
       "source": {
@@ -1556,7 +1556,7 @@
       "monthName": "August",
       "ratingStars": 4,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 6
       },
       "source": {
@@ -1588,7 +1588,7 @@
       "monthName": "August",
       "ratingStars": 4,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 7
       },
       "source": {
@@ -1641,7 +1641,7 @@
       "monthName": "October",
       "ratingStars": 5,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 8
       },
       "source": {
@@ -1690,7 +1690,7 @@
       "monthName": "November",
       "ratingStars": 4,
       "series": {
-        "name": "Embers of War",
+        "name": "Embers Of War",
         "number": 1
       },
       "source": {
@@ -1726,7 +1726,7 @@
       "monthName": "November",
       "ratingStars": 3,
       "series": {
-        "name": "Embers of War",
+        "name": "Embers Of War",
         "number": 2
       },
       "source": {
@@ -1780,7 +1780,7 @@
       "monthName": "December",
       "ratingStars": 3,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 9
       },
       "source": {
@@ -1829,7 +1829,7 @@
       "monthName": "January",
       "ratingStars": 5,
       "series": {
-        "name": "Malazan Book of the Fallen",
+        "name": "Malazan Book Of The Fallen",
         "number": 10
       },
       "source": {
@@ -1847,7 +1847,7 @@
       "monthName": "January",
       "ratingStars": 3,
       "series": {
-        "name": "Embers of War",
+        "name": "Embers Of War",
         "number": 3
       },
       "source": {
