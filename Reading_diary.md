@@ -61,6 +61,7 @@ Cinematic. Begging for a sequel. Clearly inspired by the three body problem
 Enjoyed this but very dark. Some of the characters lacked depth. But a great grim adventure
 
 #### Hyperion Cantos Book 1 by Daniel Simmons
+Series: Hyperion Cantos 1
 
 ⭐️⭐️⭐️
 
@@ -75,6 +76,7 @@ Hard SiFi but interesting. Book clearly the first in a series. Who / what is the
 Great adventure and detective model set in Stalin’s Russia where there can be no crime.
 
 #### Hyperion Cantos book 2 the fall of Hyperion by Dan Simmons
+Series: Hyperion Cantos 2
 
 ⭐️⭐️
 
@@ -89,6 +91,7 @@ Overly long and mystical. Enjoyable in parts. Might consider reading more of the
 Very entertaining but formulaic. The commandant was a one dimensional antagonist.
 
 #### Surface detail by Ian M Banks
+Series: Culture Series
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -100,19 +103,22 @@ Penultimate culture series novel and this sees the culture at its best. Lots of 
 
 Another great thriller by Tom Rob Smith. Great romp, lots of blood and gore. The plot stretched credulity but then they do say “stranger then Fiction”. The story continues to follow Leo & Raisa as they try to build their lives with their adopted daughters in post Stalin USSR.
 
-#### The Gun Slinger (book 1 of the Dark Tower) by Stephen King
+#### The Gun Slinger by Stephen King
+Series: The Dark Tower 1
 
 ⭐️⭐️⭐️⭐️
 
 Very much tell this was written by a 19 year old. The book felt like one long introductory chapter which I guess it is. So many unanswered questions about this world. Looking forward to reading more.
 
-#### Empire of Silence (The Sun Eater 1) by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+#### Empire of Silence by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+Series: The Sun Eater 1
 
 ⭐️⭐️⭐️⭐️
 
 The world is heavily influenced by Dune. With an emperor, noble class, monopolies guilds, a ban on AI with trained humans filling the place of computers. However the universe is richer and the story more relatable. Some of the technology is inspired by “the culture” series. Eg. neural nets. I look forward to reading the next one.
 
-#### The drawing of the three (The dark tower 2) by Stephen King
+#### The drawing of the three by Stephen King
+Series: The Dark Tower 2
 
 ⭐️⭐️
 
@@ -120,7 +126,8 @@ Very much enjoyed. Not like a fantasy I’ve read before. Roland, Eddie and Odet
 
 ### May 2024
 
-#### Howling Dark (Sun Eater 2) by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+#### Howling Dark by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+Series: The Sun Eater 2
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -128,23 +135,27 @@ Really enjoyed this book the second in the sun eater series. The familiar set of
 
 ### June 2024
 
-#### The way of kings (Stormlight archive 1) by Brandon Sanderson
+#### The way of kings by Brandon Sanderson
+Series: Stormlight Archive 1
 
 ⭐️⭐️⭐️⭐️
 
 Massively enjoyed this fantasy novel. Characters are well drawn and it keeps you guessing. So many cliffhangers and questions at the end. The magic isn’t so well drawn and the nature of storm light feels like it needs some more explanation. I look forward to reading the next one!
 
-#### Words of radiance (Stormlight archive 2) by Brandon Sanderson
+#### Words of radiance by Brandon Sanderson
+Series: Stormlight Archive 2
 
 ⭐️⭐️⭐️⭐️⭐️
 Really enjoyed this second installment of the Stormlight archive. The characters are starting to come together. However I felt the ending scenes were a little cheesy. Especially between Dalinar & Shallan. The nature of the universe is starting to come clear.
 
-#### The demon in white (Sun Eater 3) by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+#### The demon in white by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+Series: The Sun Eater 3
 
 ⭐️⭐️⭐️⭐️
 Another romping adventure. The tale is linking fantasy and sci-fi together well. The battle the threat all great. This one feels like a middle book which I suppose it is!
 
-#### Oathbringer (Stormlight archive 3) by Brandon Sanderson
+#### Oathbringer by Brandon Sanderson
+Series: Stormlight Archive 3
 
 ⭐️⭐️⭐️⭐️
 
@@ -152,7 +163,8 @@ Enjoyed this one. Same wonderful battle scenes. But some issues with the pacing 
 
 ### July 2024
 
-#### Kingdoms of death (Sun Eater 4) by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+#### Kingdoms of death by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+Series: The Sun Eater 4
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -164,13 +176,15 @@ Horror pain adventure loss this was a dark but violently told tale. Where this g
 
 Vivid recreation of late medieval (Elizabethan Japan) the characters well drawn. The story engaging. Sometimes find it difficult to follow the change in perspective as the story switches point of view between characters.
 
-#### Rythym of War (Stormlight archive 4) by Brandon Sanderson
+#### Rythym of War by Brandon Sanderson
+Series: Stormlight Archive 4
 
 ⭐️⭐️⭐️⭐️
 
 Hugely enjoyable with a great deal of character and plot development. Aeolian still feels very 1 dimensional to me. All other characters have failings, flaws but Adolin to perfect. Was a bit too long.
 
-#### Ashes of Man (Sun Eater 5) by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+#### Ashes of Man by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+Series: The Sun Eater 5
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -237,7 +251,8 @@ Question the book raises is are all authors magpies steeling the nuggets and con
 
 Really enjoyed this. Fast paced and vivid characters. Loved the animal companion. Lines the story telling from different perspectives. Found myself more drawn into Corban’s plot than others and caring about him more. Reminded me of how Robert Jordan used different character perspectives in the wheel of time.
 
-#### The final empire (Mistborn 1) by Brandon Sanderson
+#### The final empire by Brandon Sanderson
+Series: Mistborn 1
 
 ⭐️⭐️⭐️⭐️
 
@@ -270,7 +285,8 @@ Enjoyable sci-fi fantasy fusion.
 
 ### October 2024
 
-#### The well of ascension (Mistborn 2) by Brandon Sanderson
+#### The well of ascension by Brandon Sanderson
+Series: Mistborn 2
 
 ⭐️⭐️
 
@@ -282,13 +298,15 @@ Entertaining. Good twist at the end. Good pace. Will likely read the next one.
 
 Enjoyable read. Fast paced with lots of action. Though the pacing makes the character work less strong and the world building not as good as other novels. Almost every scene is a battle or clash. No quiet moments at all.
 
-#### Disquiet Gods (Sun Eater 6) by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+#### Disquiet Gods by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
+Series: The Sun Eater 6
 
 ⭐️⭐️⭐️
 
 Greatly enjoyed. The world (universe) building is fantastic. The terror and horror of Vorgossos feels very real. The Christian theology comes over very strongly. Feels a bit heavy handed. The hybrid of fantasy and sci fi works really well.
 
-#### The hero of ages (Mistborn 3) by Brandon Sanderson
+#### The hero of ages by Brandon Sanderson
+Series: Mistborn 3
 
 ⭐️⭐️⭐️⭐️
 
@@ -308,7 +326,8 @@ Good if a little predictable. Seemed a little random who Gwynne chose to live an
 
 ### November 2024
 
-#### Too like the lightning (Terra Incognita 1) by Ada Palmer
+#### Too like the lightning by Ada Palmer
+Series: Terra Incognita 1
 
 ⭐️⭐️
 
@@ -659,7 +678,7 @@ The use of the dead of Rakaru as a deus ex machina was not a plot device I enjoy
 
 The pacing was good. At over 1,000 pages this is a long book but at no point did I feel as though I would rather be doing something other than enjoying this story.
 
-#### Fundamentally by Nussaibah Younis  
+#### Fundamentally by Nussaibah Younis
 
 ⭐️⭐️⭐️
 #bookclub
@@ -694,7 +713,7 @@ Midnight Tides may have begun as the outlier in the series, but by the end, it e
 
 ### August 2025
 
-#### A Desolation Called Peace (Teixcalaan 2) by Arkady Martine  
+#### A Desolation Called Peace (Teixcalaan 2) by Arkady Martine
 
 ⭐️⭐️⭐️⭐️⭐️
 
@@ -755,7 +774,7 @@ Erikson’s prose alternates between precise description and grotesque humour. I
 
 The Bonehunters maintains the series’ blend of large-scale conflict, moral questioning, and deeply human moments. Its structural acceleration and layered thematic commentary make it a standout in terms of intellectual engagement, even if the central plot was less gripping for me than in other instalments. It closes with multiple threads ready to carry forward, making Reaper’s Gale an anticipated next step in the sequence.
 
-#### Ready Player One  
+#### Ready Player One
 
 ⭐️⭐️⭐️⭐️
 
@@ -886,6 +905,7 @@ While the world is beautifully drawn and the characterisation vivid, I struggled
 ### November 2025
 
 #### Embers of War by Gareth L. Powell
+Series: Embers of War 1
 
 ⭐️⭐️⭐️⭐️
 
@@ -920,6 +940,7 @@ I found parallels with Margaret Atwood's MaddAddam universe where technology, hu
 While my criticism of this specific novel as "shallow", are justified this is only entry 2 in a series of novels. There is plenty of time for the themes of free will, motivation and deeper characterisation of both Murderbot and other (perhaps returning) characters to deepen.
 
 #### Fleet of Knives by Gareth L. Powell
+Series: Embers of War 2
 
 ⭐️⭐️⭐️
 Finished: 2025-11-17
@@ -1128,7 +1149,7 @@ This sudden ending is why I gave four stars rather than five. The ending between
 
 ### January 2026
 
-#### The Crippled God (Malazan Book of the Fallen 10) by Steven Erikson  
+#### The Crippled God (Malazan Book of the Fallen 10) by Steven Erikson
 
 ⭐️⭐️⭐️⭐️⭐️  
 **Started:** 2026-01-05  
@@ -1156,9 +1177,9 @@ As a piece of literature and a great story, the _Malazan Book of the Fallen_ is 
 
 One final note: the poetry at the beginning of parts and chapters didn’t really work for me. This may well be a personal failing. I’m not comfortable with poetry and find it hard to appreciate, though I recognize it as part of Erikson’s attempt to give the saga a mythic and elegiac tone.  
 
-#### The Light of Impossible Stars by Gareth L. Powell 
+#### The Light of Impossible Stars by Gareth L. Powell
+Series: Embers of War 3
 
 ⭐️⭐️⭐️
-Series: Embers of War
 **Started:** 2026-01-16  
 **Finished:**   
