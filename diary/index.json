@@ -1947,7 +1947,7 @@
     },
     {
       "author": "Gareth L. Powell",
-      "dateFinished": null,
+      "dateFinished": "2026-01-18",
       "id": "2026-01-the-light-of-impossible-stars-f2975c63",
       "month": 1,
       "monthName": "January",
@@ -1961,6 +1961,9 @@
         "file": "years/2026.md"
       },
       "statDate": "2026-01-16",
+      "tags": [
+        "#3"
+      ],
       "title": "The Light of Impossible Stars",
       "year": 2026
     }
