@@ -1942,6 +1942,9 @@
         "file": "years/2026.md"
       },
       "statDate": "2026-01-05",
+      "tags": [
+        "#10"
+      ],
       "title": "The Crippled God",
       "year": 2026
     },
@@ -1961,15 +1964,31 @@
         "file": "years/2026.md"
       },
       "statDate": "2026-01-16",
-      "tags": [
-        "#3"
-      ],
       "title": "The Light of Impossible Stars",
+      "year": 2026
+    },
+    {
+      "author": "Robert Graves",
+      "dateFinished": null,
+      "id": "2026-01-i-claudius-08699cdb",
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 0,
+      "series": {
+        "name": "Claudius",
+        "number": 1
+      },
+      "source": {
+        "anchor": "entry-2026-01-i-claudius-08699cdb",
+        "file": "years/2026.md"
+      },
+      "statDate": "2026-01-18",
+      "title": "I, Claudius",
       "year": 2026
     }
   ],
   "meta": {
-    "entryCount": 107,
+    "entryCount": 108,
     "source": "Reading_diary.md",
     "years": [
       2024,
