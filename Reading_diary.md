@@ -1210,9 +1210,9 @@ This sudden ending is why I gave four stars rather than five. The ending between
 ### January 2026
 
 #### The Crippled God by Steven Erikson
-Series: Malazan Book of the Fallen 10
 
 ⭐️⭐️⭐️⭐️⭐️  
+Series: Malazan Book of the Fallen #10
 **Started:** 2026-01-05  
 **Finished:** 2026-01-15  
 
@@ -1240,9 +1240,9 @@ One final note: the poetry at the beginning of parts and chapters didn’t reall
 
 
 #### The Light of Impossible Stars by Gareth L. Powell
-*Series: Embers of War #3*
-Started: 16 January 2026
-Finished: 18 January 2026
+Series: Embers of War 3
+Started: 2026-01-16
+Finished: 2026-01-18
 ⭐️⭐️⭐️
 
 The concluding chapter in Powell’s space opera is competent and engaging with good world building and excellent pace. Short sharp chapters and shifting perspectives, but to my mind, unexceptional. In this final instalment, Powell crystallises the themes of individuality and moral choice: it is the actions and choices that make a person—human or otherwise. Organisations that seek to strip away that agency are suspect. As one passage puts it:
@@ -1257,3 +1257,8 @@ Finally, the deus ex machina of Cordelia Powell felt unnecessary. It created an 
 
 Overall, an enjoyable but unchallenging read. It didn’t teach me much or leave a lasting aftertaste—perfect, perhaps, for a holiday, but not one that will linger long in memory.
 
+#### I, Claudius by Robert Graves
+
+Series: Claudius 1
+Started: 2026-01-18
+Finished
