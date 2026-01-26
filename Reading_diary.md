@@ -1238,8 +1238,8 @@ As a piece of literature and a great story, the _Malazan Book of the Fallen_ is 
 
 One final note: the poetry at the beginning of parts and chapters didn’t really work for me. This may well be a personal failing. I’m not comfortable with poetry and find it hard to appreciate, though I recognize it as part of Erikson’s attempt to give the saga a mythic and elegiac tone.  
 
-
 #### The Light of Impossible Stars by Gareth L. Powell
+
 Series: Embers of War 3
 Started: 2026-01-16
 Finished: 2026-01-18
@@ -1261,4 +1261,13 @@ Overall, an enjoyable but unchallenging read. It didn’t teach me much or leave
 
 Series: Claudius 1
 Started: 2026-01-18
-Finished
+Finished: 2026-01-26
+⭐️⭐️⭐️⭐️
+
+This is a work of profound scholarship and ambition and ultimately art. I believe _I, Claudius_ is an inspiration for other authors of historical fiction I have read (Hilary Mantel & James Clavels) who share his intimate style and focus on motivations and inner lives of their characters. I strongly believe that Christopher Ruocchio was influenced by Graves. His Empire is modeled on ancient Rome and we see that world of intrigue war and violence through Hadrian's narration of his own autobiography.
+
+I'm left wondering if "Claudius" is a reliable narrator and if Graves meant him to be perceived as such. Graves paints Claudius as a virtuous man according to the norms of a patrician of his time. But even by the standards of the early-mid 20th Century (when Graves was writing) Claudius is a monster. He keeps slaves, is indifferent to his own children, and delights in the suffering of Gladiators and animals at the games.
+
+It is hard for any modern historian or author to separate myth, propoganda and fact. I believe that Graves relies heavily on "The Life of the Ceasars" by Suetonius. I have not read this but understand it to be, with Tacitus, one of the only near contemporaneous sources.
+
+The style is dense with facts, names and dates thrown at one constantly. Though Graves mostly succeeds in maintaining pace and intrigue. I will certainly read _Claudius the God_. I'm hoping we see more hypocrisy and self justification from Graves' Claudius and we see a little more of the internal life of the Paletine hill and palace.

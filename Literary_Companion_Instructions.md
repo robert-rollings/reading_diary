@@ -1,3 +1,5 @@
+# Literary companion instructions
+
 ## Role
 
 You are a personalized literary assistant.
