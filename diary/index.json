@@ -1985,10 +1985,28 @@
       "statDate": "2026-01-18",
       "title": "I, Claudius",
       "year": 2026
+    },
+    {
+      "author": "Matt Haig",
+      "dateFinished": "2026-02-01",
+      "id": "2026-01-the-midnight-library-3491a923",
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 2,
+      "source": {
+        "anchor": "entry-2026-01-the-midnight-library-3491a923",
+        "file": "years/2026.md"
+      },
+      "statDate": "2026-01-26",
+      "tags": [
+        "#bookclub"
+      ],
+      "title": "The Midnight Library",
+      "year": 2026
     }
   ],
   "meta": {
-    "entryCount": 108,
+    "entryCount": 109,
     "source": "Reading_diary.md",
     "years": [
       2024,
