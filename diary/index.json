@@ -2003,10 +2003,29 @@
       ],
       "title": "The Midnight Library",
       "year": 2026
+    },
+    {
+      "author": "Peter by Peter Watts",
+      "dateFinished": null,
+      "id": "2026-02-blindsight-7a5246b4",
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 0,
+      "series": {
+        "name": "Firewall",
+        "number": 1
+      },
+      "source": {
+        "anchor": "entry-2026-02-blindsight-7a5246b4",
+        "file": "years/2026.md"
+      },
+      "statDate": "2026-02-02",
+      "title": "Blindsight",
+      "year": 2026
     }
   ],
   "meta": {
-    "entryCount": 109,
+    "entryCount": 110,
     "source": "Reading_diary.md",
     "years": [
       2024,
