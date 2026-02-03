@@ -1293,3 +1293,11 @@ These lives, however, are conspicuously without jeopardy. The early episodes —
 Despite this, the novel is effective. On finishing it, I found myself making a renewed vow not to take my life for granted. But this effectiveness comes easily. The sentiment is so broad, the moral so universal, that eliciting an emotional response feels like the minimum achievement rather than a mark of distinction. I felt the message, but I was not inspired by it.
 
 A truly great novel would have forced me to confront my own regrets and choices, not merely reassured me of the value of life in the abstract. The Midnight Library offers comfort rather than confrontation, affirmation rather than disturbance. I am not convinced that this is a failure so much as an intention: to unsettle the reader too deeply might compromise the novel’s commercial appeal. As it stands, this is a perfectly pleasant beach read — soothing, sincere, and emotionally legible — but not much more.
+
+### February 2026
+
+#### Blindsight by Peter by Peter Watts
+
+Series: Firewall 1
+Started: 2026-02-02
+Finished:
