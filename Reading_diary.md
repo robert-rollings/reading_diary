@@ -1296,7 +1296,7 @@ A truly great novel would have forced me to confront my own regrets and choices,
 
 ### February 2026
 
-#### Blindsight by Peter by Peter Watts
+#### Blindsight by Peter Watts
 
 Series: Firewall 1
 Started: 2026-02-02
