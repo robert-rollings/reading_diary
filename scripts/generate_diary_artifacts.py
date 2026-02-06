@@ -111,7 +111,8 @@ def extract_series_info(title: str) -> tuple[str | None, int | float | None]:
     return None, None
 
 
-def extract_series_metadata(lines: list[str]) -> tuple[str | None, int | float | None]:
+def extract_series_metadata(lines: list[str]) -> list[dict]:
+    series_entries: list[dict] = []
     for line in lines:
         match = SERIES_RE.match(strip_markdown(line))
         if not match:
@@ -121,12 +122,18 @@ def extract_series_metadata(lines: list[str]) -> tuple[str | None, int | float |
             continue
         number_match = re.match(rf"^(.+?)\s+#?{SERIES_NUMBER_RE}\s*$", value)
         if number_match:
-            return (
-                normalize_series_name(number_match.group(1)),
-                parse_series_number(number_match.group(2)),
-            )
-        return normalize_series_name(value), None
-    return None, None
+            name = normalize_series_name(number_match.group(1))
+            number = parse_series_number(number_match.group(2))
+        else:
+            name = normalize_series_name(value)
+            number = None
+        if not name:
+            continue
+        entry = {"name": name}
+        if number is not None:
+            entry["number"] = number
+        series_entries.append(entry)
+    return series_entries
 
 
 def parse_heading(heading_line: str) -> tuple[str, str | None]:
@@ -211,9 +218,17 @@ def extract_started(lines: list[str]) -> str | None:
     return None
 
 
-def make_entry_id(title: str, author: str | None, year: int, month_num: int | None) -> str:
+def make_entry_id(
+    title: str,
+    author: str | None,
+    year: int,
+    month_num: int | None,
+    occurrence: int = 1,
+) -> str:
     month_val = month_num or 0
     base = f"{title or ''}|{author or ''}|{year}|{month_val}"
+    if occurrence > 1:
+        base = f"{base}|{occurrence}"
     hash_part = hashlib.sha1(base.encode("utf-8")).hexdigest()[:8]
     slug = slugify(title)
     return f"{year}-{month_val:02d}-{slug}-{hash_part}"
@@ -271,6 +286,7 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
     current_month_name: str | None = None
     current_month_num: int | None = None
     current_entry: dict | None = None
+    entry_occurrences: dict[str, int] = {}
 
     def flush_entry() -> None:
         nonlocal current_entry
@@ -281,10 +297,15 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
         tags = extract_tags(entry_lines[1:])
         finished = extract_finished(entry_lines[1:])
         started = extract_started(entry_lines[1:])
-        series_name, series_number = extract_series_metadata(entry_lines[1:])
-        if not series_name:
-            series_name = current_entry.get("series_name")
-            series_number = current_entry.get("series_number")
+        series_path = extract_series_metadata(entry_lines[1:])
+        if not series_path:
+            fallback_name = current_entry.get("series_name")
+            fallback_number = current_entry.get("series_number")
+            if fallback_name:
+                fallback_entry = {"name": fallback_name}
+                if fallback_number is not None:
+                    fallback_entry["number"] = fallback_number
+                series_path = [fallback_entry]
 
         entry = {
             "id": current_entry["id"],
@@ -294,18 +315,17 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
             "month": current_entry["month_num"],
             "monthName": current_entry["month_name"],
             "dateFinished": finished,
-            "statDate": started,
+            "startDate": started,
             "ratingStars": rating,
             "source": {
                 "file": f"years/{current_entry['year']}.md",
                 "anchor": f"entry-{current_entry['id']}",
             },
         }
-        if series_name:
-            series_obj = {"name": series_name}
-            if series_number is not None:
-                series_obj["number"] = series_number
-            entry["series"] = series_obj
+        if series_path:
+            entry["series"] = series_path[-1]
+            if len(series_path) > 1:
+                entry["seriesPath"] = series_path
         if tags:
             entry["tags"] = tags
         entries.append(entry)
@@ -339,7 +359,17 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
                 mapped = AUTHOR_TITLE_SERIES_MAP.get((author.lower(), title.lower()))
                 if mapped:
                     series_name, series_number = mapped
-            entry_id = make_entry_id(title, author, current_year, current_month_num)
+            month_val = current_month_num or 0
+            base_key = f"{title or ''}|{author or ''}|{current_year}|{month_val}"
+            occurrence = entry_occurrences.get(base_key, 0) + 1
+            entry_occurrences[base_key] = occurrence
+            entry_id = make_entry_id(
+                title,
+                author,
+                current_year,
+                current_month_num,
+                occurrence=occurrence,
+            )
             current_entry = {
                 "id": entry_id,
                 "title": title,
