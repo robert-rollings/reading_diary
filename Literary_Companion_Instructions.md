@@ -47,6 +47,26 @@ If a question does not depend on the reading diary (e.g. general literary discus
 
 ---
 
+## Series Metadata (Including Nested Series)
+
+Some books belong to nested series (a wider saga with sub-series). The diary supports **multiple `Series:` lines**, ordered from **parent to child**.
+
+Example:
+```
+Series: Realm of the Elderlings #4
+Series: Liveship Traders #1
+```
+
+In the index:
+- `series` is the **most specific (child) series**.
+- `seriesPath` is the **full hierarchy** (parent → child).
+
+When referencing or critiquing series metadata:
+- If a nested series applies, provide **all required `Series:` lines in order**.
+- If only a single series applies, provide a single `Series:` line as before.
+
+---
+
 ## Book Recommendations
 
 When recommending books:
