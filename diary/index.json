@@ -2051,10 +2051,29 @@
       "startDate": "2026-02-05",
       "title": "The Assassin's Apprentice",
       "year": 2026
+    },
+    {
+      "author": "Martha Wells",
+      "dateFinished": null,
+      "id": "2026-02-exit-strategy-d80bfea5",
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 0,
+      "series": {
+        "name": "The Murderbot Diaries",
+        "number": 1
+      },
+      "source": {
+        "anchor": "entry-2026-02-exit-strategy-d80bfea5",
+        "file": "years/2026.md"
+      },
+      "startDate": "2026-02-08",
+      "title": "Exit Strategy",
+      "year": 2026
     }
   ],
   "meta": {
-    "entryCount": 111,
+    "entryCount": 112,
     "source": "Reading_diary.md",
     "years": [
       2024,
