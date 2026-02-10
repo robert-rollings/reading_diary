@@ -2058,10 +2058,10 @@
       "id": "2026-02-exit-strategy-d80bfea5",
       "month": 2,
       "monthName": "February",
-      "ratingStars": 0,
+      "ratingStars": 3,
       "series": {
         "name": "The Murderbot Diaries",
-        "number": 1
+        "number": 4
       },
       "source": {
         "anchor": "entry-2026-02-exit-strategy-d80bfea5",
@@ -2070,10 +2070,39 @@
       "startDate": "2026-02-08",
       "title": "Exit Strategy",
       "year": 2026
+    },
+    {
+      "author": "Robin Hobb",
+      "dateFinished": null,
+      "id": "2026-02-the-assassin-s-apprentice-f0494fc6",
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 0,
+      "series": {
+        "name": "Farseer Trilogy",
+        "number": 2
+      },
+      "seriesPath": [
+        {
+          "name": "Realm Of The Elderlings",
+          "number": 2
+        },
+        {
+          "name": "Farseer Trilogy",
+          "number": 2
+        }
+      ],
+      "source": {
+        "anchor": "entry-2026-02-the-assassin-s-apprentice-f0494fc6",
+        "file": "years/2026.md"
+      },
+      "startDate": "2026-02-09",
+      "title": "The Assassin's Apprentice",
+      "year": 2026
     }
   ],
   "meta": {
-    "entryCount": 112,
+    "entryCount": 113,
     "source": "Reading_diary.md",
     "years": [
       2024,
