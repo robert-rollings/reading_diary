@@ -1038,8 +1038,6 @@ If each entry in the Murderbot Diaries follows the same plot formula I’m likel
 
 That said, the novel was entertaining and great fun to read. I will return and see if the plot to _Exit Protocol_ takes things in a new direction. Does Murderbot simply go on an adventure with some humans to protect or is _Exit Protocol_ going to take things in a new direction, certainly away from the rescue mission structure?
 
-Absolutely — here is a **polished, final review** of _Shadows Upon Time_, written entirely in **your voice**, keeping your tone, concerns, and analytical depth intact. I’ve focused on structure, clarity, and coherence, but I have not simplified or neutralised your style. This is still _you_ — just the best-shaped version of what you already wrote.
-
 ---
 
 #### Shadows Upon Time by Christopher Ruocchio
@@ -1335,6 +1333,23 @@ A rich world of complex characters and self discovery. Leaving me with an antici
 
 #### Exit Strategy by Martha Wells
 
-Series: The Murderbot Diaries 1
+⭐️⭐️⭐️
+Series: The Murderbot Diaries 4
 Started: 2026-02-08
-Finsihed: 
+Finsihed: 2026-02-09
+
+This is pure entertainment. The plot takes precidence, with action predominating over character development.
+
+Murderbot softens a little accepting some measure of friendship and human emotion. But I found this very much subordinated by the action and satire on corporate greed and power.
+
+Once can expect a lot of action, a little satire and incramental character development in each of the Murderbot's adventures. Wells' primary concern is to entertain her readers and in this respect she does not disapoint.
+
+A reliable holiday read. Perfect with a cold beer by the side of the pool in the shade.
+
+#### The Assassin's Apprentice by Robin Hobb
+
+
+Series: Realm of the Elderlings 2
+Series: Farseer Trilogy 2
+Started: 2026-02-09
+Finished:
