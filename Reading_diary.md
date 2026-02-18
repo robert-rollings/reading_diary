@@ -1363,3 +1363,9 @@ The novel is frustrating as it is the pivot point of the Farseer tale. The centr
 I found the pacing excellent - and the narrowing of Fitz's perspective as the narrative reached its climax mirroring his growing isolation and paranoia. Again, Hobb relies on the emotional inter-play between characters and their conflict to move the story along. This makes for a compelling and engaging plot. The moral questions in _The Assassin's Apprentice_ are not addressed in _Royal Apprentice_ - the morailty of state sanctioned murder and war are not questioned deeply. This I feel was a miss. Though Fitz's unquestioning loyalty and his willingness to kill for his King could be a path to darkness which we will see in the next installment.
 
 This is a beautiful world, filled with larger than life characters and great emotional depth. Truly a pleasure to read and become absorbed in. Hobb's writting leads the heart and the mind, leaving you wondering what will happen next, where will Fitz go, will it, can it all turn out justly? So far Hobbs has kept her cards to her self. Death, disapointment and pain surely wait Fitz in tihe last installment - but ultimately will he triumph? And will that triumph be at the expanse of Fitz's moral core and identify? Hobbs has created so much to work with that we cannot predict what is next in Fitz's journey.
+
+#### The Mercy of Gods by James S. A. Corey
+
+Series: The Captive's War 1
+Started: 2026-02-16
+Finished: 
