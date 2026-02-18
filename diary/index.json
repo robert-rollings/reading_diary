@@ -2073,11 +2073,11 @@
     },
     {
       "author": "Robin Hobb",
-      "dateFinished": null,
-      "id": "2026-02-the-assassin-s-apprentice-f0494fc6",
+      "dateFinished": "2026-02-16",
+      "id": "2026-02-royal-assassin-c7f227b6",
       "month": 2,
       "monthName": "February",
-      "ratingStars": 0,
+      "ratingStars": 4,
       "series": {
         "name": "Farseer Trilogy",
         "number": 2
@@ -2093,11 +2093,11 @@
         }
       ],
       "source": {
-        "anchor": "entry-2026-02-the-assassin-s-apprentice-f0494fc6",
+        "anchor": "entry-2026-02-royal-assassin-c7f227b6",
         "file": "years/2026.md"
       },
       "startDate": "2026-02-09",
-      "title": "The Assassin's Apprentice",
+      "title": "Royal Assassin",
       "year": 2026
     }
   ],
