@@ -2102,11 +2102,11 @@
     },
     {
       "author": "James S. A. Corey",
-      "dateFinished": null,
+      "dateFinished": "2026-02-21",
       "id": "2026-02-the-mercy-of-gods-646b9fbd",
       "month": 2,
       "monthName": "February",
-      "ratingStars": 0,
+      "ratingStars": 4,
       "series": {
         "name": "The Captive'S War",
         "number": 1
@@ -2118,10 +2118,39 @@
       "startDate": "2026-02-16",
       "title": "The Mercy of Gods",
       "year": 2026
+    },
+    {
+      "author": "Robin Hobb",
+      "dateFinished": null,
+      "id": "2026-02-assassin-s-quest-6da03965",
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 0,
+      "series": {
+        "name": "Farseer Trilogy",
+        "number": 3
+      },
+      "seriesPath": [
+        {
+          "name": "Realm Of The Elderlings",
+          "number": 3
+        },
+        {
+          "name": "Farseer Trilogy",
+          "number": 3
+        }
+      ],
+      "source": {
+        "anchor": "entry-2026-02-assassin-s-quest-6da03965",
+        "file": "years/2026.md"
+      },
+      "startDate": "2026-02-21",
+      "title": "Assassin's Quest",
+      "year": 2026
     }
   ],
   "meta": {
-    "entryCount": 114,
+    "entryCount": 115,
     "source": "Reading_diary.md",
     "years": [
       2024,
