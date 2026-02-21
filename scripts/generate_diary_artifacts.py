@@ -308,14 +308,14 @@ def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, lis
                 series_path = [fallback_entry]
 
         entry = {
-            "id": current_entry["id"],
             "title": current_entry["title"],
             "author": current_entry["author"],
+            "id": current_entry["id"],
+            "dateStarted": started,
+            "dateFinished": finished,
             "year": current_entry["year"],
             "month": current_entry["month_num"],
             "monthName": current_entry["month_name"],
-            "dateFinished": finished,
-            "startDate": started,
             "ratingStars": rating,
             "source": {
                 "file": f"years/{current_entry['year']}.md",
@@ -421,7 +421,7 @@ def write_index(output_dir: Path, source: Path, entries: list[dict], series: lis
     }
     output_dir.mkdir(parents=True, exist_ok=True)
     (output_dir / "index.json").write_text(
-        json.dumps(index, indent=2, sort_keys=True, ensure_ascii=True) + "\n",
+        json.dumps(index, indent=2, ensure_ascii=True) + "\n",
         encoding="utf-8",
     )
 

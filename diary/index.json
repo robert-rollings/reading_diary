@@ -1,2157 +1,7 @@
 {
-  "entries": [
-    {
-      "author": "Carlos Ruiz Zaf\u00f3n",
-      "dateFinished": null,
-      "id": "2024-01-the-angel-s-game-8dfbdd13",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 5,
-      "series": {
-        "name": "Cemetery Of Forgotten Books",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-01-the-angel-s-game-8dfbdd13",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The Angel's Game",
-      "year": 2024
-    },
-    {
-      "author": "Brigid Delaney",
-      "dateFinished": null,
-      "id": "2024-01-reasons-not-to-worry-how-to-be-stoic-in-chaotic-ti-96a7b9bf",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 4,
-      "source": {
-        "anchor": "entry-2024-01-reasons-not-to-worry-how-to-be-stoic-in-chaotic-ti-96a7b9bf",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Reasons Not to Worry: How to be Stoic in chaotic times",
-      "year": 2024
-    },
-    {
-      "author": "Charles Dickens",
-      "dateFinished": null,
-      "id": "2024-01-great-expectations-0da24850",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 5,
-      "source": {
-        "anchor": "entry-2024-01-great-expectations-0da24850",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Great expectations",
-      "year": 2024
-    },
-    {
-      "author": "Tom Rob Smith",
-      "dateFinished": null,
-      "id": "2024-02-ice-people-d8fc2bc5",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 4,
-      "source": {
-        "anchor": "entry-2024-02-ice-people-d8fc2bc5",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Ice people",
-      "year": 2024
-    },
-    {
-      "author": "David Benioff",
-      "dateFinished": null,
-      "id": "2024-02-city-of-thieves-2e370261",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 3,
-      "source": {
-        "anchor": "entry-2024-02-city-of-thieves-2e370261",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "City of Thieves",
-      "year": 2024
-    },
-    {
-      "author": "Daniel Simmons",
-      "dateFinished": null,
-      "id": "2024-02-hyperion-cantos-book-1-5cd68fbc",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 3,
-      "series": {
-        "name": "Hyperion Cantos",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-02-hyperion-cantos-book-1-5cd68fbc",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Hyperion Cantos Book 1",
-      "year": 2024
-    },
-    {
-      "author": "Tom Rob Smith",
-      "dateFinished": null,
-      "id": "2024-03-child-44-ca2bfddc",
-      "month": 3,
-      "monthName": "March",
-      "ratingStars": 5,
-      "series": {
-        "name": "Leo Demidov Trilogy",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-03-child-44-ca2bfddc",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Child 44",
-      "year": 2024
-    },
-    {
-      "author": "Dan Simmons",
-      "dateFinished": null,
-      "id": "2024-03-hyperion-cantos-book-2-the-fall-of-hyperion-8ceab77d",
-      "month": 3,
-      "monthName": "March",
-      "ratingStars": 2,
-      "series": {
-        "name": "Hyperion Cantos",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-03-hyperion-cantos-book-2-the-fall-of-hyperion-8ceab77d",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Hyperion Cantos book 2 the fall of Hyperion",
-      "year": 2024
-    },
-    {
-      "author": "Adrian Tchaikovsky",
-      "dateFinished": null,
-      "id": "2024-04-alien-clay-a3df92a7",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 1,
-      "source": {
-        "anchor": "entry-2024-04-alien-clay-a3df92a7",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Alien Clay",
-      "year": 2024
-    },
-    {
-      "author": "Ian M Banks",
-      "dateFinished": null,
-      "id": "2024-04-surface-detail-fdba91b9",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 5,
-      "series": {
-        "name": "Culture Series"
-      },
-      "source": {
-        "anchor": "entry-2024-04-surface-detail-fdba91b9",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Surface detail",
-      "year": 2024
-    },
-    {
-      "author": "Tom Rob Smith",
-      "dateFinished": null,
-      "id": "2024-04-the-secret-speech-3c91a343",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 4,
-      "series": {
-        "name": "Leo Demidov Trilogy",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-04-the-secret-speech-3c91a343",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The secret speech",
-      "year": 2024
-    },
-    {
-      "author": "Stephen King",
-      "dateFinished": null,
-      "id": "2024-04-the-gun-slinger-403c0d55",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Dark Tower",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-04-the-gun-slinger-403c0d55",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The Gun Slinger",
-      "year": 2024
-    },
-    {
-      "author": "Christopher Ruocchio",
-      "dateFinished": null,
-      "id": "2024-04-empire-of-silence-1748ca2a",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Sun Eater",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-04-empire-of-silence-1748ca2a",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Empire of Silence",
-      "year": 2024
-    },
-    {
-      "author": "Stephen King",
-      "dateFinished": null,
-      "id": "2024-04-the-drawing-of-the-three-6c9e0551",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 2,
-      "series": {
-        "name": "The Dark Tower",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-04-the-drawing-of-the-three-6c9e0551",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The drawing of the three",
-      "year": 2024
-    },
-    {
-      "author": "Christopher Ruocchio",
-      "dateFinished": null,
-      "id": "2024-05-howling-dark-4fedf301",
-      "month": 5,
-      "monthName": "May",
-      "ratingStars": 5,
-      "series": {
-        "name": "The Sun Eater",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-05-howling-dark-4fedf301",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Howling Dark",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-06-the-way-of-kings-056a26c8",
-      "month": 6,
-      "monthName": "June",
-      "ratingStars": 4,
-      "series": {
-        "name": "Stormlight Archive",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-06-the-way-of-kings-056a26c8",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The way of kings",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-06-words-of-radiance-94953050",
-      "month": 6,
-      "monthName": "June",
-      "ratingStars": 5,
-      "series": {
-        "name": "Stormlight Archive",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-06-words-of-radiance-94953050",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Words of radiance",
-      "year": 2024
-    },
-    {
-      "author": "Christopher Ruocchio",
-      "dateFinished": null,
-      "id": "2024-06-the-demon-in-white-1a4850df",
-      "month": 6,
-      "monthName": "June",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Sun Eater",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2024-06-the-demon-in-white-1a4850df",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The demon in white",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-06-oathbringer-cdd8e1e2",
-      "month": 6,
-      "monthName": "June",
-      "ratingStars": 4,
-      "series": {
-        "name": "Stormlight Archive",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2024-06-oathbringer-cdd8e1e2",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Oathbringer",
-      "year": 2024
-    },
-    {
-      "author": "Christopher Ruocchio",
-      "dateFinished": null,
-      "id": "2024-07-kingdoms-of-death-ad1eb0dd",
-      "month": 7,
-      "monthName": "July",
-      "ratingStars": 5,
-      "series": {
-        "name": "The Sun Eater",
-        "number": 4
-      },
-      "source": {
-        "anchor": "entry-2024-07-kingdoms-of-death-ad1eb0dd",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Kingdoms of death",
-      "year": 2024
-    },
-    {
-      "author": "James Clavell",
-      "dateFinished": null,
-      "id": "2024-07-shogun-0335aa8f",
-      "month": 7,
-      "monthName": "July",
-      "ratingStars": 5,
-      "series": {
-        "name": "Asian Saga",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2024-07-shogun-0335aa8f",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Sh\u014dgun",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-07-rythym-of-war-f597ea51",
-      "month": 7,
-      "monthName": "July",
-      "ratingStars": 4,
-      "series": {
-        "name": "Stormlight Archive",
-        "number": 4
-      },
-      "source": {
-        "anchor": "entry-2024-07-rythym-of-war-f597ea51",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Rythym of War",
-      "year": 2024
-    },
-    {
-      "author": "Christopher Ruocchio",
-      "dateFinished": null,
-      "id": "2024-07-ashes-of-man-1da56c22",
-      "month": 7,
-      "monthName": "July",
-      "ratingStars": 5,
-      "series": {
-        "name": "The Sun Eater",
-        "number": 5
-      },
-      "source": {
-        "anchor": "entry-2024-07-ashes-of-man-1da56c22",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Ashes of Man",
-      "year": 2024
-    },
-    {
-      "author": "C.J. Sansom",
-      "dateFinished": null,
-      "id": "2024-08-dissolution-f3a8f98f",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 4,
-      "series": {
-        "name": "Shardlake Series",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-08-dissolution-f3a8f98f",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Dissolution",
-      "year": 2024
-    },
-    {
-      "author": "Pierce Brown",
-      "dateFinished": null,
-      "id": "2024-08-red-rising-8b86458a",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 3,
-      "series": {
-        "name": "Red Rising Saga",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-08-red-rising-8b86458a",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Red Rising",
-      "year": 2024
-    },
-    {
-      "author": "Pierce Brown",
-      "dateFinished": null,
-      "id": "2024-08-golden-son-ba1b7450",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 4,
-      "series": {
-        "name": "Red Rising Saga",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-08-golden-son-ba1b7450",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Golden Son",
-      "year": 2024
-    },
-    {
-      "author": "C.J. Sansom",
-      "dateFinished": null,
-      "id": "2024-08-dark-fire-24273cc7",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 3,
-      "series": {
-        "name": "Shardlake Series",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-08-dark-fire-24273cc7",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Dark Fire",
-      "year": 2024
-    },
-    {
-      "author": "Pierce Brown",
-      "dateFinished": null,
-      "id": "2024-08-morning-star-856031fd",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 4,
-      "series": {
-        "name": "Red Rising Saga",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2024-08-morning-star-856031fd",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Morning star",
-      "year": 2024
-    },
-    {
-      "author": "Carlos Ruiz Zaf\u00f3n",
-      "dateFinished": null,
-      "id": "2024-08-the-prisoner-of-heaven-b026d49d",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 3,
-      "series": {
-        "name": "Cemetery Of Forgotten Books",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2024-08-the-prisoner-of-heaven-b026d49d",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The prisoner of heaven",
-      "year": 2024
-    },
-    {
-      "author": "Rebecca F Kuang",
-      "dateFinished": null,
-      "id": "2024-08-yellowface-c7218326",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 4,
-      "source": {
-        "anchor": "entry-2024-08-yellowface-c7218326",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "Yellowface",
-      "year": 2024
-    },
-    {
-      "author": "John Gwynne",
-      "dateFinished": null,
-      "id": "2024-09-malice-4aa6c73a",
-      "month": 9,
-      "monthName": "September",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Faithful And The Fallen",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-09-malice-4aa6c73a",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Malice",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-09-the-final-empire-07104f3e",
-      "month": 9,
-      "monthName": "September",
-      "ratingStars": 4,
-      "series": {
-        "name": "Mistborn",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-09-the-final-empire-07104f3e",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The final empire",
-      "year": 2024
-    },
-    {
-      "author": "Bonnie Garmus",
-      "dateFinished": null,
-      "id": "2024-09-lessons-on-chemistry-74ef83ce",
-      "month": 9,
-      "monthName": "September",
-      "ratingStars": 3,
-      "source": {
-        "anchor": "entry-2024-09-lessons-on-chemistry-74ef83ce",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "Lessons on Chemistry",
-      "year": 2024
-    },
-    {
-      "author": "John Gwynne",
-      "dateFinished": null,
-      "id": "2024-09-valour-9f8fef77",
-      "month": 9,
-      "monthName": "September",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Faithful And The Fallen",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-09-valour-9f8fef77",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Valour",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-09-the-sunlit-man-06dbc8f8",
-      "month": 9,
-      "monthName": "September",
-      "ratingStars": 3,
-      "source": {
-        "anchor": "entry-2024-09-the-sunlit-man-06dbc8f8",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The sunlit man",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-10-the-well-of-ascension-c9e07ae8",
-      "month": 10,
-      "monthName": "October",
-      "ratingStars": 2,
-      "series": {
-        "name": "Mistborn",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-10-the-well-of-ascension-c9e07ae8",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The well of ascension",
-      "year": 2024
-    },
-    {
-      "author": "John Gwynne",
-      "dateFinished": null,
-      "id": "2024-10-ruin-1cd7094e",
-      "month": 10,
-      "monthName": "October",
-      "ratingStars": 3,
-      "series": {
-        "name": "The Faithful And The Fallen",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2024-10-ruin-1cd7094e",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Ruin",
-      "year": 2024
-    },
-    {
-      "author": "Christopher Ruocchio",
-      "dateFinished": null,
-      "id": "2024-10-disquiet-gods-3b934234",
-      "month": 10,
-      "monthName": "October",
-      "ratingStars": 3,
-      "series": {
-        "name": "The Sun Eater",
-        "number": 6
-      },
-      "source": {
-        "anchor": "entry-2024-10-disquiet-gods-3b934234",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Disquiet Gods",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-10-the-hero-of-ages-1d2b4d7e",
-      "month": 10,
-      "monthName": "October",
-      "ratingStars": 4,
-      "series": {
-        "name": "Mistborn",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2024-10-the-hero-of-ages-1d2b4d7e",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The hero of ages",
-      "year": 2024
-    },
-    {
-      "author": "Andy Weir",
-      "dateFinished": null,
-      "id": "2024-10-project-hail-mary-2b916e06",
-      "month": 10,
-      "monthName": "October",
-      "ratingStars": 5,
-      "source": {
-        "anchor": "entry-2024-10-project-hail-mary-2b916e06",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Project Hail Mary",
-      "year": 2024
-    },
-    {
-      "author": "John Gwynne",
-      "dateFinished": null,
-      "id": "2024-10-wrath-18a32f92",
-      "month": 10,
-      "monthName": "October",
-      "ratingStars": 3,
-      "series": {
-        "name": "The Faithful And The Fallen",
-        "number": 4
-      },
-      "source": {
-        "anchor": "entry-2024-10-wrath-18a32f92",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Wrath",
-      "year": 2024
-    },
-    {
-      "author": "Ada Palmer",
-      "dateFinished": null,
-      "id": "2024-11-too-like-the-lightning-eb912913",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 2,
-      "series": {
-        "name": "Terra Incognita",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-11-too-like-the-lightning-eb912913",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Too like the lightning",
-      "year": 2024
-    },
-    {
-      "author": "Chris van Tulleken",
-      "dateFinished": null,
-      "id": "2024-11-ultra-processed-people-521067dc",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 4,
-      "source": {
-        "anchor": "entry-2024-11-ultra-processed-people-521067dc",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "Ultra-processed people",
-      "year": 2024
-    },
-    {
-      "author": "R. Scott Bakker",
-      "dateFinished": null,
-      "id": "2024-11-the-darkness-that-comes-before-16b31275",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 0,
-      "series": {
-        "name": "Prince Of Nothing",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-11-the-darkness-that-comes-before-16b31275",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The Darkness That Comes Before",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-11-the-alloy-of-law-cf014ad6",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 3,
-      "series": {
-        "name": "Wax And Wayne",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-11-the-alloy-of-law-cf014ad6",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The alloy of Law",
-      "year": 2024
-    },
-    {
-      "author": "Orson Scott Card",
-      "dateFinished": null,
-      "id": "2024-11-enders-game-3b5c8a09",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 5,
-      "series": {
-        "name": "Ender Saga",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-11-enders-game-3b5c8a09",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Enders game",
-      "year": 2024
-    },
-    {
-      "author": "Mark Lawrence",
-      "dateFinished": null,
-      "id": "2024-11-prince-of-thorns-1d6ba5bd",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Broken Empire",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-11-prince-of-thorns-1d6ba5bd",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Prince of thorns",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-11-shadows-of-self-3c39393b",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 3,
-      "series": {
-        "name": "Wax And Wayne",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-11-shadows-of-self-3c39393b",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Shadows of self",
-      "year": 2024
-    },
-    {
-      "author": "Peter F. Hamilton",
-      "dateFinished": null,
-      "id": "2024-11-pandoras-star-e4b98ed5",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 4,
-      "series": {
-        "name": "Commonwealth Saga",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-11-pandoras-star-e4b98ed5",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Pandora\u2019s star",
-      "year": 2024
-    },
-    {
-      "author": "Peter F. Hamilton",
-      "dateFinished": null,
-      "id": "2024-11-judas-unchained-d022d4b4",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 3,
-      "series": {
-        "name": "Commonwealth Saga",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-11-judas-unchained-d022d4b4",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Judas unchained",
-      "year": 2024
-    },
-    {
-      "author": "Orson Scott Card",
-      "dateFinished": null,
-      "id": "2024-12-speaker-for-the-dead-a0666c4f",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 3,
-      "series": {
-        "name": "Ender Saga",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-12-speaker-for-the-dead-a0666c4f",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Speaker for the dead",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-12-edge-dancer-7ef53461",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 3,
-      "series": {
-        "name": "Stormlight Archive"
-      },
-      "source": {
-        "anchor": "entry-2024-12-edge-dancer-7ef53461",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Edge Dancer",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-12-dawnshard-5ef8395a",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 4,
-      "series": {
-        "name": "Stormlight Archive"
-      },
-      "source": {
-        "anchor": "entry-2024-12-dawnshard-5ef8395a",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Dawnshard",
-      "year": 2024
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2024-12-wind-and-truth-a79eda31",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 2,
-      "series": {
-        "name": "Stormlight Archive",
-        "number": 5
-      },
-      "source": {
-        "anchor": "entry-2024-12-wind-and-truth-a79eda31",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Wind and truth",
-      "year": 2024
-    },
-    {
-      "author": "Dan Simmons",
-      "dateFinished": null,
-      "id": "2024-12-endymion-3362a277",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 5,
-      "series": {
-        "name": "Hyperion Cantos",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2024-12-endymion-3362a277",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Endymion",
-      "year": 2024
-    },
-    {
-      "author": "Joe Abercrombie",
-      "dateFinished": null,
-      "id": "2024-12-the-blade-itself-77cdf688",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 4,
-      "series": {
-        "name": "The First Law",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2024-12-the-blade-itself-77cdf688",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The blade itself",
-      "year": 2024
-    },
-    {
-      "author": "Dan Simmons",
-      "dateFinished": null,
-      "id": "2024-12-the-rise-of-endymion-b8a4941f",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 5,
-      "series": {
-        "name": "Hyperion Cantos",
-        "number": 4
-      },
-      "source": {
-        "anchor": "entry-2024-12-the-rise-of-endymion-b8a4941f",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "The rise of Endymion",
-      "year": 2024
-    },
-    {
-      "author": "Joe Abercrombie",
-      "dateFinished": null,
-      "id": "2024-12-before-they-are-hanged-ea9431c2",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 4,
-      "series": {
-        "name": "The First Law",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2024-12-before-they-are-hanged-ea9431c2",
-        "file": "years/2024.md"
-      },
-      "startDate": null,
-      "title": "Before they are hanged",
-      "year": 2024
-    },
-    {
-      "author": "Tom Crewe",
-      "dateFinished": null,
-      "id": "2025-01-the-new-life-5766967f",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 5,
-      "source": {
-        "anchor": "entry-2025-01-the-new-life-5766967f",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "The new life",
-      "year": 2025
-    },
-    {
-      "author": "Joe Abercrombie",
-      "dateFinished": null,
-      "id": "2025-01-last-argument-of-kings-8abc601c",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 4,
-      "series": {
-        "name": "The First Law",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2025-01-last-argument-of-kings-8abc601c",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Last argument of kings",
-      "year": 2025
-    },
-    {
-      "author": "Orson Scott Card",
-      "dateFinished": null,
-      "id": "2025-01-xenocide-c3e99adf",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 4,
-      "series": {
-        "name": "Ender Saga",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2025-01-xenocide-c3e99adf",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Xenocide",
-      "year": 2025
-    },
-    {
-      "author": "Brandon Sanderson",
-      "dateFinished": null,
-      "id": "2025-01-bands-of-mourning-27b7cae6",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 3,
-      "series": {
-        "name": "Wax And Wayne",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2025-01-bands-of-mourning-27b7cae6",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Bands of mourning",
-      "year": 2025
-    },
-    {
-      "author": "Orson Scott Card",
-      "dateFinished": null,
-      "id": "2025-01-the-children-of-the-mind-3a3a0a2a",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 3,
-      "series": {
-        "name": "Ender Saga",
-        "number": 4
-      },
-      "source": {
-        "anchor": "entry-2025-01-the-children-of-the-mind-3a3a0a2a",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The children of the mind",
-      "year": 2025
-    },
-    {
-      "author": "Joe Abercrombie",
-      "dateFinished": null,
-      "id": "2025-01-best-served-cold-6a7d009a",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 2,
-      "source": {
-        "anchor": "entry-2025-01-best-served-cold-6a7d009a",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Best served cold",
-      "year": 2025
-    },
-    {
-      "author": "Orson Scott Card",
-      "dateFinished": null,
-      "id": "2025-01-ender-in-exile-02db5b3d",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 1,
-      "series": {
-        "name": "Ender Saga",
-        "number": 6
-      },
-      "source": {
-        "anchor": "entry-2025-01-ender-in-exile-02db5b3d",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Ender in Exile",
-      "year": 2025
-    },
-    {
-      "author": "Edmund White",
-      "dateFinished": null,
-      "id": "2025-01-a-boy-s-own-story-3558ba85",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 5,
-      "source": {
-        "anchor": "entry-2025-01-a-boy-s-own-story-3558ba85",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "A boy's own story",
-      "year": 2025
-    },
-    {
-      "author": "N.K. Jemisin",
-      "dateFinished": null,
-      "id": "2025-01-the-fifth-season-03e6814c",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Broken Earth",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2025-01-the-fifth-season-03e6814c",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The fifth season",
-      "year": 2025
-    },
-    {
-      "author": "N.K. Jemisin",
-      "dateFinished": null,
-      "id": "2025-01-the-obelisk-gate-5ae83ef7",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Broken Earth",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2025-01-the-obelisk-gate-5ae83ef7",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The Obelisk Gate",
-      "year": 2025
-    },
-    {
-      "author": "Haruki Murakam",
-      "dateFinished": null,
-      "id": "2025-02-the-wind-up-bird-chronicle-6edab630",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 3,
-      "source": {
-        "anchor": "entry-2025-02-the-wind-up-bird-chronicle-6edab630",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "The Wind-Up Bird Chronicle",
-      "year": 2025
-    },
-    {
-      "author": "N.K. Jemisin",
-      "dateFinished": null,
-      "id": "2025-02-the-stone-sky-ad4a88c1",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 3,
-      "series": {
-        "name": "The Broken Earth",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2025-02-the-stone-sky-ad4a88c1",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The Stone Sky",
-      "year": 2025
-    },
-    {
-      "author": "Shelley Parker-Chan",
-      "dateFinished": null,
-      "id": "2025-02-she-who-became-the-sun-b158237c",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 1,
-      "series": {
-        "name": "The Radiant Emperor",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2025-02-she-who-became-the-sun-b158237c",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "She Who Became the Sun",
-      "year": 2025
-    },
-    {
-      "author": "Peter F Hamilton",
-      "dateFinished": null,
-      "id": "2025-02-the-dreaming-void-bc4f1343",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 3,
-      "series": {
-        "name": "Void Trilogy",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2025-02-the-dreaming-void-bc4f1343",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The Dreaming Void",
-      "year": 2025
-    },
-    {
-      "author": "Peter F Hamilton",
-      "dateFinished": null,
-      "id": "2025-02-the-temporal-void-d100da9b",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 3,
-      "series": {
-        "name": "Void Trilogy",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2025-02-the-temporal-void-d100da9b",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The Temporal Void",
-      "year": 2025
-    },
-    {
-      "author": "Umberto Eco",
-      "dateFinished": null,
-      "id": "2025-03-the-name-of-the-rose-3c3c22d9",
-      "month": 3,
-      "monthName": "March",
-      "ratingStars": 1,
-      "source": {
-        "anchor": "entry-2025-03-the-name-of-the-rose-3c3c22d9",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The Name of the Rose",
-      "year": 2025
-    },
-    {
-      "author": "Peter F Hamilton",
-      "dateFinished": null,
-      "id": "2025-03-the-evolutionary-void-62a8aaf3",
-      "month": 3,
-      "monthName": "March",
-      "ratingStars": 3,
-      "series": {
-        "name": "Void Trilogy",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2025-03-the-evolutionary-void-62a8aaf3",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The evolutionary void",
-      "year": 2025
-    },
-    {
-      "author": "Alexei Navalny",
-      "dateFinished": null,
-      "id": "2025-03-patriot-86254a3c",
-      "month": 3,
-      "monthName": "March",
-      "ratingStars": 5,
-      "source": {
-        "anchor": "entry-2025-03-patriot-86254a3c",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "Patriot",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erikson",
-      "dateFinished": null,
-      "id": "2025-04-gardens-of-the-moon-a731a266",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 3,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2025-04-gardens-of-the-moon-a731a266",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Gardens Of The Moon",
-      "year": 2025
-    },
-    {
-      "author": "Kurt Vonnegut",
-      "dateFinished": null,
-      "id": "2025-04-slaughter-house-5-573d2d90",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 4,
-      "source": {
-        "anchor": "entry-2025-04-slaughter-house-5-573d2d90",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "Slaughter house 5",
-      "year": 2025
-    },
-    {
-      "author": "Alastair Reynolds",
-      "dateFinished": null,
-      "id": "2025-04-revelation-space-bef8a7c4",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 3,
-      "series": {
-        "name": "Revelation Space"
-      },
-      "source": {
-        "anchor": "entry-2025-04-revelation-space-bef8a7c4",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Revelation space",
-      "year": 2025
-    },
-    {
-      "author": "James Clavell",
-      "dateFinished": null,
-      "id": "2025-04-tai-pan-8b4d0490",
-      "month": 4,
-      "monthName": "April",
-      "ratingStars": 4,
-      "series": {
-        "name": "Asian Saga",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2025-04-tai-pan-8b4d0490",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Tai-Pan",
-      "year": 2025
-    },
-    {
-      "author": "Alastair Reynolds",
-      "dateFinished": null,
-      "id": "2025-05-redemption-ark-a686b09c",
-      "month": 5,
-      "monthName": "May",
-      "ratingStars": 3,
-      "series": {
-        "name": "Revelation Space"
-      },
-      "source": {
-        "anchor": "entry-2025-05-redemption-ark-a686b09c",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Redemption Ark",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erikson",
-      "dateFinished": null,
-      "id": "2025-05-deadhouse-gates-26af8ff9",
-      "month": 5,
-      "monthName": "May",
-      "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2025-05-deadhouse-gates-26af8ff9",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Deadhouse Gates",
-      "year": 2025
-    },
-    {
-      "author": "Alastair Reynolds",
-      "dateFinished": null,
-      "id": "2025-06-absolution-gap-5bfc18fb",
-      "month": 6,
-      "monthName": "June",
-      "ratingStars": 3,
-      "series": {
-        "name": "Revelation Space"
-      },
-      "source": {
-        "anchor": "entry-2025-06-absolution-gap-5bfc18fb",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Absolution Gap",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erickson",
-      "dateFinished": null,
-      "id": "2025-06-memories-of-ice-ed63a8bb",
-      "month": 6,
-      "monthName": "June",
-      "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2025-06-memories-of-ice-ed63a8bb",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Memories of ice",
-      "year": 2025
-    },
-    {
-      "author": "Arkady Martine",
-      "dateFinished": null,
-      "id": "2025-06-a-memory-called-empire-130151fc",
-      "month": 6,
-      "monthName": "June",
-      "ratingStars": 4,
-      "series": {
-        "name": "Teixcalaan",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2025-06-a-memory-called-empire-130151fc",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "A memory called empire",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erikson",
-      "dateFinished": null,
-      "id": "2025-07-house-of-chains-38a24a4d",
-      "month": 7,
-      "monthName": "July",
-      "ratingStars": 3,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 4
-      },
-      "source": {
-        "anchor": "entry-2025-07-house-of-chains-38a24a4d",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "House of chains",
-      "year": 2025
-    },
-    {
-      "author": "Nussaibah Younis",
-      "dateFinished": null,
-      "id": "2025-07-fundamentally-9f2b8b20",
-      "month": 7,
-      "monthName": "July",
-      "ratingStars": 3,
-      "source": {
-        "anchor": "entry-2025-07-fundamentally-9f2b8b20",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "Fundamentally",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erikson",
-      "dateFinished": null,
-      "id": "2025-07-midnight-tides-b4569017",
-      "month": 7,
-      "monthName": "July",
-      "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 5
-      },
-      "source": {
-        "anchor": "entry-2025-07-midnight-tides-b4569017",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Midnight Tides",
-      "year": 2025
-    },
-    {
-      "author": "Arkady Martine",
-      "dateFinished": null,
-      "id": "2025-08-a-desolation-called-peace-8d600343",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 5,
-      "series": {
-        "name": "Teixcalaan",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2025-08-a-desolation-called-peace-8d600343",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "A Desolation Called Peace",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erikson",
-      "dateFinished": null,
-      "id": "2025-08-the-bonehunters-775a9209",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 6
-      },
-      "source": {
-        "anchor": "entry-2025-08-the-bonehunters-775a9209",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The Bonehunters",
-      "year": 2025
-    },
-    {
-      "author": null,
-      "dateFinished": null,
-      "id": "2025-08-ready-player-one-6995d047",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 4,
-      "source": {
-        "anchor": "entry-2025-08-ready-player-one-6995d047",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Ready Player One",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erikson",
-      "dateFinished": null,
-      "id": "2025-08-reapers-gate-5fdad835",
-      "month": 8,
-      "monthName": "August",
-      "ratingStars": 4,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 7
-      },
-      "source": {
-        "anchor": "entry-2025-08-reapers-gate-5fdad835",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Reapers Gate",
-      "year": 2025
-    },
-    {
-      "author": "Asako Yuzuki",
-      "dateFinished": null,
-      "id": "2025-09-butter-bec98806",
-      "month": 9,
-      "monthName": "September",
-      "ratingStars": 5,
-      "source": {
-        "anchor": "entry-2025-09-butter-bec98806",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "Butter",
-      "year": 2025
-    },
-    {
-      "author": "Martha Wells",
-      "dateFinished": null,
-      "id": "2025-09-all-systems-red-the-murderbot-diaries-cc899e96",
-      "month": 9,
-      "monthName": "September",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Murderbot Diaries",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2025-09-all-systems-red-the-murderbot-diaries-cc899e96",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "All Systems Red: The Murderbot Diaries",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erikson",
-      "dateFinished": null,
-      "id": "2025-10-toll-the-hounds-47b979be",
-      "month": 10,
-      "monthName": "October",
-      "ratingStars": 5,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 8
-      },
-      "source": {
-        "anchor": "entry-2025-10-toll-the-hounds-47b979be",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Toll the Hounds",
-      "year": 2025
-    },
-    {
-      "author": "Alex Michaelides",
-      "dateFinished": null,
-      "id": "2025-10-the-silent-patient-0f256add",
-      "month": 10,
-      "monthName": "October",
-      "ratingStars": 3,
-      "source": {
-        "anchor": "entry-2025-10-the-silent-patient-0f256add",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "The silent patient",
-      "year": 2025
-    },
-    {
-      "author": "F. Scott Fitzgerald",
-      "dateFinished": null,
-      "id": "2025-10-the-great-gatsby-bb5ad4d2",
-      "month": 10,
-      "monthName": "October",
-      "ratingStars": 3,
-      "source": {
-        "anchor": "entry-2025-10-the-great-gatsby-bb5ad4d2",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "The Great Gatsby",
-      "year": 2025
-    },
-    {
-      "author": "Gareth L. Powell",
-      "dateFinished": null,
-      "id": "2025-11-embers-of-war-9dc5f0a8",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 4,
-      "series": {
-        "name": "Embers Of War",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2025-11-embers-of-war-9dc5f0a8",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Embers of War",
-      "year": 2025
-    },
-    {
-      "author": "Martha Wells",
-      "dateFinished": null,
-      "id": "2025-11-artificial-condition-the-murderbot-diaries-cc858b68",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 3,
-      "series": {
-        "name": "The Murderbot Diaries",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2025-11-artificial-condition-the-murderbot-diaries-cc858b68",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Artificial Condition: The Murderbot Diaries",
-      "year": 2025
-    },
-    {
-      "author": "Gareth L. Powell",
-      "dateFinished": "2025-11-17",
-      "id": "2025-11-fleet-of-knives-fff2c8fa",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 3,
-      "series": {
-        "name": "Embers Of War",
-        "number": 2
-      },
-      "source": {
-        "anchor": "entry-2025-11-fleet-of-knives-fff2c8fa",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Fleet of Knives",
-      "year": 2025
-    },
-    {
-      "author": "Martha Wells",
-      "dateFinished": "2025-11-19",
-      "id": "2025-11-rogue-protocol-the-murderbot-diaries-9d391f00",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 3,
-      "series": {
-        "name": "The Murderbot Diaries",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2025-11-rogue-protocol-the-murderbot-diaries-9d391f00",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Rogue Protocol: The Murderbot Diaries",
-      "year": 2025
-    },
-    {
-      "author": "Christopher Ruocchio",
-      "dateFinished": "2025-11-30",
-      "id": "2025-11-shadows-upon-time-5f7c501e",
-      "month": 11,
-      "monthName": "November",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Sun Eater",
-        "number": 7
-      },
-      "source": {
-        "anchor": "entry-2025-11-shadows-upon-time-5f7c501e",
-        "file": "years/2025.md"
-      },
-      "startDate": null,
-      "title": "Shadows Upon Time",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erikson",
-      "dateFinished": "2025-12-23",
-      "id": "2025-12-dust-of-dreams-c74981ec",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 3,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 9
-      },
-      "source": {
-        "anchor": "entry-2025-12-dust-of-dreams-c74981ec",
-        "file": "years/2025.md"
-      },
-      "startDate": "2025-12-01",
-      "title": "Dust of Dreams",
-      "year": 2025
-    },
-    {
-      "author": "Charles Dickens",
-      "dateFinished": null,
-      "id": "2025-12-nicholas-nickleby-0295dc28",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 0,
-      "source": {
-        "anchor": "entry-2025-12-nicholas-nickleby-0295dc28",
-        "file": "years/2025.md"
-      },
-      "startDate": "2025-12-23",
-      "title": "Nicholas Nickleby",
-      "year": 2025
-    },
-    {
-      "author": "Iris Murdoch",
-      "dateFinished": "2026-01-04",
-      "id": "2025-12-the-nice-and-the-good-201f0deb",
-      "month": 12,
-      "monthName": "December",
-      "ratingStars": 4,
-      "source": {
-        "anchor": "entry-2025-12-the-nice-and-the-good-201f0deb",
-        "file": "years/2025.md"
-      },
-      "startDate": "2025-12-30",
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "The nice and the good",
-      "year": 2025
-    },
-    {
-      "author": "Steven Erikson",
-      "dateFinished": "2026-01-15",
-      "id": "2026-01-the-crippled-god-cfc8b8a1",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 5,
-      "series": {
-        "name": "Malazan Book Of The Fallen",
-        "number": 10
-      },
-      "source": {
-        "anchor": "entry-2026-01-the-crippled-god-cfc8b8a1",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-01-05",
-      "tags": [
-        "#10"
-      ],
-      "title": "The Crippled God",
-      "year": 2026
-    },
-    {
-      "author": "Gareth L. Powell",
-      "dateFinished": "2026-01-18",
-      "id": "2026-01-the-light-of-impossible-stars-f2975c63",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 3,
-      "series": {
-        "name": "Embers Of War",
-        "number": 3
-      },
-      "source": {
-        "anchor": "entry-2026-01-the-light-of-impossible-stars-f2975c63",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-01-16",
-      "title": "The Light of Impossible Stars",
-      "year": 2026
-    },
-    {
-      "author": "Robert Graves",
-      "dateFinished": "2026-01-26",
-      "id": "2026-01-i-claudius-08699cdb",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 4,
-      "series": {
-        "name": "Claudius",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2026-01-i-claudius-08699cdb",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-01-18",
-      "title": "I, Claudius",
-      "year": 2026
-    },
-    {
-      "author": "Matt Haig",
-      "dateFinished": "2026-02-01",
-      "id": "2026-01-the-midnight-library-3491a923",
-      "month": 1,
-      "monthName": "January",
-      "ratingStars": 2,
-      "source": {
-        "anchor": "entry-2026-01-the-midnight-library-3491a923",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-01-26",
-      "tags": [
-        "#bookclub"
-      ],
-      "title": "The Midnight Library",
-      "year": 2026
-    },
-    {
-      "author": "Peter Watts",
-      "dateFinished": "2026-02-05",
-      "id": "2026-02-blindsight-c062dfe0",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 2,
-      "series": {
-        "name": "Firefall",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2026-02-blindsight-c062dfe0",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-02-02",
-      "title": "Blindsight",
-      "year": 2026
-    },
-    {
-      "author": "Robin Hobb",
-      "dateFinished": "2026-02-08",
-      "id": "2026-02-the-assassin-s-apprentice-49213bca",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 4,
-      "series": {
-        "name": "Farseer Trilogy",
-        "number": 1
-      },
-      "seriesPath": [
-        {
-          "name": "Realm Of The Elderlings",
-          "number": 1
-        },
-        {
-          "name": "Farseer Trilogy",
-          "number": 1
-        }
-      ],
-      "source": {
-        "anchor": "entry-2026-02-the-assassin-s-apprentice-49213bca",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-02-05",
-      "title": "The Assassin's Apprentice",
-      "year": 2026
-    },
-    {
-      "author": "Martha Wells",
-      "dateFinished": null,
-      "id": "2026-02-exit-strategy-d80bfea5",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 3,
-      "series": {
-        "name": "The Murderbot Diaries",
-        "number": 4
-      },
-      "source": {
-        "anchor": "entry-2026-02-exit-strategy-d80bfea5",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-02-08",
-      "title": "Exit Strategy",
-      "year": 2026
-    },
-    {
-      "author": "Robin Hobb",
-      "dateFinished": "2026-02-16",
-      "id": "2026-02-royal-assassin-c7f227b6",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 4,
-      "series": {
-        "name": "Farseer Trilogy",
-        "number": 2
-      },
-      "seriesPath": [
-        {
-          "name": "Realm Of The Elderlings",
-          "number": 2
-        },
-        {
-          "name": "Farseer Trilogy",
-          "number": 2
-        }
-      ],
-      "source": {
-        "anchor": "entry-2026-02-royal-assassin-c7f227b6",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-02-09",
-      "title": "Royal Assassin",
-      "year": 2026
-    },
-    {
-      "author": "James S. A. Corey",
-      "dateFinished": "2026-02-21",
-      "id": "2026-02-the-mercy-of-gods-646b9fbd",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 4,
-      "series": {
-        "name": "The Captive'S War",
-        "number": 1
-      },
-      "source": {
-        "anchor": "entry-2026-02-the-mercy-of-gods-646b9fbd",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-02-16",
-      "title": "The Mercy of Gods",
-      "year": 2026
-    },
-    {
-      "author": "Robin Hobb",
-      "dateFinished": null,
-      "id": "2026-02-assassin-s-quest-6da03965",
-      "month": 2,
-      "monthName": "February",
-      "ratingStars": 0,
-      "series": {
-        "name": "Farseer Trilogy",
-        "number": 3
-      },
-      "seriesPath": [
-        {
-          "name": "Realm Of The Elderlings",
-          "number": 3
-        },
-        {
-          "name": "Farseer Trilogy",
-          "number": 3
-        }
-      ],
-      "source": {
-        "anchor": "entry-2026-02-assassin-s-quest-6da03965",
-        "file": "years/2026.md"
-      },
-      "startDate": "2026-02-21",
-      "title": "Assassin's Quest",
-      "year": 2026
-    }
-  ],
   "meta": {
-    "entryCount": 115,
     "source": "Reading_diary.md",
+    "entryCount": 115,
     "years": [
       2024,
       2025,
@@ -2160,100 +10,2250 @@
   },
   "series_table": [
     {
+      "seriesName": "The Hitchhiker\u2019s Guide to the Galaxy",
       "author": "Douglas Adams",
       "ratingStars": 5,
-      "reviewText": "A childhood favorite. Cried with laughter. Re-read so much as a child that my anthology fell apart.",
-      "seriesName": "The Hitchhiker\u2019s Guide to the Galaxy"
+      "reviewText": "A childhood favorite. Cried with laughter. Re-read so much as a child that my anthology fell apart."
     },
     {
+      "seriesName": "The Expanse",
       "author": "James S. A. Corey",
       "ratingStars": 5,
-      "reviewText": "Not great literature but so entertaining. Like watching a movie. I became caught up with the world and the characters. I enjoyed the \"realistic\" portrayal of a future where humanities problems haven't been solved but rather expanded in scope. The optimistic end turned these novels from a bleak prediction to one of ultimate hope for humanity.",
-      "seriesName": "The Expanse"
+      "reviewText": "Not great literature but so entertaining. Like watching a movie. I became caught up with the world and the characters. I enjoyed the \"realistic\" portrayal of a future where humanities problems haven't been solved but rather expanded in scope. The optimistic end turned these novels from a bleak prediction to one of ultimate hope for humanity."
     },
     {
+      "seriesName": "The Wheel of Time",
       "author": "Robert Jordan",
       "ratingStars": 5,
-      "reviewText": "The series I have loved the most. The epic scape, intricate world building and action. I agree with critics who say that the middle volumes are overly long and drag. However it inspired my imagination, brought me to tears and shouts of triumph. I grew to know, love and hate the characters. I have re-read the full series three times.",
-      "seriesName": "The Wheel of Time"
+      "reviewText": "The series I have loved the most. The epic scape, intricate world building and action. I agree with critics who say that the middle volumes are overly long and drag. However it inspired my imagination, brought me to tears and shouts of triumph. I grew to know, love and hate the characters. I have re-read the full series three times."
     },
     {
+      "seriesName": "The Three Body Problem",
       "author": "Liu Cixin",
       "ratingStars": 5,
-      "reviewText": "One of my favorite book series. I loved the concept of a deadline to save the earth and how it would impact society over centuries. The interplay between the cultural revolution and the modern day was told brilliantly. Strange and compelling.",
-      "seriesName": "The Three Body Problem"
+      "reviewText": "One of my favorite book series. I loved the concept of a deadline to save the earth and how it would impact society over centuries. The interplay between the cultural revolution and the modern day was told brilliantly. Strange and compelling."
     },
     {
+      "seriesName": "The Wolf Hall Trilogy",
       "author": "Hilary Mantel",
       "ratingStars": 5,
-      "reviewText": "Brought the world of the court and times of Henry VIII to life. I loved the characters and the world that HM built. The characters danced in my mind and their voices sang in my head.",
-      "seriesName": "The Wolf Hall Trilogy"
+      "reviewText": "Brought the world of the court and times of Henry VIII to life. I loved the characters and the world that HM built. The characters danced in my mind and their voices sang in my head."
     },
     {
+      "seriesName": "The Culture Series",
       "author": "Iain Banks",
       "ratingStars": 4,
-      "reviewText": "Loved the world that was built and the optimism for the future. One could argue that these novels are techno-humanist in their message. Though they are more adventure stories. \"The Player of Games\" is by far my favorite novel. Exploring sexual politics, equality and morality. I like the fact that moral equivalence is rejected.",
-      "seriesName": "The Culture Series"
+      "reviewText": "Loved the world that was built and the optimism for the future. One could argue that these novels are techno-humanist in their message. Though they are more adventure stories. \"The Player of Games\" is by far my favorite novel. Exploring sexual politics, equality and morality. I like the fact that moral equivalence is rejected."
     },
     {
+      "seriesName": "The Song of Ice and Fire",
       "author": "George R. R. Martin",
       "ratingStars": 4,
-      "reviewText": "A classic, third favorite fantasy series so far (after Wheel of Time and Malazan Book of the Fallen).",
-      "seriesName": "The Song of Ice and Fire"
+      "reviewText": "A classic, third favorite fantasy series so far (after Wheel of Time and Malazan Book of the Fallen)."
     },
     {
+      "seriesName": "The Lacuna",
       "author": "Barbara Kingsolver",
       "ratingStars": 4,
-      "reviewText": "A beautiful description of a lost time in Mexico and the life of a young man. Weaving in Mexican and World history and betrayal.",
-      "seriesName": "The Lacuna"
+      "reviewText": "A beautiful description of a lost time in Mexico and the life of a young man. Weaving in Mexican and World history and betrayal."
     },
     {
+      "seriesName": "Moby Dick",
       "author": "Herman Melville",
       "ratingStars": 4,
-      "reviewText": "I read this when I was about 16 on a summer holiday. While I can't remember much of the novel I know I enjoyed it a great deal. I'm sure I will re-read at some point.",
-      "seriesName": "Moby Dick"
+      "reviewText": "I read this when I was about 16 on a summer holiday. While I can't remember much of the novel I know I enjoyed it a great deal. I'm sure I will re-read at some point."
     },
     {
+      "seriesName": "Children of Time",
       "author": "Adrian Tchaikovsky",
       "ratingStars": 3,
-      "reviewText": "A great take on science fiction and the lost earth genre. The spiders were a great way to explore what it means to be a moral creature and to explore the value of life.",
-      "seriesName": "Children of Time"
+      "reviewText": "A great take on science fiction and the lost earth genre. The spiders were a great way to explore what it means to be a moral creature and to explore the value of life."
     },
     {
+      "seriesName": "The Handmaid\u2019s Tale",
       "author": "Margaret Atwood",
       "ratingStars": 3,
-      "reviewText": "Difficult to read due to its content but fascinating and alarming.",
-      "seriesName": "The Handmaid\u2019s Tale"
+      "reviewText": "Difficult to read due to its content but fascinating and alarming."
     },
     {
+      "seriesName": "The Witcher",
       "author": "Andrzej Sapkowski",
       "ratingStars": 3,
-      "reviewText": "Enjoyable short stories. There is some exploration of themes of love, loss, betrayal and compassion. Not great literature. Good beach/holiday reading.",
-      "seriesName": "The Witcher"
+      "reviewText": "Enjoyable short stories. There is some exploration of themes of love, loss, betrayal and compassion. Not great literature. Good beach/holiday reading."
     },
     {
+      "seriesName": "Let the Right One In",
       "author": "John Ajvide Lindqvist",
       "ratingStars": 3,
-      "reviewText": "Read in my early 20s, loved the dark moodiness of the story. One of the first if not the first horror novel I have read.",
-      "seriesName": "Let the Right One In"
+      "reviewText": "Read in my early 20s, loved the dark moodiness of the story. One of the first if not the first horror novel I have read."
     },
     {
+      "seriesName": "American Gods",
       "author": "Neil Gaiman",
       "ratingStars": 2,
-      "reviewText": "A modern fairytale that I enjoyed. The world building and characterisation was engaging. However I have found that Neil Gaiman's characters are very similar in each novel and his writing of female characters is one dimensional.",
-      "seriesName": "American Gods"
+      "reviewText": "A modern fairytale that I enjoyed. The world building and characterisation was engaging. However I have found that Neil Gaiman's characters are very similar in each novel and his writing of female characters is one dimensional."
     },
     {
+      "seriesName": "The MaddAddam Trilogy",
       "author": "Margaret Atwood",
       "ratingStars": 2,
-      "reviewText": "A great satirical post-apocalyptic series.",
-      "seriesName": "The MaddAddam Trilogy"
+      "reviewText": "A great satirical post-apocalyptic series."
     },
     {
+      "seriesName": "Dune",
       "author": "Frank Herbert",
       "ratingStars": 2,
-      "reviewText": "Highly variable. I enjoyed the first three and last two novels but found the writing style overly stylized. There is so much love for Dune that I felt I needed to read it as a Sci-Fi and fantasy fan.",
-      "seriesName": "Dune"
+      "reviewText": "Highly variable. I enjoyed the first three and last two novels but found the writing style overly stylized. There is so much love for Dune that I felt I needed to read it as a Sci-Fi and fantasy fan."
+    }
+  ],
+  "entries": [
+    {
+      "title": "The Angel's Game",
+      "author": "Carlos Ruiz Zaf\u00f3n",
+      "id": "2024-01-the-angel-s-game-8dfbdd13",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-01-the-angel-s-game-8dfbdd13"
+      },
+      "series": {
+        "name": "Cemetery Of Forgotten Books",
+        "number": 2
+      }
+    },
+    {
+      "title": "Reasons Not to Worry: How to be Stoic in chaotic times",
+      "author": "Brigid Delaney",
+      "id": "2024-01-reasons-not-to-worry-how-to-be-stoic-in-chaotic-ti-96a7b9bf",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-01-reasons-not-to-worry-how-to-be-stoic-in-chaotic-ti-96a7b9bf"
+      }
+    },
+    {
+      "title": "Great expectations",
+      "author": "Charles Dickens",
+      "id": "2024-01-great-expectations-0da24850",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-01-great-expectations-0da24850"
+      }
+    },
+    {
+      "title": "Ice people",
+      "author": "Tom Rob Smith",
+      "id": "2024-02-ice-people-d8fc2bc5",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-02-ice-people-d8fc2bc5"
+      }
+    },
+    {
+      "title": "City of Thieves",
+      "author": "David Benioff",
+      "id": "2024-02-city-of-thieves-2e370261",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-02-city-of-thieves-2e370261"
+      }
+    },
+    {
+      "title": "Hyperion Cantos Book 1",
+      "author": "Daniel Simmons",
+      "id": "2024-02-hyperion-cantos-book-1-5cd68fbc",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-02-hyperion-cantos-book-1-5cd68fbc"
+      },
+      "series": {
+        "name": "Hyperion Cantos",
+        "number": 1
+      }
+    },
+    {
+      "title": "Child 44",
+      "author": "Tom Rob Smith",
+      "id": "2024-03-child-44-ca2bfddc",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 3,
+      "monthName": "March",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-03-child-44-ca2bfddc"
+      },
+      "series": {
+        "name": "Leo Demidov Trilogy",
+        "number": 1
+      }
+    },
+    {
+      "title": "Hyperion Cantos book 2 the fall of Hyperion",
+      "author": "Dan Simmons",
+      "id": "2024-03-hyperion-cantos-book-2-the-fall-of-hyperion-8ceab77d",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 3,
+      "monthName": "March",
+      "ratingStars": 2,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-03-hyperion-cantos-book-2-the-fall-of-hyperion-8ceab77d"
+      },
+      "series": {
+        "name": "Hyperion Cantos",
+        "number": 2
+      }
+    },
+    {
+      "title": "Alien Clay",
+      "author": "Adrian Tchaikovsky",
+      "id": "2024-04-alien-clay-a3df92a7",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 1,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-04-alien-clay-a3df92a7"
+      }
+    },
+    {
+      "title": "Surface detail",
+      "author": "Ian M Banks",
+      "id": "2024-04-surface-detail-fdba91b9",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-04-surface-detail-fdba91b9"
+      },
+      "series": {
+        "name": "Culture Series"
+      }
+    },
+    {
+      "title": "The secret speech",
+      "author": "Tom Rob Smith",
+      "id": "2024-04-the-secret-speech-3c91a343",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-04-the-secret-speech-3c91a343"
+      },
+      "series": {
+        "name": "Leo Demidov Trilogy",
+        "number": 2
+      }
+    },
+    {
+      "title": "The Gun Slinger",
+      "author": "Stephen King",
+      "id": "2024-04-the-gun-slinger-403c0d55",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-04-the-gun-slinger-403c0d55"
+      },
+      "series": {
+        "name": "The Dark Tower",
+        "number": 1
+      }
+    },
+    {
+      "title": "Empire of Silence",
+      "author": "Christopher Ruocchio",
+      "id": "2024-04-empire-of-silence-1748ca2a",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-04-empire-of-silence-1748ca2a"
+      },
+      "series": {
+        "name": "The Sun Eater",
+        "number": 1
+      }
+    },
+    {
+      "title": "The drawing of the three",
+      "author": "Stephen King",
+      "id": "2024-04-the-drawing-of-the-three-6c9e0551",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 2,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-04-the-drawing-of-the-three-6c9e0551"
+      },
+      "series": {
+        "name": "The Dark Tower",
+        "number": 2
+      }
+    },
+    {
+      "title": "Howling Dark",
+      "author": "Christopher Ruocchio",
+      "id": "2024-05-howling-dark-4fedf301",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-05-howling-dark-4fedf301"
+      },
+      "series": {
+        "name": "The Sun Eater",
+        "number": 2
+      }
+    },
+    {
+      "title": "The way of kings",
+      "author": "Brandon Sanderson",
+      "id": "2024-06-the-way-of-kings-056a26c8",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-06-the-way-of-kings-056a26c8"
+      },
+      "series": {
+        "name": "Stormlight Archive",
+        "number": 1
+      }
+    },
+    {
+      "title": "Words of radiance",
+      "author": "Brandon Sanderson",
+      "id": "2024-06-words-of-radiance-94953050",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-06-words-of-radiance-94953050"
+      },
+      "series": {
+        "name": "Stormlight Archive",
+        "number": 2
+      }
+    },
+    {
+      "title": "The demon in white",
+      "author": "Christopher Ruocchio",
+      "id": "2024-06-the-demon-in-white-1a4850df",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-06-the-demon-in-white-1a4850df"
+      },
+      "series": {
+        "name": "The Sun Eater",
+        "number": 3
+      }
+    },
+    {
+      "title": "Oathbringer",
+      "author": "Brandon Sanderson",
+      "id": "2024-06-oathbringer-cdd8e1e2",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-06-oathbringer-cdd8e1e2"
+      },
+      "series": {
+        "name": "Stormlight Archive",
+        "number": 3
+      }
+    },
+    {
+      "title": "Kingdoms of death",
+      "author": "Christopher Ruocchio",
+      "id": "2024-07-kingdoms-of-death-ad1eb0dd",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 7,
+      "monthName": "July",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-07-kingdoms-of-death-ad1eb0dd"
+      },
+      "series": {
+        "name": "The Sun Eater",
+        "number": 4
+      }
+    },
+    {
+      "title": "Sh\u014dgun",
+      "author": "James Clavell",
+      "id": "2024-07-shogun-0335aa8f",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 7,
+      "monthName": "July",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-07-shogun-0335aa8f"
+      },
+      "series": {
+        "name": "Asian Saga",
+        "number": 3
+      }
+    },
+    {
+      "title": "Rythym of War",
+      "author": "Brandon Sanderson",
+      "id": "2024-07-rythym-of-war-f597ea51",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 7,
+      "monthName": "July",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-07-rythym-of-war-f597ea51"
+      },
+      "series": {
+        "name": "Stormlight Archive",
+        "number": 4
+      }
+    },
+    {
+      "title": "Ashes of Man",
+      "author": "Christopher Ruocchio",
+      "id": "2024-07-ashes-of-man-1da56c22",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 7,
+      "monthName": "July",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-07-ashes-of-man-1da56c22"
+      },
+      "series": {
+        "name": "The Sun Eater",
+        "number": 5
+      }
+    },
+    {
+      "title": "Dissolution",
+      "author": "C.J. Sansom",
+      "id": "2024-08-dissolution-f3a8f98f",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-08-dissolution-f3a8f98f"
+      },
+      "series": {
+        "name": "Shardlake Series",
+        "number": 1
+      }
+    },
+    {
+      "title": "Red Rising",
+      "author": "Pierce Brown",
+      "id": "2024-08-red-rising-8b86458a",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-08-red-rising-8b86458a"
+      },
+      "series": {
+        "name": "Red Rising Saga",
+        "number": 1
+      }
+    },
+    {
+      "title": "Golden Son",
+      "author": "Pierce Brown",
+      "id": "2024-08-golden-son-ba1b7450",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-08-golden-son-ba1b7450"
+      },
+      "series": {
+        "name": "Red Rising Saga",
+        "number": 2
+      }
+    },
+    {
+      "title": "Dark Fire",
+      "author": "C.J. Sansom",
+      "id": "2024-08-dark-fire-24273cc7",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-08-dark-fire-24273cc7"
+      },
+      "series": {
+        "name": "Shardlake Series",
+        "number": 2
+      }
+    },
+    {
+      "title": "Morning star",
+      "author": "Pierce Brown",
+      "id": "2024-08-morning-star-856031fd",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-08-morning-star-856031fd"
+      },
+      "series": {
+        "name": "Red Rising Saga",
+        "number": 3
+      }
+    },
+    {
+      "title": "The prisoner of heaven",
+      "author": "Carlos Ruiz Zaf\u00f3n",
+      "id": "2024-08-the-prisoner-of-heaven-b026d49d",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-08-the-prisoner-of-heaven-b026d49d"
+      },
+      "series": {
+        "name": "Cemetery Of Forgotten Books",
+        "number": 3
+      }
+    },
+    {
+      "title": "Yellowface",
+      "author": "Rebecca F Kuang",
+      "id": "2024-08-yellowface-c7218326",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-08-yellowface-c7218326"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "Malice",
+      "author": "John Gwynne",
+      "id": "2024-09-malice-4aa6c73a",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 9,
+      "monthName": "September",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-09-malice-4aa6c73a"
+      },
+      "series": {
+        "name": "The Faithful And The Fallen",
+        "number": 1
+      }
+    },
+    {
+      "title": "The final empire",
+      "author": "Brandon Sanderson",
+      "id": "2024-09-the-final-empire-07104f3e",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 9,
+      "monthName": "September",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-09-the-final-empire-07104f3e"
+      },
+      "series": {
+        "name": "Mistborn",
+        "number": 1
+      }
+    },
+    {
+      "title": "Lessons on Chemistry",
+      "author": "Bonnie Garmus",
+      "id": "2024-09-lessons-on-chemistry-74ef83ce",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 9,
+      "monthName": "September",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-09-lessons-on-chemistry-74ef83ce"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "Valour",
+      "author": "John Gwynne",
+      "id": "2024-09-valour-9f8fef77",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 9,
+      "monthName": "September",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-09-valour-9f8fef77"
+      },
+      "series": {
+        "name": "The Faithful And The Fallen",
+        "number": 2
+      }
+    },
+    {
+      "title": "The sunlit man",
+      "author": "Brandon Sanderson",
+      "id": "2024-09-the-sunlit-man-06dbc8f8",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 9,
+      "monthName": "September",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-09-the-sunlit-man-06dbc8f8"
+      }
+    },
+    {
+      "title": "The well of ascension",
+      "author": "Brandon Sanderson",
+      "id": "2024-10-the-well-of-ascension-c9e07ae8",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 10,
+      "monthName": "October",
+      "ratingStars": 2,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-10-the-well-of-ascension-c9e07ae8"
+      },
+      "series": {
+        "name": "Mistborn",
+        "number": 2
+      }
+    },
+    {
+      "title": "Ruin",
+      "author": "John Gwynne",
+      "id": "2024-10-ruin-1cd7094e",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 10,
+      "monthName": "October",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-10-ruin-1cd7094e"
+      },
+      "series": {
+        "name": "The Faithful And The Fallen",
+        "number": 3
+      }
+    },
+    {
+      "title": "Disquiet Gods",
+      "author": "Christopher Ruocchio",
+      "id": "2024-10-disquiet-gods-3b934234",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 10,
+      "monthName": "October",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-10-disquiet-gods-3b934234"
+      },
+      "series": {
+        "name": "The Sun Eater",
+        "number": 6
+      }
+    },
+    {
+      "title": "The hero of ages",
+      "author": "Brandon Sanderson",
+      "id": "2024-10-the-hero-of-ages-1d2b4d7e",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 10,
+      "monthName": "October",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-10-the-hero-of-ages-1d2b4d7e"
+      },
+      "series": {
+        "name": "Mistborn",
+        "number": 3
+      }
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "id": "2024-10-project-hail-mary-2b916e06",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 10,
+      "monthName": "October",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-10-project-hail-mary-2b916e06"
+      }
+    },
+    {
+      "title": "Wrath",
+      "author": "John Gwynne",
+      "id": "2024-10-wrath-18a32f92",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 10,
+      "monthName": "October",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-10-wrath-18a32f92"
+      },
+      "series": {
+        "name": "The Faithful And The Fallen",
+        "number": 4
+      }
+    },
+    {
+      "title": "Too like the lightning",
+      "author": "Ada Palmer",
+      "id": "2024-11-too-like-the-lightning-eb912913",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 2,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-11-too-like-the-lightning-eb912913"
+      },
+      "series": {
+        "name": "Terra Incognita",
+        "number": 1
+      }
+    },
+    {
+      "title": "Ultra-processed people",
+      "author": "Chris van Tulleken",
+      "id": "2024-11-ultra-processed-people-521067dc",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-11-ultra-processed-people-521067dc"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "The Darkness That Comes Before",
+      "author": "R. Scott Bakker",
+      "id": "2024-11-the-darkness-that-comes-before-16b31275",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-11-the-darkness-that-comes-before-16b31275"
+      },
+      "series": {
+        "name": "Prince Of Nothing",
+        "number": 1
+      }
+    },
+    {
+      "title": "The alloy of Law",
+      "author": "Brandon Sanderson",
+      "id": "2024-11-the-alloy-of-law-cf014ad6",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-11-the-alloy-of-law-cf014ad6"
+      },
+      "series": {
+        "name": "Wax And Wayne",
+        "number": 1
+      }
+    },
+    {
+      "title": "Enders game",
+      "author": "Orson Scott Card",
+      "id": "2024-11-enders-game-3b5c8a09",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-11-enders-game-3b5c8a09"
+      },
+      "series": {
+        "name": "Ender Saga",
+        "number": 1
+      }
+    },
+    {
+      "title": "Prince of thorns",
+      "author": "Mark Lawrence",
+      "id": "2024-11-prince-of-thorns-1d6ba5bd",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-11-prince-of-thorns-1d6ba5bd"
+      },
+      "series": {
+        "name": "The Broken Empire",
+        "number": 1
+      }
+    },
+    {
+      "title": "Shadows of self",
+      "author": "Brandon Sanderson",
+      "id": "2024-11-shadows-of-self-3c39393b",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-11-shadows-of-self-3c39393b"
+      },
+      "series": {
+        "name": "Wax And Wayne",
+        "number": 2
+      }
+    },
+    {
+      "title": "Pandora\u2019s star",
+      "author": "Peter F. Hamilton",
+      "id": "2024-11-pandoras-star-e4b98ed5",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-11-pandoras-star-e4b98ed5"
+      },
+      "series": {
+        "name": "Commonwealth Saga",
+        "number": 1
+      }
+    },
+    {
+      "title": "Judas unchained",
+      "author": "Peter F. Hamilton",
+      "id": "2024-11-judas-unchained-d022d4b4",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-11-judas-unchained-d022d4b4"
+      },
+      "series": {
+        "name": "Commonwealth Saga",
+        "number": 2
+      }
+    },
+    {
+      "title": "Speaker for the dead",
+      "author": "Orson Scott Card",
+      "id": "2024-12-speaker-for-the-dead-a0666c4f",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-12-speaker-for-the-dead-a0666c4f"
+      },
+      "series": {
+        "name": "Ender Saga",
+        "number": 2
+      }
+    },
+    {
+      "title": "Edge Dancer",
+      "author": "Brandon Sanderson",
+      "id": "2024-12-edge-dancer-7ef53461",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-12-edge-dancer-7ef53461"
+      },
+      "series": {
+        "name": "Stormlight Archive"
+      }
+    },
+    {
+      "title": "Dawnshard",
+      "author": "Brandon Sanderson",
+      "id": "2024-12-dawnshard-5ef8395a",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-12-dawnshard-5ef8395a"
+      },
+      "series": {
+        "name": "Stormlight Archive"
+      }
+    },
+    {
+      "title": "Wind and truth",
+      "author": "Brandon Sanderson",
+      "id": "2024-12-wind-and-truth-a79eda31",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 2,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-12-wind-and-truth-a79eda31"
+      },
+      "series": {
+        "name": "Stormlight Archive",
+        "number": 5
+      }
+    },
+    {
+      "title": "Endymion",
+      "author": "Dan Simmons",
+      "id": "2024-12-endymion-3362a277",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-12-endymion-3362a277"
+      },
+      "series": {
+        "name": "Hyperion Cantos",
+        "number": 3
+      }
+    },
+    {
+      "title": "The blade itself",
+      "author": "Joe Abercrombie",
+      "id": "2024-12-the-blade-itself-77cdf688",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-12-the-blade-itself-77cdf688"
+      },
+      "series": {
+        "name": "The First Law",
+        "number": 1
+      }
+    },
+    {
+      "title": "The rise of Endymion",
+      "author": "Dan Simmons",
+      "id": "2024-12-the-rise-of-endymion-b8a4941f",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-12-the-rise-of-endymion-b8a4941f"
+      },
+      "series": {
+        "name": "Hyperion Cantos",
+        "number": 4
+      }
+    },
+    {
+      "title": "Before they are hanged",
+      "author": "Joe Abercrombie",
+      "id": "2024-12-before-they-are-hanged-ea9431c2",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2024,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2024.md",
+        "anchor": "entry-2024-12-before-they-are-hanged-ea9431c2"
+      },
+      "series": {
+        "name": "The First Law",
+        "number": 2
+      }
+    },
+    {
+      "title": "The new life",
+      "author": "Tom Crewe",
+      "id": "2025-01-the-new-life-5766967f",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-the-new-life-5766967f"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "Last argument of kings",
+      "author": "Joe Abercrombie",
+      "id": "2025-01-last-argument-of-kings-8abc601c",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-last-argument-of-kings-8abc601c"
+      },
+      "series": {
+        "name": "The First Law",
+        "number": 3
+      }
+    },
+    {
+      "title": "Xenocide",
+      "author": "Orson Scott Card",
+      "id": "2025-01-xenocide-c3e99adf",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-xenocide-c3e99adf"
+      },
+      "series": {
+        "name": "Ender Saga",
+        "number": 3
+      }
+    },
+    {
+      "title": "Bands of mourning",
+      "author": "Brandon Sanderson",
+      "id": "2025-01-bands-of-mourning-27b7cae6",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-bands-of-mourning-27b7cae6"
+      },
+      "series": {
+        "name": "Wax And Wayne",
+        "number": 3
+      }
+    },
+    {
+      "title": "The children of the mind",
+      "author": "Orson Scott Card",
+      "id": "2025-01-the-children-of-the-mind-3a3a0a2a",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-the-children-of-the-mind-3a3a0a2a"
+      },
+      "series": {
+        "name": "Ender Saga",
+        "number": 4
+      }
+    },
+    {
+      "title": "Best served cold",
+      "author": "Joe Abercrombie",
+      "id": "2025-01-best-served-cold-6a7d009a",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 2,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-best-served-cold-6a7d009a"
+      }
+    },
+    {
+      "title": "Ender in Exile",
+      "author": "Orson Scott Card",
+      "id": "2025-01-ender-in-exile-02db5b3d",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 1,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-ender-in-exile-02db5b3d"
+      },
+      "series": {
+        "name": "Ender Saga",
+        "number": 6
+      }
+    },
+    {
+      "title": "A boy's own story",
+      "author": "Edmund White",
+      "id": "2025-01-a-boy-s-own-story-3558ba85",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-a-boy-s-own-story-3558ba85"
+      }
+    },
+    {
+      "title": "The fifth season",
+      "author": "N.K. Jemisin",
+      "id": "2025-01-the-fifth-season-03e6814c",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-the-fifth-season-03e6814c"
+      },
+      "series": {
+        "name": "The Broken Earth",
+        "number": 1
+      }
+    },
+    {
+      "title": "The Obelisk Gate",
+      "author": "N.K. Jemisin",
+      "id": "2025-01-the-obelisk-gate-5ae83ef7",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-01-the-obelisk-gate-5ae83ef7"
+      },
+      "series": {
+        "name": "The Broken Earth",
+        "number": 2
+      }
+    },
+    {
+      "title": "The Wind-Up Bird Chronicle",
+      "author": "Haruki Murakam",
+      "id": "2025-02-the-wind-up-bird-chronicle-6edab630",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-02-the-wind-up-bird-chronicle-6edab630"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "The Stone Sky",
+      "author": "N.K. Jemisin",
+      "id": "2025-02-the-stone-sky-ad4a88c1",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-02-the-stone-sky-ad4a88c1"
+      },
+      "series": {
+        "name": "The Broken Earth",
+        "number": 3
+      }
+    },
+    {
+      "title": "She Who Became the Sun",
+      "author": "Shelley Parker-Chan",
+      "id": "2025-02-she-who-became-the-sun-b158237c",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 1,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-02-she-who-became-the-sun-b158237c"
+      },
+      "series": {
+        "name": "The Radiant Emperor",
+        "number": 1
+      }
+    },
+    {
+      "title": "The Dreaming Void",
+      "author": "Peter F Hamilton",
+      "id": "2025-02-the-dreaming-void-bc4f1343",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-02-the-dreaming-void-bc4f1343"
+      },
+      "series": {
+        "name": "Void Trilogy",
+        "number": 1
+      }
+    },
+    {
+      "title": "The Temporal Void",
+      "author": "Peter F Hamilton",
+      "id": "2025-02-the-temporal-void-d100da9b",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-02-the-temporal-void-d100da9b"
+      },
+      "series": {
+        "name": "Void Trilogy",
+        "number": 2
+      }
+    },
+    {
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "id": "2025-03-the-name-of-the-rose-3c3c22d9",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 3,
+      "monthName": "March",
+      "ratingStars": 1,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-03-the-name-of-the-rose-3c3c22d9"
+      }
+    },
+    {
+      "title": "The evolutionary void",
+      "author": "Peter F Hamilton",
+      "id": "2025-03-the-evolutionary-void-62a8aaf3",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 3,
+      "monthName": "March",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-03-the-evolutionary-void-62a8aaf3"
+      },
+      "series": {
+        "name": "Void Trilogy",
+        "number": 3
+      }
+    },
+    {
+      "title": "Patriot",
+      "author": "Alexei Navalny",
+      "id": "2025-03-patriot-86254a3c",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 3,
+      "monthName": "March",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-03-patriot-86254a3c"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "Gardens Of The Moon",
+      "author": "Steven Erikson",
+      "id": "2025-04-gardens-of-the-moon-a731a266",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-04-gardens-of-the-moon-a731a266"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 1
+      }
+    },
+    {
+      "title": "Slaughter house 5",
+      "author": "Kurt Vonnegut",
+      "id": "2025-04-slaughter-house-5-573d2d90",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-04-slaughter-house-5-573d2d90"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "Revelation space",
+      "author": "Alastair Reynolds",
+      "id": "2025-04-revelation-space-bef8a7c4",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-04-revelation-space-bef8a7c4"
+      },
+      "series": {
+        "name": "Revelation Space"
+      }
+    },
+    {
+      "title": "Tai-Pan",
+      "author": "James Clavell",
+      "id": "2025-04-tai-pan-8b4d0490",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-04-tai-pan-8b4d0490"
+      },
+      "series": {
+        "name": "Asian Saga",
+        "number": 2
+      }
+    },
+    {
+      "title": "Redemption Ark",
+      "author": "Alastair Reynolds",
+      "id": "2025-05-redemption-ark-a686b09c",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-05-redemption-ark-a686b09c"
+      },
+      "series": {
+        "name": "Revelation Space"
+      }
+    },
+    {
+      "title": "Deadhouse Gates",
+      "author": "Steven Erikson",
+      "id": "2025-05-deadhouse-gates-26af8ff9",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-05-deadhouse-gates-26af8ff9"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 2
+      }
+    },
+    {
+      "title": "Absolution Gap",
+      "author": "Alastair Reynolds",
+      "id": "2025-06-absolution-gap-5bfc18fb",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-06-absolution-gap-5bfc18fb"
+      },
+      "series": {
+        "name": "Revelation Space"
+      }
+    },
+    {
+      "title": "Memories of ice",
+      "author": "Steven Erickson",
+      "id": "2025-06-memories-of-ice-ed63a8bb",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-06-memories-of-ice-ed63a8bb"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 3
+      }
+    },
+    {
+      "title": "A memory called empire",
+      "author": "Arkady Martine",
+      "id": "2025-06-a-memory-called-empire-130151fc",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-06-a-memory-called-empire-130151fc"
+      },
+      "series": {
+        "name": "Teixcalaan",
+        "number": 1
+      }
+    },
+    {
+      "title": "House of chains",
+      "author": "Steven Erikson",
+      "id": "2025-07-house-of-chains-38a24a4d",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 7,
+      "monthName": "July",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-07-house-of-chains-38a24a4d"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 4
+      }
+    },
+    {
+      "title": "Fundamentally",
+      "author": "Nussaibah Younis",
+      "id": "2025-07-fundamentally-9f2b8b20",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 7,
+      "monthName": "July",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-07-fundamentally-9f2b8b20"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "Midnight Tides",
+      "author": "Steven Erikson",
+      "id": "2025-07-midnight-tides-b4569017",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 7,
+      "monthName": "July",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-07-midnight-tides-b4569017"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 5
+      }
+    },
+    {
+      "title": "A Desolation Called Peace",
+      "author": "Arkady Martine",
+      "id": "2025-08-a-desolation-called-peace-8d600343",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-08-a-desolation-called-peace-8d600343"
+      },
+      "series": {
+        "name": "Teixcalaan",
+        "number": 2
+      }
+    },
+    {
+      "title": "The Bonehunters",
+      "author": "Steven Erikson",
+      "id": "2025-08-the-bonehunters-775a9209",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-08-the-bonehunters-775a9209"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 6
+      }
+    },
+    {
+      "title": "Ready Player One",
+      "author": null,
+      "id": "2025-08-ready-player-one-6995d047",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-08-ready-player-one-6995d047"
+      }
+    },
+    {
+      "title": "Reapers Gate",
+      "author": "Steven Erikson",
+      "id": "2025-08-reapers-gate-5fdad835",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 8,
+      "monthName": "August",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-08-reapers-gate-5fdad835"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 7
+      }
+    },
+    {
+      "title": "Butter",
+      "author": "Asako Yuzuki",
+      "id": "2025-09-butter-bec98806",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 9,
+      "monthName": "September",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-09-butter-bec98806"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "All Systems Red: The Murderbot Diaries",
+      "author": "Martha Wells",
+      "id": "2025-09-all-systems-red-the-murderbot-diaries-cc899e96",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 9,
+      "monthName": "September",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-09-all-systems-red-the-murderbot-diaries-cc899e96"
+      },
+      "series": {
+        "name": "The Murderbot Diaries",
+        "number": 1
+      }
+    },
+    {
+      "title": "Toll the Hounds",
+      "author": "Steven Erikson",
+      "id": "2025-10-toll-the-hounds-47b979be",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 10,
+      "monthName": "October",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-10-toll-the-hounds-47b979be"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 8
+      }
+    },
+    {
+      "title": "The silent patient",
+      "author": "Alex Michaelides",
+      "id": "2025-10-the-silent-patient-0f256add",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 10,
+      "monthName": "October",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-10-the-silent-patient-0f256add"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "id": "2025-10-the-great-gatsby-bb5ad4d2",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 10,
+      "monthName": "October",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-10-the-great-gatsby-bb5ad4d2"
+      }
+    },
+    {
+      "title": "Embers of War",
+      "author": "Gareth L. Powell",
+      "id": "2025-11-embers-of-war-9dc5f0a8",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-11-embers-of-war-9dc5f0a8"
+      },
+      "series": {
+        "name": "Embers Of War",
+        "number": 1
+      }
+    },
+    {
+      "title": "Artificial Condition: The Murderbot Diaries",
+      "author": "Martha Wells",
+      "id": "2025-11-artificial-condition-the-murderbot-diaries-cc858b68",
+      "dateStarted": null,
+      "dateFinished": null,
+      "year": 2025,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-11-artificial-condition-the-murderbot-diaries-cc858b68"
+      },
+      "series": {
+        "name": "The Murderbot Diaries",
+        "number": 2
+      }
+    },
+    {
+      "title": "Fleet of Knives",
+      "author": "Gareth L. Powell",
+      "id": "2025-11-fleet-of-knives-fff2c8fa",
+      "dateStarted": null,
+      "dateFinished": "2025-11-17",
+      "year": 2025,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-11-fleet-of-knives-fff2c8fa"
+      },
+      "series": {
+        "name": "Embers Of War",
+        "number": 2
+      }
+    },
+    {
+      "title": "Rogue Protocol: The Murderbot Diaries",
+      "author": "Martha Wells",
+      "id": "2025-11-rogue-protocol-the-murderbot-diaries-9d391f00",
+      "dateStarted": null,
+      "dateFinished": "2025-11-19",
+      "year": 2025,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-11-rogue-protocol-the-murderbot-diaries-9d391f00"
+      },
+      "series": {
+        "name": "The Murderbot Diaries",
+        "number": 3
+      }
+    },
+    {
+      "title": "Shadows Upon Time",
+      "author": "Christopher Ruocchio",
+      "id": "2025-11-shadows-upon-time-5f7c501e",
+      "dateStarted": null,
+      "dateFinished": "2025-11-30",
+      "year": 2025,
+      "month": 11,
+      "monthName": "November",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-11-shadows-upon-time-5f7c501e"
+      },
+      "series": {
+        "name": "The Sun Eater",
+        "number": 7
+      }
+    },
+    {
+      "title": "Dust of Dreams",
+      "author": "Steven Erikson",
+      "id": "2025-12-dust-of-dreams-c74981ec",
+      "dateStarted": "2025-12-01",
+      "dateFinished": "2025-12-23",
+      "year": 2025,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-12-dust-of-dreams-c74981ec"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 9
+      }
+    },
+    {
+      "title": "Nicholas Nickleby",
+      "author": "Charles Dickens",
+      "id": "2025-12-nicholas-nickleby-0295dc28",
+      "dateStarted": "2025-12-23",
+      "dateFinished": null,
+      "year": 2025,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-12-nicholas-nickleby-0295dc28"
+      }
+    },
+    {
+      "title": "The nice and the good",
+      "author": "Iris Murdoch",
+      "id": "2025-12-the-nice-and-the-good-201f0deb",
+      "dateStarted": "2025-12-30",
+      "dateFinished": "2026-01-04",
+      "year": 2025,
+      "month": 12,
+      "monthName": "December",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2025.md",
+        "anchor": "entry-2025-12-the-nice-and-the-good-201f0deb"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "The Crippled God",
+      "author": "Steven Erikson",
+      "id": "2026-01-the-crippled-god-cfc8b8a1",
+      "dateStarted": "2026-01-05",
+      "dateFinished": "2026-01-15",
+      "year": 2026,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 5,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-01-the-crippled-god-cfc8b8a1"
+      },
+      "series": {
+        "name": "Malazan Book Of The Fallen",
+        "number": 10
+      },
+      "tags": [
+        "#10"
+      ]
+    },
+    {
+      "title": "The Light of Impossible Stars",
+      "author": "Gareth L. Powell",
+      "id": "2026-01-the-light-of-impossible-stars-f2975c63",
+      "dateStarted": "2026-01-16",
+      "dateFinished": "2026-01-18",
+      "year": 2026,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-01-the-light-of-impossible-stars-f2975c63"
+      },
+      "series": {
+        "name": "Embers Of War",
+        "number": 3
+      }
+    },
+    {
+      "title": "I, Claudius",
+      "author": "Robert Graves",
+      "id": "2026-01-i-claudius-08699cdb",
+      "dateStarted": "2026-01-18",
+      "dateFinished": "2026-01-26",
+      "year": 2026,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-01-i-claudius-08699cdb"
+      },
+      "series": {
+        "name": "Claudius",
+        "number": 1
+      }
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "id": "2026-01-the-midnight-library-3491a923",
+      "dateStarted": "2026-01-26",
+      "dateFinished": "2026-02-01",
+      "year": 2026,
+      "month": 1,
+      "monthName": "January",
+      "ratingStars": 2,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-01-the-midnight-library-3491a923"
+      },
+      "tags": [
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "Blindsight",
+      "author": "Peter Watts",
+      "id": "2026-02-blindsight-c062dfe0",
+      "dateStarted": "2026-02-02",
+      "dateFinished": "2026-02-05",
+      "year": 2026,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 2,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-02-blindsight-c062dfe0"
+      },
+      "series": {
+        "name": "Firefall",
+        "number": 1
+      }
+    },
+    {
+      "title": "The Assassin's Apprentice",
+      "author": "Robin Hobb",
+      "id": "2026-02-the-assassin-s-apprentice-49213bca",
+      "dateStarted": "2026-02-05",
+      "dateFinished": "2026-02-08",
+      "year": 2026,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-02-the-assassin-s-apprentice-49213bca"
+      },
+      "series": {
+        "name": "Farseer Trilogy",
+        "number": 1
+      },
+      "seriesPath": [
+        {
+          "name": "Realm Of The Elderlings",
+          "number": 1
+        },
+        {
+          "name": "Farseer Trilogy",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "title": "Exit Strategy",
+      "author": "Martha Wells",
+      "id": "2026-02-exit-strategy-d80bfea5",
+      "dateStarted": "2026-02-08",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-02-exit-strategy-d80bfea5"
+      },
+      "series": {
+        "name": "The Murderbot Diaries",
+        "number": 4
+      }
+    },
+    {
+      "title": "Royal Assassin",
+      "author": "Robin Hobb",
+      "id": "2026-02-royal-assassin-c7f227b6",
+      "dateStarted": "2026-02-09",
+      "dateFinished": "2026-02-16",
+      "year": 2026,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-02-royal-assassin-c7f227b6"
+      },
+      "series": {
+        "name": "Farseer Trilogy",
+        "number": 2
+      },
+      "seriesPath": [
+        {
+          "name": "Realm Of The Elderlings",
+          "number": 2
+        },
+        {
+          "name": "Farseer Trilogy",
+          "number": 2
+        }
+      ]
+    },
+    {
+      "title": "The Mercy of Gods",
+      "author": "James S. A. Corey",
+      "id": "2026-02-the-mercy-of-gods-646b9fbd",
+      "dateStarted": "2026-02-16",
+      "dateFinished": "2026-02-21",
+      "year": 2026,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-02-the-mercy-of-gods-646b9fbd"
+      },
+      "series": {
+        "name": "The Captive'S War",
+        "number": 1
+      }
+    },
+    {
+      "title": "Assassin's Quest",
+      "author": "Robin Hobb",
+      "id": "2026-02-assassin-s-quest-6da03965",
+      "dateStarted": "2026-02-21",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 2,
+      "monthName": "February",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-02-assassin-s-quest-6da03965"
+      },
+      "series": {
+        "name": "Farseer Trilogy",
+        "number": 3
+      },
+      "seriesPath": [
+        {
+          "name": "Realm Of The Elderlings",
+          "number": 3
+        },
+        {
+          "name": "Farseer Trilogy",
+          "number": 3
+        }
+      ]
     }
   ]
 }
