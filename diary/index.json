@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 115,
+    "entryCount": 116,
     "years": [
       2024,
       2025,
@@ -2231,11 +2231,11 @@
       "author": "Robin Hobb",
       "id": "2026-02-assassin-s-quest-6da03965",
       "dateStarted": "2026-02-21",
-      "dateFinished": null,
+      "dateFinished": "2026-02-28",
       "year": 2026,
       "month": 2,
       "monthName": "February",
-      "ratingStars": 0,
+      "ratingStars": 5,
       "source": {
         "file": "years/2026.md",
         "anchor": "entry-2026-02-assassin-s-quest-6da03965"
@@ -2253,6 +2253,24 @@
           "name": "Farseer Trilogy",
           "number": 3
         }
+      ]
+    },
+    {
+      "title": "The left hand of darkness",
+      "author": "Ursula K. Le Guin",
+      "id": "2026-03-the-left-hand-of-darkness-6ff9d5e9",
+      "dateStarted": "2026-03-01",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 3,
+      "monthName": "March",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-03-the-left-hand-of-darkness-6ff9d5e9"
+      },
+      "tags": [
+        "#bookclub"
       ]
     }
   ]
