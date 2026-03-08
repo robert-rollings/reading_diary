@@ -2256,18 +2256,18 @@
       ]
     },
     {
-      "title": "The left hand of darkness",
+      "title": "The Left Hand of Darkness",
       "author": "Ursula K. Le Guin",
-      "id": "2026-03-the-left-hand-of-darkness-6ff9d5e9",
+      "id": "2026-03-the-left-hand-of-darkness-f9fe27fd",
       "dateStarted": "2026-03-01",
-      "dateFinished": null,
+      "dateFinished": "2026-03-08",
       "year": 2026,
       "month": 3,
       "monthName": "March",
-      "ratingStars": 0,
+      "ratingStars": 4,
       "source": {
         "file": "years/2026.md",
-        "anchor": "entry-2026-03-the-left-hand-of-darkness-6ff9d5e9"
+        "anchor": "entry-2026-03-the-left-hand-of-darkness-f9fe27fd"
       },
       "tags": [
         "#bookclub"
