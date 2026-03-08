@@ -2288,7 +2288,8 @@
         "anchor": "entry-2026-03-ship-of-magic-4845b7fb"
       },
       "series": {
-        "name": "Liveship Traders Trilogy"
+        "name": "Liveship Traders Trilogy",
+        "number": 1
       },
       "seriesPath": [
         {
@@ -2296,7 +2297,8 @@
           "number": 4
         },
         {
-          "name": "Liveship Traders Trilogy"
+          "name": "Liveship Traders Trilogy",
+          "number": 1
         }
       ]
     }
