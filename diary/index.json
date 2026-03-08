@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 116,
+    "entryCount": 117,
     "years": [
       2024,
       2025,
@@ -2271,6 +2271,33 @@
       },
       "tags": [
         "#bookclub"
+      ]
+    },
+    {
+      "title": "Ship of Magic",
+      "author": "Robin Hobb",
+      "id": "2026-03-ship-of-magic-4845b7fb",
+      "dateStarted": "2026-03-08",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 3,
+      "monthName": "March",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-03-ship-of-magic-4845b7fb"
+      },
+      "series": {
+        "name": "Liveship Traders Trilogy"
+      },
+      "seriesPath": [
+        {
+          "name": "Realm Of The Elderlings",
+          "number": 4
+        },
+        {
+          "name": "Liveship Traders Trilogy"
+        }
       ]
     }
   ]
