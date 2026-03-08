@@ -1457,3 +1457,11 @@ And finally this most important point:
 This introduction set my expectations for The Left Hand of Darkness very high indeed. My expectation of greater internal conflict in Ai was a result of wanting a crisis of conscience that would reveal to Ai that his gendered view of the world has blinded him. I wanted him struck dumb with the realisation.
 
 But on reflection I see Le Guin's subtlety. He is able to empathise with one person (Estraven) and even come to love them. But he can't see females of his own people with clear and unbiased eyes. He is locked forever to repeat the mistake of his culture — failing to judge all as simply human beings.
+
+#### Ship of Magic by Robin Hobb
+
+
+Series: Realm of the Elderlings 4
+Series: Liveship Traders Trilogy
+Started: 2026-03-08
+Finished:
