@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 117,
+    "entryCount": 118,
     "years": [
       2024,
       2025,
@@ -2278,11 +2278,11 @@
       "author": "Robin Hobb",
       "id": "2026-03-ship-of-magic-4845b7fb",
       "dateStarted": "2026-03-08",
-      "dateFinished": null,
+      "dateFinished": "2026-03-29",
       "year": 2026,
       "month": 3,
       "monthName": "March",
-      "ratingStars": 0,
+      "ratingStars": 4,
       "source": {
         "file": "years/2026.md",
         "anchor": "entry-2026-03-ship-of-magic-4845b7fb"
@@ -2301,6 +2301,21 @@
           "number": 1
         }
       ]
+    },
+    {
+      "title": "Civilizations",
+      "author": "Laurent Binet",
+      "id": "2026-04-civilizations-d7988737",
+      "dateStarted": "2026-03-30",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-04-civilizations-d7988737"
+      }
     }
   ]
 }
