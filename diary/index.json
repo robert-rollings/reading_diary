@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 118,
+    "entryCount": 119,
     "years": [
       2024,
       2025,
@@ -2318,6 +2318,35 @@
       },
       "tags": [
         "#bookclub"
+      ]
+    },
+    {
+      "title": "The mad ship",
+      "author": "Robin Hobb",
+      "id": "2026-04-the-mad-ship-66654ec7",
+      "dateStarted": "2026-04-03",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 4,
+      "monthName": "April",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-04-the-mad-ship-66654ec7"
+      },
+      "series": {
+        "name": "Liveship Traders Trilogy",
+        "number": 2
+      },
+      "seriesPath": [
+        {
+          "name": "Realm Of The Elderlings",
+          "number": 5
+        },
+        {
+          "name": "Liveship Traders Trilogy",
+          "number": 2
+        }
       ]
     }
   ]
