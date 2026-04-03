@@ -2307,15 +2307,18 @@
       "author": "Laurent Binet",
       "id": "2026-04-civilizations-d7988737",
       "dateStarted": "2026-03-30",
-      "dateFinished": null,
+      "dateFinished": "2026-04-03",
       "year": 2026,
       "month": 4,
       "monthName": "April",
-      "ratingStars": 0,
+      "ratingStars": 3,
       "source": {
         "file": "years/2026.md",
         "anchor": "entry-2026-04-civilizations-d7988737"
-      }
+      },
+      "tags": [
+        "#bookclub"
+      ]
     }
   ]
 }
