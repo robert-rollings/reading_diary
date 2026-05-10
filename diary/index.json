@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 120,
+    "entryCount": 125,
     "years": [
       2024,
       2025,
@@ -2369,6 +2369,117 @@
       "series": {
         "name": "The Captive'S War",
         "number": 2
+      },
+      "tags": [
+        "#scifi"
+      ]
+    },
+    {
+      "title": "Dungeon Crawler Carl",
+      "author": "Matt Dinniman",
+      "id": "2026-05-dungeon-crawler-carl-32dffdfb",
+      "dateStarted": "2026-05-01",
+      "dateFinished": "2026-05-03",
+      "year": 2026,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-05-dungeon-crawler-carl-32dffdfb"
+      },
+      "series": {
+        "name": "Dungeon Crawler Carl",
+        "number": 1
+      },
+      "tags": [
+        "#scifi",
+        "#bookclub"
+      ]
+    },
+    {
+      "title": "Carl's Doomsday Scenario",
+      "author": "Matt Dinniman",
+      "id": "2026-05-carl-s-doomsday-scenario-e8f66ff5",
+      "dateStarted": "2026-05-03",
+      "dateFinished": "2026-05-04",
+      "year": 2026,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-05-carl-s-doomsday-scenario-e8f66ff5"
+      },
+      "series": {
+        "name": "Dungeon Crawler Carl",
+        "number": 1
+      },
+      "tags": [
+        "#scifi"
+      ]
+    },
+    {
+      "title": "The Dungeon Anarchist's Cookbook",
+      "author": "Matt Dinniman",
+      "id": "2026-05-the-dungeon-anarchist-s-cookbook-ef9c1791",
+      "dateStarted": "2026-05-04",
+      "dateFinished": "2026-05-05",
+      "year": 2026,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-05-the-dungeon-anarchist-s-cookbook-ef9c1791"
+      },
+      "series": {
+        "name": "Dungeon Crawler Carl",
+        "number": 1
+      },
+      "tags": [
+        "#scifi"
+      ]
+    },
+    {
+      "title": "The Gate of The Feral Gods",
+      "author": "Matt Dinniman",
+      "id": "2026-05-the-gate-of-the-feral-gods-d2445670",
+      "dateStarted": "2026-05-05",
+      "dateFinished": "2026-05-08",
+      "year": 2026,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-05-the-gate-of-the-feral-gods-d2445670"
+      },
+      "series": {
+        "name": "Dungeon Crawler Carl",
+        "number": 1
+      },
+      "tags": [
+        "#scifi"
+      ]
+    },
+    {
+      "title": "Network Effect",
+      "author": "Martha Wells",
+      "id": "2026-05-network-effect-908cad70",
+      "dateStarted": "2026-05-08",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-05-network-effect-908cad70"
+      },
+      "series": {
+        "name": "The Murderbot Diaries",
+        "number": 5
       },
       "tags": [
         "#scifi"
