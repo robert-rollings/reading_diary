@@ -1531,3 +1531,51 @@ Corey uses character as a means to tell his story and explore ideas rather than 
 
 ### May 2026
 
+#### Dungeon Crawler Carl by Matt Dinniman
+
+⭐️⭐️⭐️
+Series: Dungeon Crawler Carl 1
+Started: 2026-05-01
+Finished: 2026-05-03
+#scifi
+#bookclub
+
+Highly original and entertaining holiday reading. Obvious theme of untrammelled corporate greed and colonialism with a big dose of criticism of the current wave of unscripted TV.
+
+#### Carl's Doomsday Scenario by Matt Dinniman
+
+⭐️⭐️⭐️
+Series: Dungeon Crawler Carl 1
+Started: 2026-05-03
+Finished: 2026-05-04
+#scifi
+
+I can't put this series down. Highly amusing but very repetitive in structure. The first one was read for book club but I've dived in to the next one straight away. Again great for reading by the pool.
+
+#### The Dungeon Anarchist's Cookbook by Matt Dinniman
+
+⭐️⭐️⭐️
+Series: Dungeon Crawler Carl 1
+Started: 2026-05-04
+Finished: 2026-05-05
+#scifi
+
+We start to get into more of the world outside of Earth and Carl's dungeon and start to look at the politics of the surrounding universe. Dinniman is attempting to broaden his themes. But structure is very similar. However, Donut's character is starting to deepen and become more complex.
+
+#### The Gate of The Feral Gods by Matt Dinniman
+
+⭐️⭐️⭐️
+Series: Dungeon Crawler Carl 1
+Started: 2026-05-05
+Finished: 2026-05-08
+#scifi
+
+Broadened the world and added new characters and moral complexity. Great for last days of holiday.
+
+#### Network Effect by Martha Wells
+
+
+Series: The Murderbot Diaries 5
+Started: 2026-05-08
+Finished: 
+#scifi
