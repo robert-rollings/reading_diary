@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 125,
+    "entryCount": 126,
     "years": [
       2024,
       2025,
@@ -2413,7 +2413,7 @@
       },
       "series": {
         "name": "Dungeon Crawler Carl",
-        "number": 1
+        "number": 2
       },
       "tags": [
         "#scifi"
@@ -2435,7 +2435,7 @@
       },
       "series": {
         "name": "Dungeon Crawler Carl",
-        "number": 1
+        "number": 3
       },
       "tags": [
         "#scifi"
@@ -2457,7 +2457,7 @@
       },
       "series": {
         "name": "Dungeon Crawler Carl",
-        "number": 1
+        "number": 4
       },
       "tags": [
         "#scifi"
@@ -2468,6 +2468,28 @@
       "author": "Martha Wells",
       "id": "2026-05-network-effect-908cad70",
       "dateStarted": "2026-05-08",
+      "dateFinished": "2026-05-11",
+      "year": 2026,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 4,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-05-network-effect-908cad70"
+      },
+      "series": {
+        "name": "The Murderbot Diaries",
+        "number": 5
+      },
+      "tags": [
+        "#scifi"
+      ]
+    },
+    {
+      "title": "The Butcher's Masquerade",
+      "author": "Matt Dinniman",
+      "id": "2026-05-the-butcher-s-masquerade-c526042a",
+      "dateStarted": "2026-05-12",
       "dateFinished": null,
       "year": 2026,
       "month": 5,
@@ -2475,10 +2497,10 @@
       "ratingStars": 0,
       "source": {
         "file": "years/2026.md",
-        "anchor": "entry-2026-05-network-effect-908cad70"
+        "anchor": "entry-2026-05-the-butcher-s-masquerade-c526042a"
       },
       "series": {
-        "name": "The Murderbot Diaries",
+        "name": "Dungeon Crawler Carl",
         "number": 5
       },
       "tags": [
