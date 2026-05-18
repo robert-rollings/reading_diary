@@ -1545,7 +1545,7 @@ Highly original and entertaining holiday reading. Obvious theme of untrammelled 
 #### Carl's Doomsday Scenario by Matt Dinniman
 
 ⭐️⭐️⭐️
-Series: Dungeon Crawler Carl 1
+Series: Dungeon Crawler Carl 2
 Started: 2026-05-03
 Finished: 2026-05-04
 #scifi
@@ -1555,7 +1555,7 @@ I can't put this series down. Highly amusing but very repetitive in structure. T
 #### The Dungeon Anarchist's Cookbook by Matt Dinniman
 
 ⭐️⭐️⭐️
-Series: Dungeon Crawler Carl 1
+Series: Dungeon Crawler Carl 3
 Started: 2026-05-04
 Finished: 2026-05-05
 #scifi
@@ -1565,7 +1565,7 @@ We start to get into more of the world outside of Earth and Carl's dungeon and s
 #### The Gate of The Feral Gods by Matt Dinniman
 
 ⭐️⭐️⭐️
-Series: Dungeon Crawler Carl 1
+Series: Dungeon Crawler Carl 4
 Started: 2026-05-05
 Finished: 2026-05-08
 #scifi
@@ -1573,9 +1573,18 @@ Finished: 2026-05-08
 Broadened the world and added new characters and moral complexity. Great for last days of holiday.
 
 #### Network Effect by Martha Wells
-
+⭐️⭐️⭐️⭐️
 
 Series: The Murderbot Diaries 5
 Started: 2026-05-08
+Finished: 2026-05-11
+#scifi
+
+Another enjoyable jaunt down into the world of MurderBot. We are re-united with ART and this makes for a compelling story. As the relationships Murderbot has with more and more entities grow so we see him grow. We learn about what it means to be human from a machine. Wells breaks with the formulaic plot structure which she had been using up until now, and we get to a real, almost epic like, set-up for the fifth installment. We have alien infections, hive-minds, computers gone mad and the fate of colonists and ART's crew to content with. This makes for a much richer environment for characters, conflict and relationships to grow and develop.
+
+#### The Butcher's Masquerade by Matt Dinniman
+
+Series: Dungeon Crawler Carl 5
+Started: 2026-05-12
 Finished: 
 #scifi
