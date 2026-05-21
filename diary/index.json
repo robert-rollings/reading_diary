@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 126,
+    "entryCount": 127,
     "years": [
       2024,
       2025,
@@ -2490,11 +2490,11 @@
       "author": "Matt Dinniman",
       "id": "2026-05-the-butcher-s-masquerade-c526042a",
       "dateStarted": "2026-05-12",
-      "dateFinished": null,
+      "dateFinished": "2026-05-21",
       "year": 2026,
       "month": 5,
       "monthName": "May",
-      "ratingStars": 0,
+      "ratingStars": 4,
       "source": {
         "file": "years/2026.md",
         "anchor": "entry-2026-05-the-butcher-s-masquerade-c526042a"
@@ -2505,6 +2505,38 @@
       },
       "tags": [
         "#scifi"
+      ]
+    },
+    {
+      "title": "Ship of Destiny",
+      "author": "Robin Hobb",
+      "id": "2026-05-ship-of-destiny-c26c411a",
+      "dateStarted": "2026-05-21",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 5,
+      "monthName": "May",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-05-ship-of-destiny-c26c411a"
+      },
+      "series": {
+        "name": "Liveship Traders Trilogy",
+        "number": 3
+      },
+      "seriesPath": [
+        {
+          "name": "Realm Of The Elderlings",
+          "number": 6
+        },
+        {
+          "name": "Liveship Traders Trilogy",
+          "number": 3
+        }
+      ],
+      "tags": [
+        "#fantasy"
       ]
     }
   ]
