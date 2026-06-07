@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 128,
+    "entryCount": 129,
     "years": [
       2024,
       2025,
@@ -2556,6 +2556,28 @@
       "series": {
         "name": "Dungeon Crawler Carl",
         "number": 6
+      },
+      "tags": [
+        "#scifi"
+      ]
+    },
+    {
+      "title": "The Inevitable Ruin",
+      "author": "Matt Dinniman",
+      "id": "2026-06-the-inevitable-ruin-33a59902",
+      "dateStarted": "2026-06-07",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-06-the-inevitable-ruin-33a59902"
+      },
+      "series": {
+        "name": "Dungeon Crawler Carl",
+        "number": 7
       },
       "tags": [
         "#scifi"
