@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 129,
+    "entryCount": 130,
     "years": [
       2024,
       2025,
@@ -2566,11 +2566,11 @@
       "author": "Matt Dinniman",
       "id": "2026-06-the-inevitable-ruin-33a59902",
       "dateStarted": "2026-06-07",
-      "dateFinished": null,
+      "dateFinished": "2026-06-11",
       "year": 2026,
       "month": 6,
       "monthName": "June",
-      "ratingStars": 0,
+      "ratingStars": 4,
       "source": {
         "file": "years/2026.md",
         "anchor": "entry-2026-06-the-inevitable-ruin-33a59902"
@@ -2581,6 +2581,24 @@
       },
       "tags": [
         "#scifi"
+      ]
+    },
+    {
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "id": "2026-06-adventures-of-huckleberry-finn-cb7d2df5",
+      "dateStarted": "2026-06-12",
+      "dateFinished": null,
+      "year": 2026,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 0,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-06-adventures-of-huckleberry-finn-cb7d2df5"
+      },
+      "tags": [
+        "#literary_fiction"
       ]
     }
   ]
