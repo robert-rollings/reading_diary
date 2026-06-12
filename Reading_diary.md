@@ -1,5 +1,6 @@
 
 # Reading diary
+
 <!-- cspell:disable -->
 
 ## Other books or series of books I have read and enjoyed
@@ -33,18 +34,21 @@ Sorted by `Rating` and alphabetically by `Author`.
 Series: Cemetery of Forgotten Books 2
 
 ⭐️⭐️⭐️⭐️⭐️
+#mystery
 
 Psychological thriller with ambiguous ending. Second in the graveyard of forgotten books series.
 
 #### Reasons Not to Worry: How to be Stoic in chaotic times by [Brigid Delaney](https://www.amazon.co.uk/Brigid-Delaney/e/B0BD2J9LSL/ref=dp_byline_cont_ebooks_1)
 
 ⭐️⭐️⭐️⭐️
+#nonfiction
 
 A very good and practical guide to stoicism. I didn’t like some of the writing style. Referring to “vibes”. Makes me want to read more on the subject.
 
 #### Great expectations by Charles Dickens
 
 ⭐️⭐️⭐️⭐️⭐️
+#classic #literary_fiction
 
 Never read Dickens before. Very good story told from the fist person perspective. Didn’t expect the ending to be quite so melancholy. Dickens created larger than life characters they jump from the page. Some ridiculous. Not sure if they are meant to be believed or are characters.
 
@@ -53,12 +57,14 @@ Never read Dickens before. Very good story told from the fist person perspective
 #### Ice people by Tom Rob Smith
 
 ⭐️⭐️⭐️⭐️
+#scifi
 
 Cinematic. Begging for a sequel. Clearly inspired by the three body problem
 
 #### City of Thieves by David Benioff
 
 ⭐️⭐️⭐️
+#historical_fiction
 
 Enjoyed this but very dark. Some of the characters lacked depth. But a great grim adventure
 
@@ -66,6 +72,7 @@ Enjoyed this but very dark. Some of the characters lacked depth. But a great gri
 Series: Hyperion Cantos 1
 
 ⭐️⭐️⭐️
+#scifi
 
 Hard SiFi but interesting. Book clearly the first in a series. Who / what is the Shrike. What is the AI core up to?
 
@@ -75,6 +82,7 @@ Hard SiFi but interesting. Book clearly the first in a series. Who / what is the
 Series: Leo Demidov Trilogy 1
 
 ⭐️⭐️⭐️⭐️⭐️
+#thriller #historical_fiction
 
 Great adventure and detective model set in Stalin’s Russia where there can be no crime.
 
@@ -82,6 +90,7 @@ Great adventure and detective model set in Stalin’s Russia where there can be 
 Series: Hyperion Cantos 2
 
 ⭐️⭐️
+#scifi
 
 Overly long and mystical. Enjoyable in parts. Might consider reading more of the series.
 
@@ -90,6 +99,7 @@ Overly long and mystical. Enjoyable in parts. Might consider reading more of the
 #### Alien Clay by Adrian Tchaikovsky
 
 ⭐️
+#scifi
 
 Very entertaining but formulaic. The commandant was a one dimensional antagonist.
 
@@ -97,6 +107,7 @@ Very entertaining but formulaic. The commandant was a one dimensional antagonist
 Series: Culture Series
 
 ⭐️⭐️⭐️⭐️⭐️
+#scifi
 
 Penultimate culture series novel and this sees the culture at its best. Lots of exciting politics, space battles and mischievous minds all working together at cross purposes with the humans getting caught in between.
 
@@ -104,6 +115,7 @@ Penultimate culture series novel and this sees the culture at its best. Lots of 
 Series: Leo Demidov Trilogy 2
 
 ⭐️⭐️⭐️⭐️
+#thriller #historical_fiction
 
 Another great thriller by Tom Rob Smith. Great romp, lots of blood and gore. The plot stretched credulity but then they do say “stranger then Fiction”. The story continues to follow Leo & Raisa as they try to build their lives with their adopted daughters in post Stalin USSR.
 
@@ -111,6 +123,7 @@ Another great thriller by Tom Rob Smith. Great romp, lots of blood and gore. The
 Series: The Dark Tower 1
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Very much tell this was written by a 19 year old. The book felt like one long introductory chapter which I guess it is. So many unanswered questions about this world. Looking forward to reading more.
 
@@ -118,6 +131,7 @@ Very much tell this was written by a 19 year old. The book felt like one long in
 Series: The Sun Eater 1
 
 ⭐️⭐️⭐️⭐️
+#scifi #fantasy
 
 The world is heavily influenced by Dune. With an emperor, noble class, monopolies guilds, a ban on AI with trained humans filling the place of computers. However the universe is richer and the story more relatable. Some of the technology is inspired by “the culture” series. Eg. neural nets. I look forward to reading the next one.
 
@@ -125,6 +139,7 @@ The world is heavily influenced by Dune. With an emperor, noble class, monopolie
 Series: The Dark Tower 2
 
 ⭐️⭐️
+#fantasy
 
 Very much enjoyed. Not like a fantasy I’ve read before. Roland, Eddie and Odetta/Detta/Samantha are a great combination. The interplay between them masterfully drawn. The horror real.
 
@@ -134,6 +149,7 @@ Very much enjoyed. Not like a fantasy I’ve read before. Roland, Eddie and Odet
 Series: The Sun Eater 2
 
 ⭐️⭐️⭐️⭐️⭐️
+#scifi #fantasy
 
 Really enjoyed this book the second in the sun eater series. The familiar set of characters is here with an expanded set. The threat of Vogossos, the terror of battle and the conflict behind Hadrian’s actions are all really well drawn. Excited to read the next one.
 
@@ -143,6 +159,7 @@ Really enjoyed this book the second in the sun eater series. The familiar set of
 Series: Stormlight Archive 1
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Massively enjoyed this fantasy novel. Characters are well drawn and it keeps you guessing. So many cliffhangers and questions at the end. The magic isn’t so well drawn and the nature of storm light feels like it needs some more explanation. I look forward to reading the next one!
 
@@ -150,18 +167,23 @@ Massively enjoyed this fantasy novel. Characters are well drawn and it keeps you
 Series: Stormlight Archive 2
 
 ⭐️⭐️⭐️⭐️⭐️
+#fantasy
+
 Really enjoyed this second installment of the Stormlight archive. The characters are starting to come together. However I felt the ending scenes were a little cheesy. Especially between Dalinar & Shallan. The nature of the universe is starting to come clear.
 
 #### The demon in white by [Christopher Ruocchio](https://www.goodreads.com/author/show/16917839.Christopher_Ruocchio)
 Series: The Sun Eater 3
 
 ⭐️⭐️⭐️⭐️
+#scifi #fantasy
+
 Another romping adventure. The tale is linking fantasy and sci-fi together well. The battle the threat all great. This one feels like a middle book which I suppose it is!
 
 #### Oathbringer by Brandon Sanderson
 Series: Stormlight Archive 3
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Enjoyed this one. Same wonderful battle scenes. But some issues with the pacing and plot. How did they get the singers out of Urithu? Looking forward to the final two books
 
@@ -171,6 +193,7 @@ Enjoyed this one. Same wonderful battle scenes. But some issues with the pacing 
 Series: The Sun Eater 4
 
 ⭐️⭐️⭐️⭐️⭐️
+#scifi #fantasy
 
 Horror pain adventure loss this was a dark but violently told tale. Where this goes in the story or why this needed to happen I do not know but I enjoyed the journey!
 
@@ -178,6 +201,7 @@ Horror pain adventure loss this was a dark but violently told tale. Where this g
 Series: Asian Saga 3
 
 ⭐️⭐️⭐️⭐️⭐️
+#historical_fiction
 
 Vivid recreation of late medieval (Elizabethan Japan) the characters well drawn. The story engaging. Sometimes find it difficult to follow the change in perspective as the story switches point of view between characters.
 
@@ -185,6 +209,7 @@ Vivid recreation of late medieval (Elizabethan Japan) the characters well drawn.
 Series: Stormlight Archive 4
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Hugely enjoyable with a great deal of character and plot development. Aeolian still feels very 1 dimensional to me. All other characters have failings, flaws but Adolin to perfect. Was a bit too long.
 
@@ -192,6 +217,7 @@ Hugely enjoyable with a great deal of character and plot development. Aeolian st
 Series: The Sun Eater 5
 
 ⭐️⭐️⭐️⭐️⭐️
+#scifi #fantasy
 
 Wow. Read this in one weekend. Fantastic space opera. Fast paced and full of pathos. At times I was close to tears. My pulse high as I read the action. Great fun. But what to read next.
 
@@ -201,6 +227,7 @@ Wow. Read this in one weekend. Fantastic space opera. Fast paced and full of pat
 Series: Shardlake series 1
 
 ⭐️⭐️⭐️⭐️
+#historical_fiction #mystery
 
 Very enjoyable read. Real page turner and well researched. Look forward to reading another.
 
@@ -208,6 +235,7 @@ Very enjoyable read. Real page turner and well researched. Look forward to readi
 Series: Red Rising Saga 1
 
 ⭐️⭐️⭐️
+#scifi
 
 Real page turner. I’m enjoying the universe that is being built. Very much a coming of age story.
 
@@ -215,6 +243,7 @@ Real page turner. I’m enjoying the universe that is being built. Very much a c
 Series: Red Rising Saga 2
 
 ⭐️⭐️⭐️⭐️
+#scifi
 
 Expands on the u inverse of the finally irst novel. We see Darrow grow up a bit and struggle through a number of challenges. Very entertaining and couldn’t put it down. I wounded if they revealed Darrow’s secret of his “Red” origins too soon. Will have to wait to find out.
 
@@ -222,6 +251,7 @@ Expands on the u inverse of the finally irst novel. We see Darrow grow up a bit 
 Series: Shardlake series 2
 
 ⭐️⭐️⭐️
+#historical_fiction #mystery
 
 Enjoyable historical thriller. This novel lacked the dark menace of the first. But was still an enjoyable page turner.
 
@@ -229,6 +259,7 @@ Enjoyable historical thriller. This novel lacked the dark menace of the first. B
 Series: Red Rising Saga 3
 
 ⭐️⭐️⭐️⭐️
+#scifi
 
 Third in the story. I grew frustrated towards the end that the same cycle of capture and defeat would continue. Brown had me deceived. Loved the twist at the end. Don’t think I will rush to read the next volume. But will get to them I’m sure.
 
@@ -236,6 +267,7 @@ Third in the story. I grew frustrated towards the end that the same cycle of cap
 Series: Cemetery of Forgotten Books 3
 
 ⭐️⭐️⭐️
+#mystery #historical_fiction
 
 Another enigmatic novel by Zafón I don’t really know what to make of it except incredibly atmospheric gives a real view of Franco Spain and Barcelona of the 30s 40s and 50s. The plot is dark but simple Daniel unsure of who his father really is learn that his father is not his father or maybe Heiz we learn more about Martin’s time in the prison in Barcelona and how Fermin to meet him. I enjoyed the book and read it with these, but I did not feel compelled to pick it up and continue reading it.
 
@@ -243,6 +275,7 @@ Another enigmatic novel by Zafón I don’t really know what to make of it excep
 
 #bookclub
 ⭐️⭐️⭐️⭐️
+#literary_fiction
 
 This was a challenging read. It felt like an extended anxiety nightmare. The protagonist is entirely unlikeable. At points I found myself rooting for her if only so her pain would end.
 
@@ -260,6 +293,7 @@ Question the book raises is are all authors magpies steeling the nuggets and con
 Series: The Faithful and the Fallen 1
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Really enjoyed this. Fast paced and vivid characters. Loved the animal companion. Lines the story telling from different perspectives. Found myself more drawn into Corban’s plot than others and caring about him more. Reminded me of how Robert Jordan used different character perspectives in the wheel of time.
 
@@ -267,6 +301,7 @@ Really enjoyed this. Fast paced and vivid characters. Loved the animal companion
 Series: Mistborn 1
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Starts like a heist story as a crew are brought together but expands to be so much more. Who is this immortal “Lord Ruler”
 
@@ -276,6 +311,7 @@ Highly enjoyable. Not as good as the storm light archive books but the adventure
 
 ⭐️⭐️⭐️
 #bookclub
+#literary_fiction
 
 Enjoyable family saga. Elizabeth Zott the protagonist did not feel real. She is too perfect. She represents the ideal modern female. Independent and courageous.
 
@@ -287,12 +323,14 @@ I found the portrait of Zott as too perfect almost decision itself. She never sh
 Series: The Faithful and the Fallen 2
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Hugely enjoyable. Fast paced and great characterization. There is a good exploration of characters. They are not all good or all bad. Motivations explored. Clearly influenced by Tolkien and Robert Jordan. But original.
 
 #### The sunlit man by Brandon Sanderson
 
 ⭐️⭐️⭐️
+#fantasy #scifi
 
 Enjoyable sci-fi fantasy fusion.
 
@@ -302,6 +340,7 @@ Enjoyable sci-fi fantasy fusion.
 Series: Mistborn 2
 
 ⭐️⭐️
+#fantasy
 
 Entertaining. Good twist at the end. Good pace. Will likely read the next one.
 
@@ -309,6 +348,7 @@ Entertaining. Good twist at the end. Good pace. Will likely read the next one.
 Series: The Faithful and the Fallen 3
 
 ⭐️⭐️⭐️
+#fantasy
 
 Enjoyable read. Fast paced with lots of action. Though the pacing makes the character work less strong and the world building not as good as other novels. Almost every scene is a battle or clash. No quiet moments at all.
 
@@ -316,6 +356,7 @@ Enjoyable read. Fast paced with lots of action. Though the pacing makes the char
 Series: The Sun Eater 6
 
 ⭐️⭐️⭐️
+#scifi #fantasy
 
 Greatly enjoyed. The world (universe) building is fantastic. The terror and horror of Vorgossos feels very real. The Christian theology comes over very strongly. Feels a bit heavy handed. The hybrid of fantasy and sci fi works really well.
 
@@ -323,12 +364,14 @@ Greatly enjoyed. The world (universe) building is fantastic. The terror and horr
 Series: Mistborn 3
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Reverent twist at the end of full of action, drama and pathos. Though I didn’t engage with the characters as much as I have with other books.
 
 #### Project Hail Mary by Andy Weir
 
 ⭐️⭐️⭐️⭐️⭐️
+#scifi
 
 Uplifting exciting and optimistic. A brilliant and engaging story of shared humanity and compassion. I enjoyed the first person style.
 
@@ -336,6 +379,7 @@ Uplifting exciting and optimistic. A brilliant and engaging story of shared huma
 Series: The Faithful and the Fallen 4
 
 ⭐️⭐️⭐️
+#fantasy
 
 Good if a little predictable. Seemed a little random who Gwynne chose to live and to die. But also there were predictable events. That Gar would die, that Asroth would come into the world. That Corban would reject power. Enjoyed. Will read more from this author.
 
@@ -345,6 +389,7 @@ Good if a little predictable. Seemed a little random who Gwynne chose to live an
 Series: Terra Incognita 1
 
 ⭐️⭐️
+#scifi
 
 Not sure what to make of this one. Challenging. At times sound of hard to follow and the narrator style difficult to follow. The different factions “Hives” hard to keep straight. Not sure what the Bash system adds to the narrative. They are families. Extended families.
 
@@ -352,11 +397,13 @@ Not sure what to make of this one. Challenging. At times sound of hard to follow
 
 #bookclub
 ⭐️⭐️⭐️⭐️
+#nonfiction
 
 Very readable. Point is very labored at times. Made me reconsider how I eat.
 
 #### The Darkness That Comes Before by R. Scott Bakker
 Series: Prince of Nothing 1
+#fantasy
 
 Did not finish
 
@@ -366,6 +413,7 @@ Couldn’t get into this. Gave up. I found the names confusing and the lore hard
 Series: Wax and Wayne 1
 
 ⭐️⭐️⭐️
+#fantasy
 
 Enjoyable return to the world of Mistborn. I enjoy the Victorian line works and the new characters. Tight not group and close focus on three characters.
 
@@ -373,6 +421,7 @@ Enjoyable return to the world of Mistborn. I enjoy the Victorian line works and 
 Series: Ender Saga 1
 
 ⭐️⭐️⭐️⭐️⭐️
+#scifi
 
 One of the best books I have read in a very long time. The twist at the end was I suppose, in hindsight, inevitable but I did t see it. Ended is so beautifully drawn. The battle school so well imagined. The story felt vast even though it was short and set in a very small space.
 
@@ -380,6 +429,7 @@ One of the best books I have read in a very long time. The twist at the end was 
 Series: The Broken Empire 1
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Very enjoyable. Dark and twisted and visceral. You can hear and smell the clash and stink of battle. The stench of the brothers leaps off the page. Pacing excellent descriptions vividly drawn. Questions on the origin of the world. Our world a 1,000 years after nuclear war?
 
@@ -387,6 +437,7 @@ Very enjoyable. Dark and twisted and visceral. You can hear and smell the clash 
 Series: Wax and Wayne 2
 
 ⭐️⭐️⭐️
+#fantasy
 
 Enjoyable adventure. More of the comers opening up. Nothing ground breaking on the previous novels.
 
@@ -394,6 +445,7 @@ Enjoyable adventure. More of the comers opening up. Nothing ground breaking on t
 Series: Commonwealth Saga 1
 
 ⭐️⭐️⭐️⭐️
+#scifi
 
 The first part of the story. We are left with a literal cliff hanger as Ozzie, Orion and their alien companion fall of the edge of a disk world and the prime invasion os happening and key players are realizing the starter os real. The only complaint with the star flyer idea is that it has to be real to be included in the plot. Part of me wonders if the SI (Sentient Intelligence) is the Starflyer, I suspect this even more seeing that the. Ext book is called Judas Unchained . Will read the next one right away to continue the story.
 
@@ -401,6 +453,7 @@ The first part of the story. We are left with a literal cliff hanger as Ozzie, O
 Series: Commonwealth Saga 2
 
 ⭐️⭐️⭐️
+#scifi
 
 So the SI wasn’t the starflyer! Enjoyed a lot. I found the Silken and Izzie subplot unnecessary it didn’t carry the story forward and had only a small point towards the plot. Ozzie has humanities conscience could have got in to the plot elsewhere. I enjoyed the style and the epic world building. However the characterization is weak. Apart from Melanie who I felt I began to understand and see develop. Other characters felt one dimensional.
 
@@ -410,6 +463,7 @@ So the SI wasn’t the starflyer! Enjoyed a lot. I found the Silken and Izzie su
 Series: Ender Saga 2
 
 ⭐️⭐️⭐️
+#scifi
 
 Interesting follow up to Enders Game. Explores morality and a good character study. How Ended became so unbelievably good at reading people isn’t clear. Liked the description of a completely different life cycle and what that means for morality.
 
@@ -417,6 +471,7 @@ Interesting follow up to Enders Game. Explores morality and a good character stu
 Series: Stormlight Archive
 
 ⭐️⭐️⭐️
+#fantasy
 
 Enjoyable little novel. Lift is a great character and so enjoyable to read.
 
@@ -424,6 +479,7 @@ Enjoyable little novel. Lift is a great character and so enjoyable to read.
 Series: Stormlight Archive
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Enjoyable short book expanding the universe and lore of the Stormlight Archive series.
 
@@ -431,6 +487,7 @@ Enjoyable short book expanding the universe and lore of the Stormlight Archive s
 Series: Stormlight Archive 5
 
 ⭐️⭐️
+#fantasy
 
 Enjoyable conclusion without the moral weight and grace of the first few books. The twist wasn’t quite twisty enough however a good tale. The world building was incredible. Will read the next story ark.
 
@@ -438,6 +495,7 @@ Enjoyable conclusion without the moral weight and grace of the first few books. 
 Series: Hyperion Cantos 3
 
 ⭐️⭐️⭐️⭐️⭐️
+#scifi
 
 I loved this book. I struggled with the first two Hyperion books but this one was a joy to read. Mysterious and well paced. The story had me hooked. I look forward to reading the next!
 
@@ -445,6 +503,7 @@ I loved this book. I struggled with the first two Hyperion books but this one wa
 Series: The First Law 1
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Extremely enjoyable. Dark bloody but full of humor. The characters and world are vivid and the plot interesting. This really was a great opening.
 
@@ -452,6 +511,7 @@ Extremely enjoyable. Dark bloody but full of humor. The characters and world are
 Series: Hyperion Cantos 4
 
 ⭐️⭐️⭐️⭐️⭐️
+#scifi
 
 Extremely good. I guessed that Raul would be the father. Don’t see A. Bettick as the observer. Excellent resolution to the story. Mixes metaphysics and theology beautifully. A hymn to humanism and the hope of a better future.
 
@@ -459,6 +519,7 @@ Extremely good. I guessed that Raul would be the father. Don’t see A. Bettick 
 Series: The First Law 2
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Amazing how Abercrombie makes a torturer a sympathetic character. Another thoroughly good read. Incredible character work a slow but building plot. Where is it all going to go.
 
@@ -470,6 +531,7 @@ Amazing how Abercrombie makes a torturer a sympathetic character. Another thorou
 
 #bookclub
 ⭐️⭐️⭐️⭐️⭐️
+#historical_fiction
 
 Beautiful and erotically charged. Paints London and the people of Victorian London vividly. The wife of John / Johnny is a character I would like to have seen more of. In a way she suffers as much as anyone but has no agency. She is a victim of sexism and of the law more than Johnny. And it is heavily implied that she is rapped by Johnny. The sex scenes are beautifully and erotically drawn showing male sexuality in a raw and tender way. I would have liked more of this treatment for the female characters especially Mrs Ellis and her partner. I haven’t read a better portrayal of gay male lust and sexuality.
 
@@ -477,6 +539,7 @@ Beautiful and erotically charged. Paints London and the people of Victorian Lond
 Series: The First Law 3
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 Delightfully dark. No character is good or evil. Some are just more evil than others. The characters are delightfully drawn with perhaps the exception of Black Dow. I look forward to reading more books by Joe Abercrombie.
 
@@ -484,6 +547,7 @@ Delightfully dark. No character is good or evil. Some are just more evil than ot
 Series: Ender Saga 3
 
 ⭐️⭐️⭐️⭐️
+#scifi
 
 I was surprised at how much I enjoyed this. Interesting exploration on the nature of humanity, consciousness and the bonds that unite people. Provided an interesting study of the nature of authority and the metaphysics of religion.
 
@@ -491,6 +555,7 @@ I was surprised at how much I enjoyed this. Interesting exploration on the natur
 Series: Wax and Wayne 3
 
 ⭐️⭐️⭐️
+#fantasy
 
 Enjoyable great adventure. Felt the characters were well drawn however it was a little predictable and felt a bit hackneyed. But the world is amazing and the lore impressive.
 
@@ -498,12 +563,14 @@ Enjoyable great adventure. Felt the characters were well drawn however it was a 
 Series: Ender Saga 4
 
 ⭐️⭐️⭐️
+#scifi
 
 Enjoyable read but lost some of the philosophical grounding of the first three novels. Still a great adventure story.
 
 #### Best served cold by Joe Abercrombie
 
 ⭐️⭐️
+#fantasy
 
 I expected another deeply dark tale from Abercrombie and this was delivered. I wasn't sure what to expect.
 
@@ -519,12 +586,14 @@ The book felt a little pointless. It enables another nation of the First Law wor
 Series: Ender Saga 6
 
 ⭐️
+#scifi
 
 I was very disappointed by this novel. I did not feel, in context of the rest of the Ender books, that this story needed telling, or at least not in the way it was. The story was pre-occupied with a power dynamic between the captain of the colony ship and Ender. The wider development of Ender was not made clear. The relationship between his sister and Ender was not resolved or fully drawn. The confrontation at the end with the colonist who thought he was Achilles son didn't feel necessary. It felt like a string of events, vignettes, that didn't come together into an overall arc. As such I found I was not emotionally drawn into the story as I have been with the other books.
 
 #### A boy's own story by Edmund White
 
 ⭐️⭐️⭐️⭐️⭐️
+#literary_fiction
 
 This was a deeply moving novel. I saw myself reflected in the the protagonist clearly. I found the timeline in the story interesting. It jumped around quite a bit reflecting back and forward in time. White in his post-script puts this style down to his drinking at the time of writting. I found it added to the story and feeling of authenticity as it felt like a friend telling you their life story. They jump around, skip ahead and loop back just in this way. White's prose is excellent, crisp and beautifully described. The similes are rich and I never felt frustrated by the pace and length of time taken to describe the world. A real joy to read.
 
@@ -532,6 +601,7 @@ This was a deeply moving novel. I saw myself reflected in the the protagonist cl
 Series: The Broken Earth 1
 
 ⭐️⭐️⭐️⭐️
+#fantasy #scifi
 
 This was a Fantasy novel of surprising complexity. It was only at the end that I realised that the three lead female chracters were the same person (Damaya) at diffierent times. This created a really full and in depth understanding of her characterisation. The enslavement of the Rogas was a very good theme. Jemisin's treatment of Gay, Bi and Transgender characters and non-standard relationships was subtly even beautifuly done. I found the third person present tense writting style difficult to understand at first but got used to it. Once the narator's identify is made clear - the Stone Eater who has been following the Damaya it made more sense. Though I find novels written in the present tense difficult in general and less compelling than others. However, the plot, pacing, dialogue and chracterisation allowed me to see through this. The world is not so brilliantly drawn as other fantasy series. However, the focus on chracterisation more than makes up for it.
 
@@ -539,6 +609,7 @@ This was a Fantasy novel of surprising complexity. It was only at the end that I
 Series: The Broken Earth 2
 
 ⭐️⭐️⭐️⭐️
+#fantasy #scifi
 
 This very much felt fluke a second book in the trilogy. More characters are introduced and the plot widens out. Our characters start to move independently and some threads start to come together. Jemisin has mastered her use of the present tense third person or I am just getting used to it. The narrative structure was not as innovate. The three parallel stories of three character being resolved into the story of one character at three different times was absent. A hard trick to pull off again in a sequel. That did make the Fifth Season feel very novel. The ending of The Obelisk Gate felt more melancholy than the ending of The Fifth Season.
 
@@ -550,6 +621,7 @@ It was a compelling read and I’m looking forward to completing the trilogy.
 
 ⭐️⭐️⭐️
 #bookclub
+#literary_fiction
 
 This book spancs many genres. Psychological thriller, fantasy, romance and science fiction and mystery. The weaves these styles together to build a character study of Toru Okada. Characters are told very much from Toru's perspective. Or in letters that he recieves from other characters. At many points in the story, especially in Book 2 and most of Book 3 I was convinced that Toru was insane, that he had suffered a psychotic break and his internal world was completely dissociated from the real world. The ending though shows that maybe this was just real.
 
@@ -565,6 +637,7 @@ I enjoyed the book, never knowing which way the plot would go and what was real 
 Series: The Broken Earth 3
 
 ⭐️⭐️⭐️
+#fantasy #scifi
 
 This was a good end to the series. The confrontation between Essun and Nassun felt inevitable (from the first book really) but I found the redemptive ark of Schaffa fullfilling. I came to enjoy the first person narrative and the voice of Hoa. I found the exploration of the nature of freedom, free will and nature of life well drawn. I felt that the death of Jija did not have the emotional impact that I was expecting. I suspect this is because Jemisin did not draw out the inner conflict that must have been present in Jija enough, and given the perspective of Hoa as narrator this was probably not easy to do. Stone Sky felt like a fitting finale to a very enjoyable series. The centrality of female characters, the treastment of minorities and relationships, consent and love all beautifuly drawn. The narrative felt free of judgement. But the supporting cast of characters outside of Nassun and Essun did feel a little flat.
 
@@ -572,6 +645,7 @@ This was a good end to the series. The confrontation between Essun and Nassun fe
 Series: The Radiant Emperor 1
 
 ⭐️
+#historical_fiction #fantasy
 
 This was an enjoyable read though I found the genre mix-up a little confusing. I liked the historical fiction and delving into the world of 14th century China. The swapping of genders of the main protagonist was interesting and made the novel an intersting study on identify and reality. I found the "magic" elements a bit too much for a novel that is rooted so clearly in history. The "manadate of heaven" magic tipped this novel slightly further into fantasy terratory. In terms of style I found it easily readable and well paced. The imagry was strong and the emotional depth of the key protagonists was well drawn. I also liked the moral ambiguity of all the characters we grow to love. All are guilty of ruthlessness to achieve their ends using destiny as an inescapble trap to do terrible things.
 
@@ -579,6 +653,7 @@ This was an enjoyable read though I found the genre mix-up a little confusing. I
 Series: Void Trilogy 1
 
 ⭐️⭐️⭐️
+#scifi #fantasy
 
 Highly enjoyable space opera that cobines SciFi with Fantasy. The books are fast paced and highly exciting. I found myself looking forward to the Edeard sections a great deal. The similarities with humanity in this later Commonwealth are similar to the "Culture Series". With extensive body modifications forcefields etc. In some ways the technology is so advanced it falls into the background and it becomes about politics and the struggle of individual humans to live their lives. I like this. It makes this far flung future feel more real.
 
@@ -586,6 +661,7 @@ Highly enjoyable space opera that cobines SciFi with Fantasy. The books are fast
 Series: Void Trilogy 2
 
 ⭐️⭐️⭐️
+#scifi #fantasy
 
 Another enjoyable read. The pacing was excellent. I again found the Eduard sections compelling. The mix of SciFi and fantasy worked really well. Especially as they are quarantined from each other. I’m glad the SI has reappeared. I wondered where they had gone. Very much a middle book.
 
@@ -594,6 +670,7 @@ Another enjoyable read. The pacing was excellent. I again found the Eduard secti
 #### The Name of the Rose by Umberto Eco
 
 ⭐️
+#historical_fiction #mystery
 
 This was a very different book to the historical novels that I have read in the past.
 
@@ -609,6 +686,7 @@ The quotations in Latin. As all the characters in the book would have spoken to 
 Series: Void Trilogy 3
 
 ⭐️⭐️⭐️
+#scifi #fantasy
 
 Another satifisfying read from Peter Hamilton. The pacing was excellent and the story structure of the novel kept me engaged throughout. I was excited to go back to the Commonwealth Universe every day. The characterisations especially of Animandia were particually strong and as ever the world building excellent. It was nice to see my old heros from the Pandora's Star and Judas Unchained back in action again. Paula is an excellent protagonist. I enjoyed the multi-threaded plot and again the Eduard intervals and stories.
 
@@ -618,6 +696,7 @@ The super high technology was interesting and much reminded me of "The Culture".
 
 #bookclub
 ⭐️⭐️⭐️⭐️⭐️
+#memoir
 
 This is only the fourth autobiography I have read (John Simpson, Malcolm X, John Waters & Alexei Navalny). I can’t say that I “enjoyed” the read given the terrible things that were done w to Navalny. But his story is inspiring. I got a glimpse of what integrity and real bravery feels like. I feel incredibly lucky to live in the UK. I’m reminded of two things. Obama’s quote that “the curve of history bends towards justice” or something similar. And the slogan from the Spanish civil war and countless others campaigning for freedom and justice “it is better to die on your feet than live on your knees”.
 
@@ -627,6 +706,7 @@ This is only the fourth autobiography I have read (John Simpson, Malcolm X, John
 Series: Malazan Book of the Fallen 1
 
 ⭐️ ⭐️ ⭐️
+#fantasy
 
 Solid 3 stars. I thoroughly enjoyed the world-building, the characters, and the pacing. The story progressed swiftly, seamlessly transitioning between different groups and characters. I appreciated the way we were immediately thrust into the action. It’s similar to how history and life unfold—without the need for backstory or exposition. It’s as if we were watching Eastenders today. The large cast of characters felt well-developed and balanced. Some, by necessity, were straightforward and had unclear intentions. We don’t know their intentions as much as we don’t know the intentions of most people in our social circle. The only part where I felt a bit lost was towards the end when the Tyrant was killed. I missed the “house” that captured him amidst the rapid pace and action. I’m certain I’ll read more novels in the series, but I won’t be jumping straight back in.
 
@@ -634,6 +714,7 @@ Solid 3 stars. I thoroughly enjoyed the world-building, the characters, and the 
 
 ⭐️ ⭐️ ⭐️ ⭐️
 #bookclub
+#literary_fiction #scifi
 
 Enjoyed this a great deal. I enjoyed the ambiguity. Is the main character delusional or is he really jumping through time; has he really been abducted by aliens and put in a zoo or is this his psyche’s way of processing the trauma that he has been through in the war.
 
@@ -655,6 +736,7 @@ Though this was a very short novel the scope was impressive. The scale of the pl
 Series: Revelation Space
 
 ⭐️⭐️⭐️
+#scifi
 
 A solid space opera that at times feels vast but zooms down into the psychology and motivations of a few key players. I felt the world could have been more fully drawn and the nature of the different political groups / human sects more fully. The pacing was good. It kept me turning the pages and I found it easy to imagine e the characters. Will return to read the rest of the series.
 
@@ -662,6 +744,7 @@ A solid space opera that at times feels vast but zooms down into the psychology 
 Series: Asian Saga 2
 
 ⭐️⭐️⭐️⭐️
+#historical_fiction
 
 Enjoyed this a great deal. Again James a label brings the past to life. The swathing stinking world of the early 19th century on south China and Hong Kong. At first I struggled with the dialects that the characters speak but after 50 or so pages I found myself reading and understanding easily.
 
@@ -673,6 +756,7 @@ Yet again Clavell is fascinated by the differences in western and Asian thought 
 Series: Revelation Space
 
 ⭐️⭐️⭐️
+#scifi
 
 This was most certainly a middle novel. The plot was structured in the classic three part structure with the end and the climax thrilling. The nature of the treat to humanity and life in general set against the petty lives and concerns of politics were well drawn. Unfortunately I forgot to write my review of this novel directly after reading so my insights are somewhat diminished. However a thoroughly enjoyable read and I will be going back to finish the series. Hopefully my thoughts on that book will be more in depth.
 
@@ -680,6 +764,7 @@ This was most certainly a middle novel. The plot was structured in the classic t
 Series: Malazan Book of the Fallen 2
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 I wasn't expecting to enjoy this novel as much as I did. The booktube community told me that it takes at least until book 3 before you start to really "get" and love the "Malazan Book of the Fallen" series. I loved this novel. The sweeping scope, the morally complex and thoroughly human characters the capraciousness of the gods. I also enjoy the way that the magic system is as yet inexplicable. Its magic. It shouldn't make sense. I'm also looking forward to the fact that I will learn more.
 
@@ -693,6 +778,7 @@ I felt the pacing was well done, at each point I wanted to know what happened ne
 Series: Revelation Space
 
 ⭐️⭐️⭐️
+#scifi
 
 Reynolds closes his Revelation Space cycle with a novel that manages to feel both vast and oddly intimate. On the grand-opera side we get kilometre-high cathedrals trundling across a moon, spectacular lighthugger battles, and the slow, chilling reveal of just how hard the Inhibitors will fight. Yet the book’s heart is personal: the water-world interlude with the Jugglers and Clavain’s quiet sacrifice reads like a chamber piece, and the chapter-by-chapter date stamps hide a sly time-loop puzzle that rewards careful readers (I grinned when I realised Rashmika was Aura).
 
@@ -704,6 +790,7 @@ Is it great literature? Probably not. The prose can be functional and the plot o
 Series: Malazan Book of the Fallen 3
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 I can see why people are so passionate about the Malian book of the fallen. The world building is exquisite. Each place felt real. I could smell the air feel the texture of the grass the feel of the city or field. The strength of humanity and our capacity for compassion and possibility of redemption were the key themes. The book is long - over 1000 pages yet I felt the pace was well done. The shifting perspectives and plot lines kept me intrigued and turning the next page.
 
@@ -711,6 +798,7 @@ I can see why people are so passionate about the Malian book of the fallen. The 
 Series: Teixcalaan 1
 
 ⭐️⭐️⭐️⭐️
+#scifi
 
 Beautifully written and vivid. The world of Teixcalaanli was beautifully rendered and the characters well drawn. The plot was intense. A week of manic activity culminating with a sacrifice. The use of poetry was well done and made for an interesting way of making a culture feel both foreign and familiar. I don’t think Arkady fully explored themes of identity and belonging. The Imago machines gave a great opportunity to fully explore the sense of self and what I and we really mean. I feel this was a lost opportunity.
 
@@ -720,6 +808,7 @@ Beautifully written and vivid. The world of Teixcalaanli was beautifully rendere
 Series: Malazan Book of the Fallen 4
 
 ⭐️⭐️⭐️
+#fantasy
 
 Another enjoyable read from Erikson. Yet again I was impressed by the scope and scale of his tale. His building of atmosphere was very strong. Rakaru’s aura of menace and intense paranoia came across well.
 
@@ -733,6 +822,7 @@ The pacing was good. At over 1,000 pages this is a long book but at no point did
 
 ⭐️⭐️⭐️
 #bookclub
+#literary_fiction
 
 This short novel orbits a tight cast of characters, some of whom felt exaggerated to the point of caricature. Lionie (Nadia’s boss) and Tom (the macho security guy) especially seemed sketched to make a satirical point rather than emerge as fully formed individuals.
 
@@ -750,6 +840,7 @@ Fundamentally left me more uncertain than satisfied — but perhaps that’s par
 Series: Malazan Book of the Fallen 5
 
 ⭐⭐⭐⭐
+#fantasy
 
 I was initially disappointed by the absence of the Bridgeburners and other familiar faces — Erikson's abrupt shift to an entirely new continent and cast felt like a gamble. But by the end, I found myself deeply moved and impressed. Midnight Tides introduced a fresh, richly drawn group of characters, and among them, Trull Sengar stood out: a man caught between duty, justice, and conscience, whose internal struggle shaped much of the novel’s emotional heart.
 
@@ -769,6 +860,7 @@ Midnight Tides may have begun as the outlier in the series, but by the end, it e
 Series: Teixcalaan 2
 
 ⭐️⭐️⭐️⭐️⭐️
+#scifi
 
 This novel explores individuality and personhood with greater depth than its predecessor, especially through Mahit’s evolving relationships with both Yskandr and Three Seagrass. The Aliens (the Enemy) and Twenty Cicada (Swarm) bring these questions to a natural and compelling conclusion.
 
@@ -784,6 +876,8 @@ This emphasis makes sense from an author writing from a feminist — possibly qu
 Series: Malazan Book of the Fallen 6
 
 ⭐⭐⭐⭐
+#fantasy
+
 > Admired more than I loved. The story didn’t grip me quite as tightly as other Malazan entries, but the moral complexity, thematic richness, and depth of character development made this one of the most intellectually satisfying in the series so far.
 
 ##### Overall Impression
@@ -831,6 +925,7 @@ The Bonehunters maintains the series’ blend of large-scale conflict, moral que
 #### Ready Player One
 
 ⭐️⭐️⭐️⭐️
+#scifi
 
 The book’s three-part structure worked well, each section mirroring the quest stages within the OASIS and Wade’s experiences in the real world.
 
@@ -856,6 +951,7 @@ Ready Player One was far more than just a nostalgia-fuelled adventure. It blende
 Series: Malazan Book of the Fallen 7
 
 ⭐️⭐️⭐️⭐️
+#fantasy
 
 I was captivated by the adventure and again found myself enthralled by the characters and the world Erikson has woven. This novel felt like a set piece — packed with major events, considerable plot development, and the resolution of a three-book arc with Rhulad’s tragic existence finally brought to an end.
 
@@ -875,6 +971,7 @@ Reaper’s Gale stands as one of Erikson’s most morally complex and emotionall
 
 #bookclub  
 ⭐⭐⭐⭐⭐
+#literary_fiction
 
 This was one of the most immersive and thought-provoking novels I’ve read for book club. At first, I was struck by the contradictions: glorious descriptions of food set against social judgment, self-judgment, and the suffocating weight of gender roles. Yuzuki writes entirely from a woman’s perspective, and the novel becomes a feminist lens — critical of patriarchal hypocrisy, yet deeply attentive to women’s inner contradictions.
 
@@ -892,6 +989,7 @@ Butter left me with the sense that hope is fragile but possible — that liberat
 Series: The Murderbot Diaries 1
 
 ⭐️⭐️⭐️⭐️
+#scifi
 
 A very short novel — I finished it in about two days. I loved the premise: a robot that manages to break free of its controls, but chooses not to rebel directly or violently against its masters. Instead, it rebels by “doing a bad job” — the archetypal rebellion of a servant. The writing is fast-paced, with short, punchy sentences. The perspective of the SecBot (Murderbot) as a true outsider adds richness to the narrative and aligns well with its wry humor.
 
@@ -909,6 +1007,7 @@ Structurally, the book felt more like a “very long short story” than a short
 Series: Malazan Book of the Fallen 8
 
 ⭐️⭐️⭐️⭐️⭐️
+#fantasy
 
 My favourite of the Malazan Book of the Fallen so far. The central theme in this novel is compassion — compassion for the self and for others. We see this quality embodied in Anomander Rake (“What he does he does for others”), in Nimander, Chaur, Gruntle, Monkrat, Bridgeburner Setoc in her hair shirt, and Harllo’s friend, Orfantal. Most poignantly, there is Pearl, carrying the burdens of others within the dark world of Dragnipur, Rake’s sword. For these characters, compassion and selflessness are as natural as breathing.
 
@@ -926,6 +1025,7 @@ By the end, I felt both exhausted and exhilarated, reminded that compassion — 
 
 ⭐️⭐️⭐️  
 #bookclub
+#thriller
 
 I’m conflicted about The Silent Patient. At first, I found the first-person perspective irritating — as I often do — because it narrows the lens through which we see the world. Few novels use it well; To Kill a Mockingbird is one that succeeds. While the first-person narration initially grated on me, I began to wonder whether Michaelides intended that discomfort — perhaps inviting readers to feel the same constrained, self-justifying perspective that Theo himself inhabits. His motivations are clear and self-justified, yet riddled with contradiction. He insists he could never kill, yet he harms with impunity. He sees himself as a healer and helper of others, but suffers no remorse for the pain he causes.
 
@@ -944,6 +1044,7 @@ My three-star rating is not a reflection on the novel’s quality, but on the un
 #### The Great Gatsby by F. Scott Fitzgerald
 
 ⭐️⭐️⭐️
+#classic #literary_fiction
 
 >A glittering tragedy of love and illusion — dazzling to the eye, but cold to the touch.
 
@@ -965,6 +1066,7 @@ While the world is beautifully drawn and the characterisation vivid, I struggled
 Series: Embers of War 1
 
 ⭐️⭐️⭐️⭐️
+#scifi
 
 > A new, grittier, Culture series?
 
@@ -982,6 +1084,7 @@ _Embers of War_ may not reach the moral and philosophical heights of the _Cultur
 Series: The Murderbot Diaries 2
 
 ⭐️⭐️⭐️
+#scifi
 
 > An entertaining action sci-fi novel with a satirical edge and a deeper philosophical question: what does it mean to be "Human"
 
@@ -1002,6 +1105,7 @@ Series: Embers of War 2
 
 ⭐️⭐️⭐️
 Finished: 2025-11-17
+#scifi
 
 > A wild space adventure with little emotional depth.
 
@@ -1026,6 +1130,7 @@ Series: The Murderbot Diaries 3
 
 ⭐️⭐️⭐️
 Finished: 2025-11-19
+#scifi
 
 > An adventure story with a little philosophical seasoning.
 
@@ -1046,6 +1151,7 @@ Series: The Sun Eater 7
 
 ⭐️⭐️⭐️⭐️  
 Finished: 30 November 2025
+#scifi #fantasy
 
 > **An epic and ambiguous ending to a modern classic.**
 
@@ -1096,6 +1202,7 @@ Series: Malazan Book of the Fallen 9
 ⭐️⭐️⭐️
 Started: 2025-12-01
 Finished: 2025-12-23
+#fantasy
 
 It is hard to write a review of the ninth Malazan Book of The Fallen - "Dust of Dreams" not because it is great or terrible (it is neither) or because I did not like it. But rather it is the penultimate book and I must hold to my faith that Erikson will be able to bring this rambling, incredible, frustrating maze of a story to a satisfying conclusion in the Crippled God.
 
@@ -1127,6 +1234,7 @@ We have had a clash in the wastes, the Bonehunters all but wiped out (apparently
 So I look to the _Crippled God_ both with excitement and trepidation. How will Erikson manage to tie the knot. As a reader all I can do is trust that he will.
 
 #### Nicholas Nickleby by Charles Dickens
+#classic #literary_fiction
 
 Did not finish
 
@@ -1155,6 +1263,7 @@ I greatly enjoyed _Great Expectations_ and so know that Dickens can do oh so muc
 Started: 2025-12-30  
 Finished: 2026-01-04  
 #bookclub  
+#literary_fiction
 
 I read the introduction to _The nice and the Good_ by Catherine Bates. I wish I had not. The introduction colored my own interpretation of the novel and I cant escape the fact that Bates has influences, poluted, my own reading. With that given as a caveat here is my reflection on the _The nice and the good_.
 
@@ -1212,6 +1321,8 @@ This sudden ending is why I gave four stars rather than five. The ending between
 
 ⭐️⭐️⭐️⭐️⭐️  
 Series: Malazan Book of the Fallen #10
+#fantasy
+
 **Started:** 2026-01-05  
 **Finished:** 2026-01-15  
 
@@ -1243,6 +1354,7 @@ Series: Embers of War 3
 Started: 2026-01-16
 Finished: 2026-01-18
 ⭐️⭐️⭐️
+#scifi
 
 The concluding chapter in Powell’s space opera is competent and engaging with good world building and excellent pace. Short sharp chapters and shifting perspectives, but to my mind, unexceptional. In this final instalment, Powell crystallises the themes of individuality and moral choice: it is the actions and choices that make a person—human or otherwise. Organisations that seek to strip away that agency are suspect. As one passage puts it:
 
@@ -1262,6 +1374,7 @@ Series: Claudius 1
 Started: 2026-01-18
 Finished: 2026-01-26
 ⭐️⭐️⭐️⭐️
+#historical_fiction
 
 This is a work of profound scholarship and ambition and ultimately art. I believe _I, Claudius_ is an inspiration for other authors of historical fiction I have read (Hilary Mantel & James Clavels) who share his intimate style and focus on motivations and inner lives of their characters. I strongly believe that Christopher Ruocchio was influenced by Graves. His Empire is modeled on ancient Rome and we see that world of intrigue war and violence through Hadrian's narration of his own autobiography.
 
@@ -1277,6 +1390,7 @@ The style is dense with facts, names and dates thrown at one constantly. Though 
 Started: 2026-01-26
 Finished: 2026-02-01
 #bookclub
+#literary_fiction
 
 This novel has been extremely successful, attracting praise from celebrities and broadsheet newspapers such as The Guardian and The Times. It is firmly situated in the realm of popular literary fiction: accessible, reassuring, and undemanding. It asks very little of its reader, and its ambitions are correspondingly modest. The moral is universal, the metaphors are clichéd, and the prose lacks subtlety:
 
@@ -1301,6 +1415,7 @@ A truly great novel would have forced me to confront my own regrets and choices,
 Series: Firefall 1
 Started: 2026-02-02
 Finished: 2026-02-05
+#scifi
 
 This is a novel filled with ideas. the nature of sentience, cociousness and free will. The question asked _is sentience really all that great - is it an advantage or a drawback - can an inteligent being be unaware?_  These themes are compelling and are subtly worked in from the begining with Siri's awareness of his world irreparably changed by his radical hemispherectomy at as a child.
 
@@ -1319,6 +1434,7 @@ Series: Realm of the Elderlings 1
 Series: Farseer Trilogy 1
 Started: 2026-02-05
 Finished: 2026-02-08
+#fantasy
 
 The Assasin's Apprentice enthralled me. I reluctantly put it asside when I had to sleep and I picked it up eagerly in the morning when I worke. The reading of it filled a rainy weekend which otherwise would have been dull and grey.
 
@@ -1338,6 +1454,7 @@ A rich world of complex characters and self discovery. Leaving me with an antici
 Series: The Murderbot Diaries 4
 Started: 2026-02-08
 Finsihed: 2026-02-09
+#scifi
 
 This is pure entertainment. The plot takes precidence, with action predominating over character development.
 
@@ -1354,6 +1471,7 @@ Series: Realm of the Elderlings 2
 Series: Farseer Trilogy 2
 Started: 2026-02-09
 Finished: 2026-02-16
+#fantasy
 
 The second novel in the Farseer Trilogy is frustrating but neccessarily so. We pick-up Fitz on his journey back to Buckeep and his recovery from his poisining in the Mountain Kingdom. Regal's power grows with Verity's absence and Regal's plot to usurp both Verity and King Shrewd.
 
@@ -1371,6 +1489,7 @@ This is a beautiful world, filled with larger than life characters and great emo
 Series: The Captive's War 1
 Started: 2026-02-16
 Finished: 2026-02-21
+#scifi
 
 What fun. This is a very different premise and world to that of the Expanse. I was frustrated in the first half of the novel finding the cycles of ever worsening suffering bleak and repetative than engaging and enjoyable. In the lattter half I found that the first half was a neccessary crucible for the world and the Corrax that Corey was building.
 
@@ -1389,6 +1508,7 @@ Series: Realm of the Elderlings 3
 Series: Farseer Trilogy 3
 Started: 2026-02-21
 Finished: 2026-02-28
+#fantasy
 
 I could not put this down. I read and read — pushing myself well past bedtimes and ignoring almost everything else. I felt the world drawn by Hobb viscerally, and I felt the pain, hate, and love that swim through this book like the current of a pulling river. The frustration of love denied, the acceptance of loss, and the hope for the future.
 
@@ -1408,6 +1528,7 @@ Hobb has created a rich world full of realised characters that live, breathe, lo
 Started: 2026-03-01
 Finished: 2026-03-08
 #bookclub
+#scifi
 
 The Left Hand of Darkness is an interesting book. It uses a science fiction premise as a means to conduct a thought experiment — what if gender wasn’t the organizing principle of society? It succeeds as a critique of gender roles. Ai, the Envoy, only superficially examines his own latent misogyny. His fundamental assumptions about masculinity and strength, and femininity (effeminacy) as weakness, are woven through the narrative. His failure to confront this makes the message more poignant, though on a casual read this nuance could easily be lost.
 
@@ -1467,6 +1588,7 @@ Series: Realm of the Elderlings 4
 Series: Liveship Traders Trilogy 1
 Started: 2026-03-08
 Finished: 2026-03-29
+#fantasy
 
 Another engaging and thrilling story from the world of the Elderlings. *Ship of Magic* demonstrates Hobb's versatility as a writer. The use of the first person in *The Farseer Trilogy* is suited to the claustrophobic world of court politics and personal sacrifice. In *Ship of Magic*, Hobb needs to broaden her readers' horizon. A first-person perspective would not have worked on the wide open seas. The multiple perspectives used give a sense of scale and grandeur to Hobb's world that was implied in *Farseer* but are drawn vividly in the world of Althea and Vivacia.
 
@@ -1486,6 +1608,7 @@ It took almost a month to read *Ship of Magic*, not from a lack of enjoyment but
 Started: 2026-03-30
 Finished: 2026-04-03
 #bookclub
+#historical_fiction
 
 This book is a work of speculative historical fiction. Imagining a world where it was the Inca and the Aztecs that invaded and conquered Europe rather than Spain, Portugal and Britain who took the Americas.
 

@@ -124,7 +124,10 @@
       "series": {
         "name": "Cemetery Of Forgotten Books",
         "number": 2
-      }
+      },
+      "tags": [
+        "#mystery"
+      ]
     },
     {
       "title": "Reasons Not to Worry: How to be Stoic in chaotic times",
@@ -139,7 +142,10 @@
       "source": {
         "file": "years/2024.md",
         "anchor": "entry-2024-01-reasons-not-to-worry-how-to-be-stoic-in-chaotic-ti-96a7b9bf"
-      }
+      },
+      "tags": [
+        "#nonfiction"
+      ]
     },
     {
       "title": "Great expectations",
@@ -154,7 +160,11 @@
       "source": {
         "file": "years/2024.md",
         "anchor": "entry-2024-01-great-expectations-0da24850"
-      }
+      },
+      "tags": [
+        "#classic",
+        "#literary_fiction"
+      ]
     },
     {
       "title": "Ice people",
@@ -169,7 +179,10 @@
       "source": {
         "file": "years/2024.md",
         "anchor": "entry-2024-02-ice-people-d8fc2bc5"
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "City of Thieves",
@@ -184,7 +197,10 @@
       "source": {
         "file": "years/2024.md",
         "anchor": "entry-2024-02-city-of-thieves-2e370261"
-      }
+      },
+      "tags": [
+        "#historical_fiction"
+      ]
     },
     {
       "title": "Hyperion Cantos Book 1",
@@ -203,7 +219,10 @@
       "series": {
         "name": "Hyperion Cantos",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Child 44",
@@ -222,7 +241,11 @@
       "series": {
         "name": "Leo Demidov Trilogy",
         "number": 1
-      }
+      },
+      "tags": [
+        "#thriller",
+        "#historical_fiction"
+      ]
     },
     {
       "title": "Hyperion Cantos book 2 the fall of Hyperion",
@@ -241,7 +264,10 @@
       "series": {
         "name": "Hyperion Cantos",
         "number": 2
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Alien Clay",
@@ -256,7 +282,10 @@
       "source": {
         "file": "years/2024.md",
         "anchor": "entry-2024-04-alien-clay-a3df92a7"
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Surface detail",
@@ -274,7 +303,10 @@
       },
       "series": {
         "name": "Culture Series"
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "The secret speech",
@@ -293,7 +325,11 @@
       "series": {
         "name": "Leo Demidov Trilogy",
         "number": 2
-      }
+      },
+      "tags": [
+        "#thriller",
+        "#historical_fiction"
+      ]
     },
     {
       "title": "The Gun Slinger",
@@ -312,7 +348,10 @@
       "series": {
         "name": "The Dark Tower",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Empire of Silence",
@@ -331,7 +370,11 @@
       "series": {
         "name": "The Sun Eater",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "The drawing of the three",
@@ -350,7 +393,10 @@
       "series": {
         "name": "The Dark Tower",
         "number": 2
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Howling Dark",
@@ -369,7 +415,11 @@
       "series": {
         "name": "The Sun Eater",
         "number": 2
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "The way of kings",
@@ -388,7 +438,10 @@
       "series": {
         "name": "Stormlight Archive",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Words of radiance",
@@ -407,7 +460,10 @@
       "series": {
         "name": "Stormlight Archive",
         "number": 2
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "The demon in white",
@@ -426,7 +482,11 @@
       "series": {
         "name": "The Sun Eater",
         "number": 3
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "Oathbringer",
@@ -445,7 +505,10 @@
       "series": {
         "name": "Stormlight Archive",
         "number": 3
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Kingdoms of death",
@@ -464,7 +527,11 @@
       "series": {
         "name": "The Sun Eater",
         "number": 4
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "Sh\u014dgun",
@@ -483,7 +550,10 @@
       "series": {
         "name": "Asian Saga",
         "number": 3
-      }
+      },
+      "tags": [
+        "#historical_fiction"
+      ]
     },
     {
       "title": "Rythym of War",
@@ -502,7 +572,10 @@
       "series": {
         "name": "Stormlight Archive",
         "number": 4
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Ashes of Man",
@@ -521,7 +594,11 @@
       "series": {
         "name": "The Sun Eater",
         "number": 5
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "Dissolution",
@@ -540,7 +617,11 @@
       "series": {
         "name": "Shardlake Series",
         "number": 1
-      }
+      },
+      "tags": [
+        "#historical_fiction",
+        "#mystery"
+      ]
     },
     {
       "title": "Red Rising",
@@ -559,7 +640,10 @@
       "series": {
         "name": "Red Rising Saga",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Golden Son",
@@ -578,7 +662,10 @@
       "series": {
         "name": "Red Rising Saga",
         "number": 2
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Dark Fire",
@@ -597,7 +684,11 @@
       "series": {
         "name": "Shardlake Series",
         "number": 2
-      }
+      },
+      "tags": [
+        "#historical_fiction",
+        "#mystery"
+      ]
     },
     {
       "title": "Morning star",
@@ -616,7 +707,10 @@
       "series": {
         "name": "Red Rising Saga",
         "number": 3
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "The prisoner of heaven",
@@ -635,7 +729,11 @@
       "series": {
         "name": "Cemetery Of Forgotten Books",
         "number": 3
-      }
+      },
+      "tags": [
+        "#mystery",
+        "#historical_fiction"
+      ]
     },
     {
       "title": "Yellowface",
@@ -652,7 +750,8 @@
         "anchor": "entry-2024-08-yellowface-c7218326"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#literary_fiction"
       ]
     },
     {
@@ -672,7 +771,10 @@
       "series": {
         "name": "The Faithful And The Fallen",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "The final empire",
@@ -691,7 +793,10 @@
       "series": {
         "name": "Mistborn",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Lessons on Chemistry",
@@ -708,7 +813,8 @@
         "anchor": "entry-2024-09-lessons-on-chemistry-74ef83ce"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#literary_fiction"
       ]
     },
     {
@@ -728,7 +834,10 @@
       "series": {
         "name": "The Faithful And The Fallen",
         "number": 2
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "The sunlit man",
@@ -743,7 +852,11 @@
       "source": {
         "file": "years/2024.md",
         "anchor": "entry-2024-09-the-sunlit-man-06dbc8f8"
-      }
+      },
+      "tags": [
+        "#fantasy",
+        "#scifi"
+      ]
     },
     {
       "title": "The well of ascension",
@@ -762,7 +875,10 @@
       "series": {
         "name": "Mistborn",
         "number": 2
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Ruin",
@@ -781,7 +897,10 @@
       "series": {
         "name": "The Faithful And The Fallen",
         "number": 3
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Disquiet Gods",
@@ -800,7 +919,11 @@
       "series": {
         "name": "The Sun Eater",
         "number": 6
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "The hero of ages",
@@ -819,7 +942,10 @@
       "series": {
         "name": "Mistborn",
         "number": 3
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Project Hail Mary",
@@ -834,7 +960,10 @@
       "source": {
         "file": "years/2024.md",
         "anchor": "entry-2024-10-project-hail-mary-2b916e06"
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Wrath",
@@ -853,7 +982,10 @@
       "series": {
         "name": "The Faithful And The Fallen",
         "number": 4
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Too like the lightning",
@@ -872,7 +1004,10 @@
       "series": {
         "name": "Terra Incognita",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Ultra-processed people",
@@ -889,7 +1024,8 @@
         "anchor": "entry-2024-11-ultra-processed-people-521067dc"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#nonfiction"
       ]
     },
     {
@@ -909,7 +1045,10 @@
       "series": {
         "name": "Prince Of Nothing",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "The alloy of Law",
@@ -928,7 +1067,10 @@
       "series": {
         "name": "Wax And Wayne",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Enders game",
@@ -947,7 +1089,10 @@
       "series": {
         "name": "Ender Saga",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Prince of thorns",
@@ -966,7 +1111,10 @@
       "series": {
         "name": "The Broken Empire",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Shadows of self",
@@ -985,7 +1133,10 @@
       "series": {
         "name": "Wax And Wayne",
         "number": 2
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Pandora\u2019s star",
@@ -1004,7 +1155,10 @@
       "series": {
         "name": "Commonwealth Saga",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Judas unchained",
@@ -1023,7 +1177,10 @@
       "series": {
         "name": "Commonwealth Saga",
         "number": 2
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Speaker for the dead",
@@ -1042,7 +1199,10 @@
       "series": {
         "name": "Ender Saga",
         "number": 2
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Edge Dancer",
@@ -1060,7 +1220,10 @@
       },
       "series": {
         "name": "Stormlight Archive"
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Dawnshard",
@@ -1078,7 +1241,10 @@
       },
       "series": {
         "name": "Stormlight Archive"
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Wind and truth",
@@ -1097,7 +1263,10 @@
       "series": {
         "name": "Stormlight Archive",
         "number": 5
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Endymion",
@@ -1116,7 +1285,10 @@
       "series": {
         "name": "Hyperion Cantos",
         "number": 3
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "The blade itself",
@@ -1135,7 +1307,10 @@
       "series": {
         "name": "The First Law",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "The rise of Endymion",
@@ -1154,7 +1329,10 @@
       "series": {
         "name": "Hyperion Cantos",
         "number": 4
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Before they are hanged",
@@ -1173,7 +1351,10 @@
       "series": {
         "name": "The First Law",
         "number": 2
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "The new life",
@@ -1190,7 +1371,8 @@
         "anchor": "entry-2025-01-the-new-life-5766967f"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#historical_fiction"
       ]
     },
     {
@@ -1210,7 +1392,10 @@
       "series": {
         "name": "The First Law",
         "number": 3
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Xenocide",
@@ -1229,7 +1414,10 @@
       "series": {
         "name": "Ender Saga",
         "number": 3
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Bands of mourning",
@@ -1248,7 +1436,10 @@
       "series": {
         "name": "Wax And Wayne",
         "number": 3
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "The children of the mind",
@@ -1267,7 +1458,10 @@
       "series": {
         "name": "Ender Saga",
         "number": 4
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Best served cold",
@@ -1282,7 +1476,10 @@
       "source": {
         "file": "years/2025.md",
         "anchor": "entry-2025-01-best-served-cold-6a7d009a"
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Ender in Exile",
@@ -1301,7 +1498,10 @@
       "series": {
         "name": "Ender Saga",
         "number": 6
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "A boy's own story",
@@ -1316,7 +1516,10 @@
       "source": {
         "file": "years/2025.md",
         "anchor": "entry-2025-01-a-boy-s-own-story-3558ba85"
-      }
+      },
+      "tags": [
+        "#literary_fiction"
+      ]
     },
     {
       "title": "The fifth season",
@@ -1335,7 +1538,11 @@
       "series": {
         "name": "The Broken Earth",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy",
+        "#scifi"
+      ]
     },
     {
       "title": "The Obelisk Gate",
@@ -1354,7 +1561,11 @@
       "series": {
         "name": "The Broken Earth",
         "number": 2
-      }
+      },
+      "tags": [
+        "#fantasy",
+        "#scifi"
+      ]
     },
     {
       "title": "The Wind-Up Bird Chronicle",
@@ -1371,7 +1582,8 @@
         "anchor": "entry-2025-02-the-wind-up-bird-chronicle-6edab630"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#literary_fiction"
       ]
     },
     {
@@ -1391,7 +1603,11 @@
       "series": {
         "name": "The Broken Earth",
         "number": 3
-      }
+      },
+      "tags": [
+        "#fantasy",
+        "#scifi"
+      ]
     },
     {
       "title": "She Who Became the Sun",
@@ -1410,7 +1626,11 @@
       "series": {
         "name": "The Radiant Emperor",
         "number": 1
-      }
+      },
+      "tags": [
+        "#historical_fiction",
+        "#fantasy"
+      ]
     },
     {
       "title": "The Dreaming Void",
@@ -1429,7 +1649,11 @@
       "series": {
         "name": "Void Trilogy",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "The Temporal Void",
@@ -1448,7 +1672,11 @@
       "series": {
         "name": "Void Trilogy",
         "number": 2
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "The Name of the Rose",
@@ -1463,7 +1691,11 @@
       "source": {
         "file": "years/2025.md",
         "anchor": "entry-2025-03-the-name-of-the-rose-3c3c22d9"
-      }
+      },
+      "tags": [
+        "#historical_fiction",
+        "#mystery"
+      ]
     },
     {
       "title": "The evolutionary void",
@@ -1482,7 +1714,11 @@
       "series": {
         "name": "Void Trilogy",
         "number": 3
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "Patriot",
@@ -1499,7 +1735,8 @@
         "anchor": "entry-2025-03-patriot-86254a3c"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#memoir"
       ]
     },
     {
@@ -1519,7 +1756,10 @@
       "series": {
         "name": "Malazan Book Of The Fallen",
         "number": 1
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Slaughter house 5",
@@ -1536,7 +1776,9 @@
         "anchor": "entry-2025-04-slaughter-house-5-573d2d90"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#literary_fiction",
+        "#scifi"
       ]
     },
     {
@@ -1555,7 +1797,10 @@
       },
       "series": {
         "name": "Revelation Space"
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Tai-Pan",
@@ -1574,7 +1819,10 @@
       "series": {
         "name": "Asian Saga",
         "number": 2
-      }
+      },
+      "tags": [
+        "#historical_fiction"
+      ]
     },
     {
       "title": "Redemption Ark",
@@ -1592,7 +1840,10 @@
       },
       "series": {
         "name": "Revelation Space"
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Deadhouse Gates",
@@ -1611,7 +1862,10 @@
       "series": {
         "name": "Malazan Book Of The Fallen",
         "number": 2
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Absolution Gap",
@@ -1629,7 +1883,10 @@
       },
       "series": {
         "name": "Revelation Space"
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Memories of ice",
@@ -1648,7 +1905,10 @@
       "series": {
         "name": "Malazan Book Of The Fallen",
         "number": 3
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "A memory called empire",
@@ -1667,7 +1927,10 @@
       "series": {
         "name": "Teixcalaan",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "House of chains",
@@ -1686,7 +1949,10 @@
       "series": {
         "name": "Malazan Book Of The Fallen",
         "number": 4
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Fundamentally",
@@ -1703,7 +1969,8 @@
         "anchor": "entry-2025-07-fundamentally-9f2b8b20"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#literary_fiction"
       ]
     },
     {
@@ -1723,7 +1990,10 @@
       "series": {
         "name": "Malazan Book Of The Fallen",
         "number": 5
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "A Desolation Called Peace",
@@ -1742,7 +2012,10 @@
       "series": {
         "name": "Teixcalaan",
         "number": 2
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "The Bonehunters",
@@ -1761,7 +2034,10 @@
       "series": {
         "name": "Malazan Book Of The Fallen",
         "number": 6
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Ready Player One",
@@ -1776,7 +2052,10 @@
       "source": {
         "file": "years/2025.md",
         "anchor": "entry-2025-08-ready-player-one-6995d047"
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Reapers Gate",
@@ -1795,7 +2074,10 @@
       "series": {
         "name": "Malazan Book Of The Fallen",
         "number": 7
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Butter",
@@ -1812,7 +2094,8 @@
         "anchor": "entry-2025-09-butter-bec98806"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#literary_fiction"
       ]
     },
     {
@@ -1832,7 +2115,10 @@
       "series": {
         "name": "The Murderbot Diaries",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Toll the Hounds",
@@ -1851,7 +2137,10 @@
       "series": {
         "name": "Malazan Book Of The Fallen",
         "number": 8
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "The silent patient",
@@ -1868,7 +2157,8 @@
         "anchor": "entry-2025-10-the-silent-patient-0f256add"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#thriller"
       ]
     },
     {
@@ -1884,7 +2174,11 @@
       "source": {
         "file": "years/2025.md",
         "anchor": "entry-2025-10-the-great-gatsby-bb5ad4d2"
-      }
+      },
+      "tags": [
+        "#classic",
+        "#literary_fiction"
+      ]
     },
     {
       "title": "Embers of War",
@@ -1903,7 +2197,10 @@
       "series": {
         "name": "Embers Of War",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Artificial Condition: The Murderbot Diaries",
@@ -1922,7 +2219,10 @@
       "series": {
         "name": "The Murderbot Diaries",
         "number": 2
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Fleet of Knives",
@@ -1941,7 +2241,10 @@
       "series": {
         "name": "Embers Of War",
         "number": 2
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Rogue Protocol: The Murderbot Diaries",
@@ -1960,7 +2263,10 @@
       "series": {
         "name": "The Murderbot Diaries",
         "number": 3
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Shadows Upon Time",
@@ -1979,7 +2285,11 @@
       "series": {
         "name": "The Sun Eater",
         "number": 7
-      }
+      },
+      "tags": [
+        "#scifi",
+        "#fantasy"
+      ]
     },
     {
       "title": "Dust of Dreams",
@@ -1998,7 +2308,10 @@
       "series": {
         "name": "Malazan Book Of The Fallen",
         "number": 9
-      }
+      },
+      "tags": [
+        "#fantasy"
+      ]
     },
     {
       "title": "Nicholas Nickleby",
@@ -2013,7 +2326,11 @@
       "source": {
         "file": "years/2025.md",
         "anchor": "entry-2025-12-nicholas-nickleby-0295dc28"
-      }
+      },
+      "tags": [
+        "#classic",
+        "#literary_fiction"
+      ]
     },
     {
       "title": "The nice and the good",
@@ -2030,7 +2347,8 @@
         "anchor": "entry-2025-12-the-nice-and-the-good-201f0deb"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#literary_fiction"
       ]
     },
     {
@@ -2052,7 +2370,8 @@
         "number": 10
       },
       "tags": [
-        "#10"
+        "#10",
+        "#fantasy"
       ]
     },
     {
@@ -2072,7 +2391,10 @@
       "series": {
         "name": "Embers Of War",
         "number": 3
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "I, Claudius",
@@ -2091,7 +2413,10 @@
       "series": {
         "name": "Claudius",
         "number": 1
-      }
+      },
+      "tags": [
+        "#historical_fiction"
+      ]
     },
     {
       "title": "The Midnight Library",
@@ -2108,7 +2433,8 @@
         "anchor": "entry-2026-01-the-midnight-library-3491a923"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#literary_fiction"
       ]
     },
     {
@@ -2128,7 +2454,10 @@
       "series": {
         "name": "Firefall",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "The Assassin's Apprentice",
@@ -2157,6 +2486,9 @@
           "name": "Farseer Trilogy",
           "number": 1
         }
+      ],
+      "tags": [
+        "#fantasy"
       ]
     },
     {
@@ -2176,7 +2508,10 @@
       "series": {
         "name": "The Murderbot Diaries",
         "number": 4
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Royal Assassin",
@@ -2205,6 +2540,9 @@
           "name": "Farseer Trilogy",
           "number": 2
         }
+      ],
+      "tags": [
+        "#fantasy"
       ]
     },
     {
@@ -2224,7 +2562,10 @@
       "series": {
         "name": "The Captive'S War",
         "number": 1
-      }
+      },
+      "tags": [
+        "#scifi"
+      ]
     },
     {
       "title": "Assassin's Quest",
@@ -2253,6 +2594,9 @@
           "name": "Farseer Trilogy",
           "number": 3
         }
+      ],
+      "tags": [
+        "#fantasy"
       ]
     },
     {
@@ -2270,7 +2614,8 @@
         "anchor": "entry-2026-03-the-left-hand-of-darkness-f9fe27fd"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#scifi"
       ]
     },
     {
@@ -2300,6 +2645,9 @@
           "name": "Liveship Traders Trilogy",
           "number": 1
         }
+      ],
+      "tags": [
+        "#fantasy"
       ]
     },
     {
@@ -2317,7 +2665,8 @@
         "anchor": "entry-2026-04-civilizations-d7988737"
       },
       "tags": [
-        "#bookclub"
+        "#bookclub",
+        "#historical_fiction"
       ]
     },
     {
