@@ -1782,8 +1782,18 @@ The positioning of "Crawlers" or those born in the Dungeon against the "Outworld
 
 Through the series as Dinnimann has sort to define a purpose for his novels, a wider narrative ark, that would satisfy the readers he has settled on the Crawl and the wider galaxy and the rebellion of those oppressed by the galactic society. In earlier novels Carl is trying to survive, each novel read as a narrative ark in its own right. The only link really between novels was the progress to the next floor and the changing personal relationships between the characters. Now we have a wider narrative to connect the last 4 novels of the series (I believe he will stop at 8) this gives the plot greater narrative weight and a destination.
 
+#### A Parade of Horribles by Matt Dinniman
+
+⭐️⭐️⭐️
+Series: Dungeon Crawler Carl 8
+Started: 2026-06-12
+Finished: 2026-06-21
+#scifi
+
+I have become addicted to Dungeon Crawler Carl. The world of Doughnut and Carl is enjoyable, compelling and vividly drawn. I am building a relationship with the wider group of characters and have started to care about them. However, the writing is not good. There are tangents and loose threads left flopping everywhere. That causes moments of annoyance and a break in the emersion of the story. However, hugely enjoyable.
+
 #### Adventures of Huckleberry Finn by Mark Twain
 
-Started: 2026-06-12
+Started: 2026-06-22
 Finished:
 #literary_fiction
