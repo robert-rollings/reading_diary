@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Reading_diary.md",
-    "entryCount": 130,
+    "entryCount": 131,
     "years": [
       2024,
       2025,
@@ -2933,10 +2933,32 @@
       ]
     },
     {
+      "title": "A Parade of Horribles",
+      "author": "Matt Dinniman",
+      "id": "2026-06-a-parade-of-horribles-abfbb88d",
+      "dateStarted": "2026-06-12",
+      "dateFinished": "2026-06-21",
+      "year": 2026,
+      "month": 6,
+      "monthName": "June",
+      "ratingStars": 3,
+      "source": {
+        "file": "years/2026.md",
+        "anchor": "entry-2026-06-a-parade-of-horribles-abfbb88d"
+      },
+      "series": {
+        "name": "Dungeon Crawler Carl",
+        "number": 8
+      },
+      "tags": [
+        "#scifi"
+      ]
+    },
+    {
       "title": "Adventures of Huckleberry Finn",
       "author": "Mark Twain",
       "id": "2026-06-adventures-of-huckleberry-finn-cb7d2df5",
-      "dateStarted": "2026-06-12",
+      "dateStarted": "2026-06-22",
       "dateFinished": null,
       "year": 2026,
       "month": 6,
