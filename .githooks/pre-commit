@@ -1,0 +1,13 @@
+#!/bin/sh
+# Regenerates diary/index.json (and any missing author/series stub notes)
+# before every commit, and blocks the commit if generation fails (e.g. an
+# entry is missing a required field). Runs regardless of whether the commit
+# comes from the CLI or the Obsidian Git plugin.
+set -e
+
+PYTHON3="$(command -v python3 || echo /usr/bin/python3)"
+
+echo "pre-commit: regenerating diary/index.json..."
+"$PYTHON3" scripts/generate_diary_artifacts.py
+
+git add diary/index.json diary/authors diary/series
