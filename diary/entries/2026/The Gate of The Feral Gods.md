@@ -3,7 +3,7 @@ title: "The Gate of The Feral Gods"
 author: "[[Matt Dinniman]]"
 year: 2026
 month: 5
-series: "[[Dungeon Crawler Carl]]"
+series: "[[Dungeon Crawler Carl (series)|Dungeon Crawler Carl]]"
 series_number: 4
 rating: 3
 started: 2026-05-05

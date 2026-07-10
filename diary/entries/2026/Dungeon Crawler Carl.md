@@ -3,7 +3,7 @@ title: "Dungeon Crawler Carl"
 author: "[[Matt Dinniman]]"
 year: 2026
 month: 5
-series: "[[Dungeon Crawler Carl]]"
+series: "[[Dungeon Crawler Carl (series)|Dungeon Crawler Carl]]"
 series_number: 1
 rating: 3
 started: 2026-05-01

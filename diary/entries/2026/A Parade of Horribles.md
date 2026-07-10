@@ -3,7 +3,7 @@ title: "A Parade of Horribles"
 author: "[[Matt Dinniman]]"
 year: 2026
 month: 6
-series: "[[Dungeon Crawler Carl]]"
+series: "[[Dungeon Crawler Carl (series)|Dungeon Crawler Carl]]"
 series_number: 8
 rating: 3
 started: 2026-06-12

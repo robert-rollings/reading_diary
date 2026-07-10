@@ -3,7 +3,7 @@ title: "Fleet of Knives"
 author: "[[Gareth L. Powell]]"
 year: 2025
 month: 11
-series: "[[Embers of War]]"
+series: "[[Embers of War (series)|Embers of War]]"
 series_number: 2
 rating: 3
 finished: 2025-11-17

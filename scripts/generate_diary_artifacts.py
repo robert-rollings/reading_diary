@@ -116,6 +116,16 @@ def strip_wikilink(value):
     return (alias or target).strip()
 
 
+def wikilink_target(value):
+    if not isinstance(value, str):
+        return value
+    match = WIKILINK_RE.match(value.strip())
+    if not match:
+        return value
+    target, _alias = match.groups()
+    return target.strip()
+
+
 def parse_frontmatter(text: str) -> tuple[dict, str]:
     lines = text.split("\n")
     if not lines or lines[0].strip() != "---":
@@ -144,6 +154,7 @@ def load_entry(path: Path, entries_dir: Path, diary_dir: Path) -> dict | None:
         "title": str(title),
         "author": strip_wikilink(fm.get("author")),
         "path": str(path.relative_to(diary_dir)).replace("\\", "/"),
+        "_authorTarget": wikilink_target(fm.get("author")),
     }
     if fm.get("year") is not None:
         entry["year"] = fm["year"]
@@ -151,10 +162,12 @@ def load_entry(path: Path, entries_dir: Path, diary_dir: Path) -> dict | None:
         entry["month"] = fm["month"]
     if fm.get("series"):
         entry["series"] = strip_wikilink(fm["series"])
+        entry["_seriesTarget"] = wikilink_target(fm["series"])
         if fm.get("series_number") is not None:
             entry["seriesNumber"] = fm["series_number"]
         if fm.get("parent_series"):
             entry["parentSeries"] = strip_wikilink(fm["parent_series"])
+            entry["_parentSeriesTarget"] = wikilink_target(fm["parent_series"])
             if fm.get("parent_series_number") is not None:
                 entry["parentSeriesNumber"] = fm["parent_series_number"]
     if fm.get("rating") is not None:
@@ -211,9 +224,9 @@ def ensure_stub_notes(entries: list[dict], diary_dir: Path) -> list[str]:
     authors_dir.mkdir(exist_ok=True)
     series_dir.mkdir(exist_ok=True)
 
-    author_names = {e["author"] for e in entries if e.get("author")}
-    series_names = {e["series"] for e in entries if e.get("series")}
-    series_names |= {e["parentSeries"] for e in entries if e.get("parentSeries")}
+    author_names = {e["_authorTarget"] for e in entries if e.get("_authorTarget")}
+    series_names = {e["_seriesTarget"] for e in entries if e.get("_seriesTarget")}
+    series_names |= {e["_parentSeriesTarget"] for e in entries if e.get("_parentSeriesTarget")}
 
     created = []
     for name in sorted(author_names):
@@ -257,6 +270,10 @@ def main() -> int:
         print(f"Created {len(created_stubs)} new stub note(s):")
         for p in created_stubs:
             print(f"  - {p}")
+
+    for entry in entries:
+        for key in ("_authorTarget", "_seriesTarget", "_parentSeriesTarget"):
+            entry.pop(key, None)
 
     series_table = parse_series_overview(diary_dir / "series_overview.md")
 

@@ -3,7 +3,7 @@ title: "Embers of War"
 author: "[[Gareth L. Powell]]"
 year: 2025
 month: 11
-series: "[[Embers of War]]"
+series: "[[Embers of War (series)|Embers of War]]"
 series_number: 1
 rating: 4
 tags: [scifi]

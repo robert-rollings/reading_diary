@@ -3,7 +3,7 @@ title: "The Light of Impossible Stars"
 author: "[[Gareth L. Powell]]"
 year: 2026
 month: 1
-series: "[[Embers of War]]"
+series: "[[Embers of War (series)|Embers of War]]"
 series_number: 3
 rating: 3
 started: 2026-01-16

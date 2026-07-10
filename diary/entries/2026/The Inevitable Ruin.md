@@ -3,7 +3,7 @@ title: "The Inevitable Ruin"
 author: "[[Matt Dinniman]]"
 year: 2026
 month: 6
-series: "[[Dungeon Crawler Carl]]"
+series: "[[Dungeon Crawler Carl (series)|Dungeon Crawler Carl]]"
 series_number: 7
 rating: 4
 started: 2026-06-07

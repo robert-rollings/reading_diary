@@ -3,7 +3,7 @@ title: "The Butcher's Masquerade"
 author: "[[Matt Dinniman]]"
 year: 2026
 month: 5
-series: "[[Dungeon Crawler Carl]]"
+series: "[[Dungeon Crawler Carl (series)|Dungeon Crawler Carl]]"
 series_number: 5
 rating: 4
 started: 2026-05-12
