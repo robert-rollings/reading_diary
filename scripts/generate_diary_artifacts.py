@@ -1,52 +1,22 @@
 #!/usr/bin/env python3
 """
-Generate diary/index.json and diary/years/*.md from Reading_diary.md.
+Generate diary/index.json from the per-entry notes in diary/entries/
+and the series table in diary/series_overview.md.
 """
 
 from __future__ import annotations
 
 import argparse
-import hashlib
 import json
 import re
-import unicodedata
 from pathlib import Path
 
-STAR = "\u2b50"
+STAR = "⭐"
 
-MONTHS = {
-    "January": 1,
-    "February": 2,
-    "March": 3,
-    "April": 4,
-    "May": 5,
-    "June": 6,
-    "July": 7,
-    "August": 8,
-    "September": 9,
-    "October": 10,
-    "November": 11,
-    "December": 12,
-}
-
-FINISHED_RE = re.compile(r"finished\s*:\s*(.+)", re.IGNORECASE)
-STARTED_RE = re.compile(r"started\s*:\s*(.+)", re.IGNORECASE)
-TAG_RE = re.compile(r"(?<!\w)#([A-Za-z0-9_-]+)")
-YEAR_RE = re.compile(r"^##\s+(\d{4})\s*$")
-MONTH_RE = re.compile(r"^###\s+(.+)$")
-ENTRY_RE = re.compile(r"^####\s+")
-SERIES_RE = re.compile(r"^series\s*:\s*(.+)$", re.IGNORECASE)
-SERIES_NUMBER_RE = r"(\d+(?:\.\d+)?)"
-AUTHOR_SERIES_MAP = {
-    "ian m banks": "Culture Series",
-    "iain m banks": "Culture Series",
-    "iain banks": "Culture Series",
-}
-AUTHOR_TITLE_SERIES_MAP = {
-    ("gareth l. powell", "embers of war"): ("Embers of War", 1),
-    ("gareth l. powell", "fleet of knives"): ("Embers of War", 2),
-    ("gareth l. powell", "the light of impossible stars"): ("Embers of War", 3),
-}
+INT_RE = re.compile(r"^-?\d+$")
+FLOAT_RE = re.compile(r"^-?\d+\.\d+$")
+KEY_RE = re.compile(r"^([A-Za-z0-9_-]+):\s*(.*)$")
+LIST_ITEM_RE = re.compile(r"^\s*-\s*(.*)$")
 
 
 def strip_markdown(text: str) -> str:
@@ -57,392 +27,252 @@ def strip_markdown(text: str) -> str:
     return text.strip()
 
 
-def normalize_series_name(name: str) -> str:
-    text = strip_markdown(name)
-    text = " ".join(text.split())
-    if not text:
-        return text
-    for word in text.split():
-        if re.search(r"[a-z][A-Z]", word):
-            return text
-    if text == text.lower() or all(word[1:].islower() for word in text.split() if len(word) > 1):
-        return text.title()
-    return text
-
-
-def parse_series_number(value: str) -> int | float:
-    return float(value) if "." in value else int(value)
-
-
-def slugify(text: str, max_len: int = 50) -> str:
-    text = strip_markdown(text)
-    text = unicodedata.normalize("NFKD", text)
-    text = text.encode("ascii", "ignore").decode("ascii")
-    text = text.lower()
-    text = re.sub(r"[^a-z0-9]+", "-", text).strip("-")
-    if not text:
-        text = "entry"
-    if len(text) > max_len:
-        text = text[:max_len].rstrip("-")
-    return text or "entry"
-
-
-def extract_series_info(title: str) -> tuple[str | None, int | float | None]:
-    clean = strip_markdown(title)
-
-    for segment in re.findall(r"\(([^)]+)\)", clean):
-        segment = segment.strip()
-        if not segment:
+def split_flow_list(inner: str) -> list[str]:
+    items: list[str] = []
+    current = ""
+    in_quote: str | None = None
+    for ch in inner:
+        if in_quote:
+            current += ch
+            if ch == in_quote:
+                in_quote = None
             continue
-        match = re.match(rf"^\s*book\s+{SERIES_NUMBER_RE}\s+of\s+(.+?)\s*$", segment, re.IGNORECASE)
-        if match:
-            return normalize_series_name(match.group(2)), parse_series_number(match.group(1))
-        match = re.match(rf"^\s*(.+?)\s+book\s+{SERIES_NUMBER_RE}\s*$", segment, re.IGNORECASE)
-        if match:
-            return normalize_series_name(match.group(1)), parse_series_number(match.group(2))
-        match = re.match(rf"^\s*(.+?)\s+{SERIES_NUMBER_RE}\s*$", segment)
-        if match:
-            return normalize_series_name(match.group(1)), parse_series_number(match.group(2))
-
-    match = re.match(rf"^\s*(.+?)\s+book\s+{SERIES_NUMBER_RE}\b", clean, re.IGNORECASE)
-    if match:
-        return normalize_series_name(match.group(1)), parse_series_number(match.group(2))
-
-    return None, None
-
-
-def extract_series_metadata(lines: list[str]) -> list[dict]:
-    series_entries: list[dict] = []
-    for line in lines:
-        match = SERIES_RE.match(strip_markdown(line))
-        if not match:
+        if ch in "\"'":
+            in_quote = ch
+            current += ch
             continue
-        value = match.group(1).strip()
-        if not value:
+        if ch == ",":
+            items.append(current.strip())
+            current = ""
             continue
-        number_match = re.match(rf"^(.+?)\s+#?{SERIES_NUMBER_RE}\s*$", value)
-        if number_match:
-            name = normalize_series_name(number_match.group(1))
-            number = parse_series_number(number_match.group(2))
-        else:
-            name = normalize_series_name(value)
-            number = None
-        if not name:
-            continue
-        entry = {"name": name}
-        if number is not None:
-            entry["number"] = number
-        series_entries.append(entry)
-    return series_entries
+        current += ch
+    if current.strip():
+        items.append(current.strip())
+    return items
 
 
-def parse_heading(heading_line: str) -> tuple[str, str | None]:
-    text = heading_line.lstrip("#").strip()
-    text = strip_markdown(text)
-
-    by_split = re.split(r"\s+by\s+", text, maxsplit=1, flags=re.IGNORECASE)
-    if len(by_split) == 2:
-        title = by_split[0].strip()
-        author = by_split[1].strip()
-        return title, author
-
-    dash_split = re.split(r"\s+[\u2014\u2013-]\s+", text)
-    if len(dash_split) >= 2:
-        title = " ".join(dash_split[:-1]).strip()
-        author = dash_split[-1].strip()
-        return title, author
-
-    return text.strip(), None
-
-
-def parse_month_heading(text: str) -> tuple[str | None, int | None]:
-    text = strip_markdown(text)
-    match = re.match(r"^([A-Za-z]+)", text)
-    if not match:
-        return None, None
-    month_name = match.group(1)
-    month_num = MONTHS.get(month_name.capitalize())
-    return month_name, month_num
-
-
-def parse_date(raw: str) -> str | None:
-    raw = strip_markdown(raw).replace(",", "").strip()
-    if not raw:
+def parse_scalar(raw: str):
+    raw = raw.strip()
+    if raw == "":
         return None
-    if re.match(r"^\d{4}-\d{2}-\d{2}$", raw):
-        return raw
-    match = re.match(r"^(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$", raw)
-    if match:
-        day = int(match.group(1))
-        month = MONTHS.get(match.group(2).capitalize())
-        year = int(match.group(3))
-        if month:
-            return f"{year:04d}-{month:02d}-{day:02d}"
+    if raw.startswith('"') and raw.endswith('"') and len(raw) >= 2:
+        return raw[1:-1].replace('\\"', '"').replace("\\\\", "\\")
+    if raw.startswith("'") and raw.endswith("'") and len(raw) >= 2:
+        return raw[1:-1].replace("''", "'")
+    if raw.startswith("[") and raw.endswith("]"):
+        inner = raw[1:-1].strip()
+        if not inner:
+            return []
+        return [parse_scalar(item) for item in split_flow_list(inner)]
+    if INT_RE.match(raw):
+        return int(raw)
+    if FLOAT_RE.match(raw):
+        return float(raw)
     return raw
 
 
-def extract_rating(lines: list[str]) -> int:
-    for line in lines:
-        if STAR in line:
-            count = line.count(STAR)
-            if count:
-                return count
-    return 0
-
-
-def extract_tags(lines: list[str]) -> list[str]:
-    tags: list[str] = []
-    seen = set()
-    for line in lines:
-        for tag in TAG_RE.findall(line):
-            token = f"#{tag}"
-            if token not in seen:
-                seen.add(token)
-                tags.append(token)
-    return tags
-
-
-def extract_finished(lines: list[str]) -> str | None:
-    for line in lines:
-        match = FINISHED_RE.search(line)
-        if match:
-            return parse_date(match.group(1))
-    return None
-
-
-def extract_started(lines: list[str]) -> str | None:
-    for line in lines:
-        match = STARTED_RE.search(line)
-        if match:
-            return parse_date(match.group(1))
-    return None
-
-
-def make_entry_id(
-    title: str,
-    author: str | None,
-    year: int,
-    month_num: int | None,
-    occurrence: int = 1,
-) -> str:
-    month_val = month_num or 0
-    base = f"{title or ''}|{author or ''}|{year}|{month_val}"
-    if occurrence > 1:
-        base = f"{base}|{occurrence}"
-    hash_part = hashlib.sha1(base.encode("utf-8")).hexdigest()[:8]
-    slug = slugify(title)
-    return f"{year}-{month_val:02d}-{slug}-{hash_part}"
-
-
-def parse_series_table(lines: list[str]) -> list[dict]:
-    series: list[dict] = []
-    in_section = False
-    in_table = False
-
-    for line in lines:
-        stripped = line.strip()
-        if stripped.startswith("## Other books or series of books"):
-            in_section = True
+def parse_yaml_block(lines: list[str]) -> dict:
+    data: dict = {}
+    i, n = 0, len(lines)
+    while i < n:
+        line = lines[i]
+        if not line.strip():
+            i += 1
             continue
-        if in_section and stripped.startswith("## ") and "Other books or series of books" not in stripped:
+        match = KEY_RE.match(line)
+        if not match:
+            i += 1
+            continue
+        key, value = match.group(1), match.group(2)
+        if value.strip() == "":
+            items = []
+            j = i + 1
+            while j < n and LIST_ITEM_RE.match(lines[j]):
+                item_match = LIST_ITEM_RE.match(lines[j])
+                items.append(parse_scalar(item_match.group(1)))
+                j += 1
+            if items:
+                data[key] = items
+                i = j
+                continue
+            data[key] = None
+            i += 1
+            continue
+        data[key] = parse_scalar(value)
+        i += 1
+    return data
+
+
+WIKILINK_RE = re.compile(r"^\[\[([^\]|]*)(?:\|([^\]]+))?\]\]$")
+
+
+def strip_wikilink(value):
+    if not isinstance(value, str):
+        return value
+    match = WIKILINK_RE.match(value.strip())
+    if not match:
+        return value
+    target, alias = match.groups()
+    return (alias or target).strip()
+
+
+def parse_frontmatter(text: str) -> tuple[dict, str]:
+    lines = text.split("\n")
+    if not lines or lines[0].strip() != "---":
+        return {}, text
+    end_idx = None
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            end_idx = i
             break
-        if not in_section:
-            continue
+    if end_idx is None:
+        return {}, text
+    data = parse_yaml_block(lines[1:end_idx])
+    body = "\n".join(lines[end_idx + 1 :]).strip()
+    return data, body
 
+
+def load_entry(path: Path, entries_dir: Path, diary_dir: Path) -> dict | None:
+    fm, _body = parse_frontmatter(path.read_text(encoding="utf-8"))
+    title = fm.get("title")
+    if not title:
+        return None
+
+    entry_id = str(path.relative_to(entries_dir).with_suffix("")).replace("\\", "/")
+    entry: dict = {
+        "id": entry_id,
+        "title": str(title),
+        "author": strip_wikilink(fm.get("author")),
+        "path": str(path.relative_to(diary_dir)).replace("\\", "/"),
+    }
+    if fm.get("year") is not None:
+        entry["year"] = fm["year"]
+    if fm.get("month") is not None:
+        entry["month"] = fm["month"]
+    if fm.get("series"):
+        entry["series"] = strip_wikilink(fm["series"])
+        if fm.get("series_number") is not None:
+            entry["seriesNumber"] = fm["series_number"]
+        if fm.get("parent_series"):
+            entry["parentSeries"] = strip_wikilink(fm["parent_series"])
+            if fm.get("parent_series_number") is not None:
+                entry["parentSeriesNumber"] = fm["parent_series_number"]
+    if fm.get("rating") is not None:
+        entry["rating"] = fm["rating"]
+    if fm.get("started"):
+        entry["started"] = fm["started"]
+    if fm.get("finished"):
+        entry["finished"] = fm["finished"]
+    tags = fm.get("tags")
+    if tags:
+        entry["tags"] = tags
+    return entry
+
+
+def parse_series_overview(path: Path) -> list[dict]:
+    if not path.exists():
+        return []
+    series: list[dict] = []
+    in_table = False
+    for line in path.read_text(encoding="utf-8").splitlines():
+        stripped = line.strip()
         if stripped.startswith("| Book Series"):
             in_table = True
             continue
-        if in_table:
-            if not stripped.startswith("|"):
-                if series:
-                    break
-                continue
-            if stripped.lstrip().startswith("|---"):
-                continue
-            cols = [c.strip() for c in stripped.strip("|").split("|")]
-            if len(cols) < 4:
-                continue
-            series_name = strip_markdown(cols[0])
-            author = strip_markdown(cols[1])
-            rating = cols[2]
-            review = cols[3] if len(cols) == 4 else "|".join(cols[3:]).strip()
-            series.append(
-                {
-                    "seriesName": series_name,
-                    "author": author,
-                    "ratingStars": rating.count(STAR),
-                    "reviewText": review,
-                }
-            )
-
+        if not in_table or not stripped.startswith("|"):
+            continue
+        if stripped.lstrip("|").strip().startswith("---"):
+            continue
+        cols = [c.strip() for c in stripped.strip("|").split("|")]
+        if len(cols) < 4:
+            continue
+        series_name = strip_markdown(cols[0])
+        author = strip_markdown(cols[1])
+        rating = cols[2]
+        review = cols[3] if len(cols) == 4 else "|".join(cols[3:]).strip()
+        series.append(
+            {
+                "seriesName": series_name,
+                "author": author,
+                "ratingStars": rating.count(STAR),
+                "reviewText": review,
+            }
+        )
     return series
 
 
-def parse_entries_and_years(lines: list[str]) -> tuple[list[dict], dict[int, list[str]]]:
-    entries: list[dict] = []
-    year_lines: dict[int, list[str]] = {}
-
-    current_year: int | None = None
-    current_month_name: str | None = None
-    current_month_num: int | None = None
-    current_entry: dict | None = None
-    entry_occurrences: dict[str, int] = {}
-
-    def flush_entry() -> None:
-        nonlocal current_entry
-        if not current_entry:
-            return
-        entry_lines = current_entry["lines"]
-        rating = extract_rating(entry_lines[1:])
-        tags = extract_tags(entry_lines[1:])
-        finished = extract_finished(entry_lines[1:])
-        started = extract_started(entry_lines[1:])
-        series_path = extract_series_metadata(entry_lines[1:])
-        if not series_path:
-            fallback_name = current_entry.get("series_name")
-            fallback_number = current_entry.get("series_number")
-            if fallback_name:
-                fallback_entry = {"name": fallback_name}
-                if fallback_number is not None:
-                    fallback_entry["number"] = fallback_number
-                series_path = [fallback_entry]
-
-        entry = {
-            "title": current_entry["title"],
-            "author": current_entry["author"],
-            "id": current_entry["id"],
-            "dateStarted": started,
-            "dateFinished": finished,
-            "year": current_entry["year"],
-            "month": current_entry["month_num"],
-            "monthName": current_entry["month_name"],
-            "ratingStars": rating,
-            "source": {
-                "file": f"years/{current_entry['year']}.md",
-                "anchor": f"entry-{current_entry['id']}",
-            },
-        }
-        if series_path:
-            entry["series"] = series_path[-1]
-            if len(series_path) > 1:
-                entry["seriesPath"] = series_path
-        if tags:
-            entry["tags"] = tags
-        entries.append(entry)
-        current_entry = None
-
-    for line in lines:
-        line = line.rstrip("\n")
-
-        year_match = YEAR_RE.match(line)
-        if year_match:
-            flush_entry()
-            current_year = int(year_match.group(1))
-            current_month_name = None
-            current_month_num = None
-            year_lines[current_year] = [line]
-            continue
-
-        if current_year is None:
-            continue
-
-        entry_match = ENTRY_RE.match(line)
-        if entry_match:
-            flush_entry()
-            title, author = parse_heading(line)
-            series_name, series_number = extract_series_info(title)
-            if not series_name and author:
-                mapped = AUTHOR_SERIES_MAP.get(author.lower())
-                if mapped:
-                    series_name = mapped
-            if not series_name and author and title:
-                mapped = AUTHOR_TITLE_SERIES_MAP.get((author.lower(), title.lower()))
-                if mapped:
-                    series_name, series_number = mapped
-            month_val = current_month_num or 0
-            base_key = f"{title or ''}|{author or ''}|{current_year}|{month_val}"
-            occurrence = entry_occurrences.get(base_key, 0) + 1
-            entry_occurrences[base_key] = occurrence
-            entry_id = make_entry_id(
-                title,
-                author,
-                current_year,
-                current_month_num,
-                occurrence=occurrence,
-            )
-            current_entry = {
-                "id": entry_id,
-                "title": title,
-                "author": author,
-                "year": current_year,
-                "month_name": current_month_name,
-                "month_num": current_month_num,
-                "series_name": series_name,
-                "series_number": series_number,
-                "lines": [line],
-            }
-            year_lines[current_year].append(f'<a id="entry-{entry_id}"></a>')
-            year_lines[current_year].append(line)
-            continue
-
-        month_match = MONTH_RE.match(line)
-        if month_match:
-            flush_entry()
-            month_text = month_match.group(1).strip()
-            current_month_name, current_month_num = parse_month_heading(month_text)
-            year_lines[current_year].append(line)
-            continue
-
-        if current_entry:
-            current_entry["lines"].append(line)
-        year_lines[current_year].append(line)
-
-    flush_entry()
-    return entries, year_lines
+def safe_filename(name: str) -> str:
+    return re.sub(r'[\\/:*?"<>|]', "-", name)
 
 
-def write_year_files(output_dir: Path, year_lines: dict[int, list[str]]) -> None:
-    years_dir = output_dir / "years"
-    years_dir.mkdir(parents=True, exist_ok=True)
-    for year, lines in year_lines.items():
-        content = "\n".join(lines).rstrip() + "\n"
-        (years_dir / f"{year}.md").write_text(content, encoding="utf-8")
+def ensure_stub_notes(entries: list[dict], diary_dir: Path) -> list[str]:
+    authors_dir = diary_dir / "authors"
+    series_dir = diary_dir / "series"
+    authors_dir.mkdir(exist_ok=True)
+    series_dir.mkdir(exist_ok=True)
 
+    author_names = {e["author"] for e in entries if e.get("author")}
+    series_names = {e["series"] for e in entries if e.get("series")}
+    series_names |= {e["parentSeries"] for e in entries if e.get("parentSeries")}
 
-def write_index(output_dir: Path, source: Path, entries: list[dict], series: list[dict]) -> None:
-    index = {
-        "meta": {
-            "source": source.name,
-            "entryCount": len(entries),
-            "years": sorted({entry["year"] for entry in entries}),
-        },
-        "series_table": series,
-        "entries": entries,
-    }
-    output_dir.mkdir(parents=True, exist_ok=True)
-    (output_dir / "index.json").write_text(
-        json.dumps(index, indent=2, ensure_ascii=True) + "\n",
-        encoding="utf-8",
-    )
+    created = []
+    for name in sorted(author_names):
+        path = authors_dir / f"{safe_filename(name)}.md"
+        if not path.exists():
+            path.write_text(f"# {name}\n", encoding="utf-8")
+            created.append(str(path.relative_to(diary_dir)))
+    for name in sorted(series_names):
+        path = series_dir / f"{safe_filename(name)}.md"
+        if not path.exists():
+            path.write_text(f"# {name}\n", encoding="utf-8")
+            created.append(str(path.relative_to(diary_dir)))
+    return created
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Generate diary artifacts.")
-    parser.add_argument("--input", default="Reading_diary.md")
-    parser.add_argument("--output-dir", default="diary")
+    parser = argparse.ArgumentParser(description="Generate diary/index.json from per-entry notes.")
+    parser.add_argument("--diary-dir", default="diary")
     args = parser.parse_args()
 
-    input_path = Path(args.input)
-    lines = input_path.read_text(encoding="utf-8").splitlines()
+    diary_dir = Path(args.diary_dir)
+    entries_dir = diary_dir / "entries"
 
-    series = parse_series_table(lines)
-    entries, year_lines = parse_entries_and_years(lines)
+    entries = []
+    missing_author = []
+    for path in sorted(entries_dir.glob("*/*.md")):
+        entry = load_entry(path, entries_dir, diary_dir)
+        if entry:
+            entries.append(entry)
+            if not entry["author"]:
+                missing_author.append(str(path.relative_to(diary_dir)))
+    if missing_author:
+        raise SystemExit(
+            "author is required but missing in:\n"
+            + "\n".join(f"  - {p}" for p in missing_author)
+        )
+    entries.sort(key=lambda e: (e.get("year") or 0, e.get("month") or 0, e["title"]))
 
-    output_dir = Path(args.output_dir)
-    write_year_files(output_dir, year_lines)
-    write_index(output_dir, input_path, entries, series)
+    created_stubs = ensure_stub_notes(entries, diary_dir)
+    if created_stubs:
+        print(f"Created {len(created_stubs)} new stub note(s):")
+        for p in created_stubs:
+            print(f"  - {p}")
 
-    print(f"Wrote {len(entries)} entries across {len(year_lines)} years.")
+    series_table = parse_series_overview(diary_dir / "series_overview.md")
+
+    index = {
+        "meta": {
+            "entryCount": len(entries),
+            "years": sorted({e["year"] for e in entries if "year" in e}),
+        },
+        "series_table": series_table,
+        "entries": entries,
+    }
+    (diary_dir / "index.json").write_text(
+        json.dumps(index, indent=2, ensure_ascii=True) + "\n",
+        encoding="utf-8",
+    )
+    print(f"Wrote {len(entries)} entries to {diary_dir / 'index.json'}.")
     return 0
 
 
