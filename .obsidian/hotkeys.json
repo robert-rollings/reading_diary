@@ -7,5 +7,14 @@
       ],
       "key": "S"
     }
+  ],
+  "templater-obsidian:diary/templates/entry.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }
