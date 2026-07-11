@@ -1,6 +1,6 @@
 {
   "meta": {
-    "entryCount": 131,
+    "entryCount": 132,
     "years": [
       2024,
       2025,
@@ -1987,6 +1987,15 @@
       "tags": [
         "scifi"
       ]
+    },
+    {
+      "id": "2026/James",
+      "title": "James",
+      "author": "Percival Everett",
+      "path": "entries/2026/James.md",
+      "year": 2026,
+      "month": 7,
+      "started": "2026-07-11"
     }
   ]
 }

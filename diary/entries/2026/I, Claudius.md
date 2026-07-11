@@ -11,7 +11,7 @@ finished: 2026-01-26
 tags: [historical_fiction]
 ---
 
-This is a work of profound scholarship and ambition and ultimately art. I believe _I, Claudius_ is an inspiration for other authors of historical fiction I have read (Hilary Mantel & James Clavels) who share his intimate style and focus on motivations and inner lives of their characters. I strongly believe that Christopher Ruocchio was influenced by Graves. His Empire is modeled on ancient Rome and we see that world of intrigue war and violence through Hadrian's narration of his own autobiography.
+This is a work of profound scholarship and ambition and ultimately art. I believe _I, Claudius_ is an inspiration for other authors of historical fiction I have read (Hilary Mantel & James Clavels) who share his intimate style and focus on motivations and inner lives of their characters. I strongly believe that [[Christopher Ruocchio]] was influenced by Graves. His Empire is modeled on ancient Rome and we see that world of intrigue war and violence through Hadrian's narration of his own autobiography.
 
 I'm left wondering if "Claudius" is a reliable narrator and if Graves meant him to be perceived as such. Graves paints Claudius as a virtuous man according to the norms of a patrician of his time. But even by the standards of the early-mid 20th Century (when Graves was writing) Claudius is a monster. He keeps slaves, is indifferent to his own children, and delights in the suffering of Gladiators and animals at the games.
 

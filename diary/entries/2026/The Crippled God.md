@@ -11,7 +11,7 @@ finished: 2026-01-15
 tags: [fantasy]
 ---
 
-The conclusion to such an epic work defies a review that is succinct. The first—and most important—question I have to ask is: _Did Erikson deserve the trust I placed in him upon finishing_ **Dust of Dreams**? The answer is yes.  
+The conclusion to such an epic work defies a review that is succinct. The first—and most important—question I have to ask is: _Did Erikson deserve the trust I placed in him upon finishing_ **[[Dust of Dreams]]**? The answer is yes.  
 
 In many ways, _The Crippled God_ is the archetypal _Malazan Book of the Fallen_ novel: a plot filled with symbolism, complex motivations, and clashing perspectives—rarely explained to the reader. The novel can be read on three levels:  
 

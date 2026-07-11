@@ -19,4 +19,4 @@ Corey's Corrax are utterly alien, capricious and cruel. But Corey does not fall 
 
 I admired the intense psychology of the work. The pressure cooker that is created and the new, at least for me, merger of a prison story and science fiction world. The wider universe and the great confict anre more than hinted at and we are given enough to be curious about what comes next. But the novel can be read as a standalone volume - this I appreciate. It demonstrates Corey's discipline and restraint.
 
-A fitting novel from the authors of "The Expanse". With new ideas and a whole new universe to play in. This is a world I want to return to. High stakes politics, rebellion unwinnable odds. An adventure is in the making here.
+A fitting novel from the authors of "[[The Expanse]]". With new ideas and a whole new universe to play in. This is a world I want to return to. High stakes politics, rebellion unwinnable odds. An adventure is in the making here.

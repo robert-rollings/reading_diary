@@ -24,7 +24,7 @@ Ruocchio wears his influences proudly. His Catholicism is visible in the metaphy
 
 ##### **The memoir as revelation and concealment**
 
-One of Ruocchio’s boldest choices, and perhaps his greatest triumph, is the memoir conceit. We have always known, from the opening pages of _Empire of Silence_, that Hadrian survives to write his account. The suspense comes not from wondering what happens, but how and why it happens. _Shadows Upon Time_ is the crux of this device. The novel keeps us circling the central unanswered question: _how does Hadrian come to write these words at all?_ We never truly learn. This final ambiguity is both frustrating and fitting. Hadrian controls the narrative because he is the only narrator we will ever have; and we are left to decide how reliable he is.
+One of Ruocchio’s boldest choices, and perhaps his greatest triumph, is the memoir conceit. We have always known, from the opening pages of _[[Empire of Silence]]_, that Hadrian survives to write his account. The suspense comes not from wondering what happens, but how and why it happens. _Shadows Upon Time_ is the crux of this device. The novel keeps us circling the central unanswered question: _how does Hadrian come to write these words at all?_ We never truly learn. This final ambiguity is both frustrating and fitting. Hadrian controls the narrative because he is the only narrator we will ever have; and we are left to decide how reliable he is.
 
 ##### **Politics in the subtext, perhaps by design**
 
@@ -45,7 +45,7 @@ Hadrian’s long monologues, often full of moral justification and a certain sup
 
 ##### **A modern classic?**
 
-Will the Sun Eater stand alongside the great epics — _Dune_, _Hyperion_, _The Culture_? I think so. It has the scope, the ambition, and the moral weight to endure. Ruocchio’s fusion of genres, theological metaphysics, and enormous storytelling power have created something rare: a series that grapples with power, myth, and destiny without losing sight of the emotional centre of its hero.
+Will the Sun Eater stand alongside the great epics — _[[Dune]]_, _Hyperion_, _The Culture_? I think so. It has the scope, the ambition, and the moral weight to endure. Ruocchio’s fusion of genres, theological metaphysics, and enormous storytelling power have created something rare: a series that grapples with power, myth, and destiny without losing sight of the emotional centre of its hero.
 
 _Shadows Upon Time_ is not a perfect ending, but it is a bold one — and the Sun Eater cycle earns its place as one of the major speculative achievements of the last decade.
 

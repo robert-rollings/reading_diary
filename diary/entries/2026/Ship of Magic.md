@@ -13,7 +13,7 @@ finished: 2026-03-29
 tags: [fantasy]
 ---
 
-Another engaging and thrilling story from the world of the Elderlings. *Ship of Magic* demonstrates Hobb's versatility as a writer. The use of the first person in *The Farseer Trilogy* is suited to the claustrophobic world of court politics and personal sacrifice. In *Ship of Magic*, Hobb needs to broaden her readers' horizon. A first-person perspective would not have worked on the wide open seas. The multiple perspectives used give a sense of scale and grandeur to Hobb's world that was implied in *Farseer* but are drawn vividly in the world of Althea and Vivacia.
+Another engaging and thrilling story from the world of the Elderlings. *Ship of Magic* demonstrates Hobb's versatility as a writer. The use of the first person in *The [[Farseer Trilogy]]* is suited to the claustrophobic world of court politics and personal sacrifice. In *Ship of Magic*, Hobb needs to broaden her readers' horizon. A first-person perspective would not have worked on the wide open seas. The multiple perspectives used give a sense of scale and grandeur to Hobb's world that was implied in *Farseer* but are drawn vividly in the world of Althea and Vivacia.
 
 Hobb sows doubt in her readers' mind, reflecting the crushing loss of confidence that Althea feels. At first, we are made to doubt Althea's perspective. Is perhaps Kyle's view of Althea correct? Is she just a spoilt daddy's girl with no real skill or understanding? It seems plausible, after all. But as we see Kyle's need for control become more than a man doing what is necessary to save his family fortune—becoming something insidious, dominating, and aggressive—we understand that Althea was right. Hobb takes her reader on a parallel journey of doubt to Althea.
 

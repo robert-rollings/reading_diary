@@ -20,7 +20,7 @@ In my view the multi-view-point structure worked. But Powell lost an opportunity
 
 Powell's characters interact in a transactional manner and the action takes precedence. In contrast to the Expanse by Correy which is similarly action paced the characters feel one dimensional. In the Expanse the loss and trauma and emotional impact on the reader are more pronounced. The only difference I can draw is the space for the characters to grow in the readers mind.
 
-The key tropes of a space opera are there. Alien artifact (the "Restless Itch"), inscrutable and hostile aliens and an ensemble cast. The presence of these tropes feels more contrived then in the Expanse of Hamilton's Commonwealth Saga.
+The key tropes of a space opera are there. Alien artifact (the "Restless Itch"), inscrutable and hostile aliens and an ensemble cast. The presence of these tropes feels more contrived then in the Expanse of Hamilton's [[Commonwealth Saga]].
 
 Ona Sudak's ark is drawn. She is doing terrible things for an apparent noble cause. A path she has walked before. I would not be surprised if she has a redemption in the third book. I find myself interested in what shape this will take and if Powell will surprise us.
 

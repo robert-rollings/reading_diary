@@ -11,7 +11,7 @@ finished: 2026-06-11
 tags: [scifi]
 ---
 
-I'm starting to enjoy Dungeon Crawler Carl more and more. The humour is becoming more pointed, the situations more absurd but Dinniman is reaching higher with boarder themes and critique of humanity.
+I'm starting to enjoy [[Dungeon Crawler Carl (series)|Dungeon Crawler Carl]] more and more. The humour is becoming more pointed, the situations more absurd but Dinniman is reaching higher with boarder themes and critique of humanity.
 
 The positioning of "Crawlers" or those born in the Dungeon against the "Outworlders" was juxtaposed with those same outworlders who distinguished between who is real and who is not. Whose suffering is real and whose is not. To them the Crawlers are not real people they are completely other. This is the insidious way that evil spreads in a human heart. Seeing people as things is the root of almost all of Humanities problems.
 

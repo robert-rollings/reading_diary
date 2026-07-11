@@ -17,7 +17,7 @@ Here's the reorganised draft:
 
 ---
 
-I read this in preparation for _James_ by Percival Everett.
+I read this in preparation for _[[James]]_ by [[Percival Everett]].
 
 I struggled through the novel. Huck's voice read to me as condescension rather than characterisation, a caricature of a southern country lad rather than a person: _"Yes," says I, and other times when things is dull, they fuss with the parlyment; and if everybody don't go just so he whacks their heads off. But mostly they hang around the harem._
 
