@@ -10,6 +10,7 @@ parent_series_number:
 rating:
 started: 2026-07-11
 finished:
-tags: []
+tags:
+  - literary_fiction
 ---
 
