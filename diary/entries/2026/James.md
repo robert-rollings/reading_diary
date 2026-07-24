@@ -8,8 +8,8 @@ series_number:
 parent_series:
 parent_series_number:
 rating: 5
-started: 2026-07-11
-finished: 2026-07-31
+started: 2026-07-08
+finished: 2026-07-24
 tags:
   - literary_fiction
   - bookclub

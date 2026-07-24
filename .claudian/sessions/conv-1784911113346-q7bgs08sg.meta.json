@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784911113346-q7bgs08sg",
+  "providerId": "claude",
+  "title": "Debug pre-commit diary generation error",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784911113346,
+  "updatedAt": 1784911232460,
+  "lastResponseAt": 1784911232460,
+  "sessionId": "f50d5692-10b4-457e-b965-61d02b3d8e89",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "f50d5692-10b4-457e-b965-61d02b3d8e89"
+  },
+  "currentNote": "diary/entries/2026/James.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 140,
+    "cacheReadInputTokens": 36038,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36180,
+    "percentage": 4
+  }
+}

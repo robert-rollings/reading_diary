@@ -1,6 +1,6 @@
 {
   "meta": {
-    "entryCount": 132,
+    "entryCount": 133,
     "years": [
       2024,
       2025,
@@ -1996,13 +1996,24 @@
       "year": 2026,
       "month": 7,
       "rating": 5,
-      "started": "2026-07-11",
-      "finished": "2026-07-31",
+      "started": "2026-07-08",
+      "finished": "2026-07-24",
       "tags": [
         "literary_fiction",
         "bookclub",
         "historical_fiction"
       ]
+    },
+    {
+      "id": "2026/Ancillary Justice",
+      "title": "ancillary-justice",
+      "author": "Ann Leckie",
+      "path": "entries/2026/Ancillary Justice.md",
+      "year": 2026,
+      "month": 7,
+      "series": "The Imperial Radch",
+      "seriesNumber": 1,
+      "started": "2026-07-23"
     }
   ]
 }

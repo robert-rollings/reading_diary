@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784910882667-z1n34357x",
+  "providerId": "claude",
+  "title": "Onboard Ann Leckie and Imperial Radch series",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784910882669,
+  "updatedAt": 1784911088309,
+  "lastResponseAt": 1784910952276,
+  "sessionId": "07538ac7-f4b3-4e74-ac04-541f0a0ce8b4",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "07538ac7-f4b3-4e74-ac04-541f0a0ce8b4"
+  },
+  "currentNote": "diary/entries/2026/Ancillary Justice.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 199,
+    "cacheReadInputTokens": 26447,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 26654,
+    "percentage": 13
+  }
+}

@@ -59,6 +59,8 @@ def parse_scalar(raw: str):
         return raw[1:-1].replace('\\"', '"').replace("\\\\", "\\")
     if raw.startswith("'") and raw.endswith("'") and len(raw) >= 2:
         return raw[1:-1].replace("''", "'")
+    if WIKILINK_RE.match(raw):
+        return raw
     if raw.startswith("[") and raw.endswith("]"):
         inner = raw[1:-1].strip()
         if not inner:
