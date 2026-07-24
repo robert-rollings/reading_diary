@@ -1995,9 +1995,13 @@
       "path": "entries/2026/James.md",
       "year": 2026,
       "month": 7,
+      "rating": 5,
       "started": "2026-07-11",
+      "finished": "2026-07-31",
       "tags": [
-        "literary_fiction"
+        "literary_fiction",
+        "bookclub",
+        "historical_fiction"
       ]
     }
   ]
