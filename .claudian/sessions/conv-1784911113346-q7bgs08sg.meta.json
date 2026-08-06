@@ -1,15 +1,17 @@
 {
   "id": "conv-1784911113346-q7bgs08sg",
   "providerId": "claude",
-  "title": "Debug pre-commit diary generation error",
+  "title": "Fix Git issues",
   "titleGenerationStatus": "success",
   "createdAt": 1784911113346,
-  "updatedAt": 1784911232460,
-  "lastResponseAt": 1784911232460,
-  "sessionId": "f50d5692-10b4-457e-b965-61d02b3d8e89",
-  "selectedModel": "sonnet",
+  "lastActivityAt": 1786002949690,
+  "sessionId": "7141c70a-2d28-470a-b2bb-dedfb8d08a7e",
+  "selectedModel": "claude-code/claude-sonnet-5",
   "providerState": {
-    "providerSessionId": "f50d5692-10b4-457e-b965-61d02b3d8e89"
+    "previousProviderSessionIds": [
+      "f50d5692-10b4-457e-b965-61d02b3d8e89"
+    ],
+    "providerSessionId": "7141c70a-2d28-470a-b2bb-dedfb8d08a7e"
   },
   "currentNote": "diary/entries/2026/James.md",
   "usage": {

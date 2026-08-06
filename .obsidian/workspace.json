@@ -162,13 +162,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "01b6e242e9aee5c8",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +190,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "realclaudian:Open Claudian": false
     }
   },
   "active": "ba44ec73c37a6145",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "diary/templates/entry.md",
+    "diary/templates",
+    "diary/series_overview.md",
+    "diary/series/Wax and Wayne.md",
+    "diary/series/Void Trilogy.md",
+    "diary/series/The Sun Eater.md",
+    "diary/series/The Radiant Emperor.md",
+    "diary/series/The Murderbot Diaries.md",
+    "diary/series/The Imperial Radch.md",
+    "diary/series/The First Law.md",
+    "diary/series/The Faithful and the Fallen.md",
+    "diary/series/The Expanse.md",
+    "diary/series/The Dark Tower.md",
+    "diary/series/The Captive's War.md",
+    "diary/series/The Broken Empire.md",
+    "diary/series/The Broken Earth.md",
+    "diary/series/Terra Incognita.md",
+    "diary/series/Teixcalaan.md",
+    "diary/series/Stormlight Archive.md",
+    "diary/series/Shardlake Series.md",
+    "diary/series/Revelation Space.md",
+    "diary/series/Red Rising Saga.md",
+    "diary/series/Realm of the Elderlings.md",
+    "diary/series/Prince of Nothing.md",
+    "diary/series/Mistborn.md",
+    "diary/series/Malazan Book of the Fallen.md",
+    "diary/series",
+    "diary/entries/2026",
+    "diary/entries/2025",
+    "diary/entries/2024",
+    "diary/entries",
+    "diary/authors"
+  ]
 }

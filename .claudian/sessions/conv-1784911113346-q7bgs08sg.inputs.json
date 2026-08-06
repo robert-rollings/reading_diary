@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1784911113346-q7bgs08sg",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786002949844-xmtsd73",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786002949690-vt0l0p6",
+      "timestamp": 1786002949690,
+      "rawDisplayText": "Please help me fix git issues",
+      "canonicalText": "Please help me fix git issues",
+      "images": [],
+      "contentDigest": "512ff698d9d5c1028719fd42150b04d5fdb2b5d6f6aaf24e7822154d3ddcc341",
+      "providerUserMessageId": "2d800493-e6bd-4331-9f07-61eaffe9f77a"
+    }
+  ]
+}
