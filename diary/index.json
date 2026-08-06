@@ -2013,7 +2013,13 @@
       "month": 7,
       "series": "The Imperial Radch",
       "seriesNumber": 1,
-      "started": "2026-07-23"
+      "rating": 3,
+      "started": "2026-07-23",
+      "finished": "2026-08-06",
+      "tags": [
+        "scifi",
+        "#recomended_by/Jeroen-Vlek"
+      ]
     }
   ]
 }
