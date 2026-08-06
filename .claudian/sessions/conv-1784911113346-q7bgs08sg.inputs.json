@@ -13,7 +13,8 @@
       "canonicalText": "Please help me fix git issues",
       "images": [],
       "contentDigest": "512ff698d9d5c1028719fd42150b04d5fdb2b5d6f6aaf24e7822154d3ddcc341",
-      "providerUserMessageId": "2d800493-e6bd-4331-9f07-61eaffe9f77a"
+      "providerUserMessageId": "2d800493-e6bd-4331-9f07-61eaffe9f77a",
+      "providerAssistantMessageId": "81e7df3e-24e0-4408-89b8-4c1fcd2e7a2c"
     }
   ]
 }

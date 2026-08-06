@@ -11,10 +11,14 @@
             "id": "ba44ec73c37a6145",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "diary/entries/2026/Ancillary Justice.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ancillary Justice"
             }
           }
         ]
