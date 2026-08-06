@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/entries/2026/Ancillary Justice.md",
+                "file": "diary/entries/2026/Fugitive Telemetry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ancillary Justice"
+              "title": "Fugitive Telemetry"
             }
           }
         ]
@@ -200,6 +200,8 @@
   },
   "active": "ba44ec73c37a6145",
   "lastOpenFiles": [
+    "diary/entries/2026/Ancillary Justice.md",
+    "diary/entries/2026/Fugitive Telemetry.md",
     "conflict-files-obsidian-git.md",
     "diary/templates/entry.md",
     "diary/templates",
@@ -225,8 +227,6 @@
     "diary/series/Red Rising Saga.md",
     "diary/series/Realm of the Elderlings.md",
     "diary/series/Prince of Nothing.md",
-    "diary/series/Mistborn.md",
-    "diary/series/Malazan Book of the Fallen.md",
     "diary/series",
     "diary/entries/2026",
     "diary/entries/2025",
