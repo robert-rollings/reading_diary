@@ -1,2 +1,9 @@
 __pycache__/
+
+# Obsidian ephemeral files
 .obsidian/workspace.json
+.obsidian/plugins/*/data.json
+
+# Claudian session metadata
+.claudian/sessions/*.meta.json
+.claudian/sessions/*.inputs.json
