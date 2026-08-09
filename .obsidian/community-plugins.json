@@ -1,6 +1,7 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-tasks-plugin",
+  "git-file-explorer-colors",
+  "tag-wrangler",
   "realclaudian"
 ]

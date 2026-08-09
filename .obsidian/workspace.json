@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "b8a228afe4f80654",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a962a4d9af9fdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba44ec73c37a6145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/entries/2026/Fugitive Telemetry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fugitive Telemetry"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a25164f32b632568",
+    "type": "split",
+    "children": [
+      {
+        "id": "18456ec87e2da60d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47dd79faf695e0c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "871f90b65db68c89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db7f77efcff5166a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d930d73b2b9a33b",
+    "type": "split",
+    "children": [
+      {
+        "id": "82565e43c7f2c388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "851ea2d75cac0fb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "71229140d880c3a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1311cde983b19cbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c1d59b4bc8819a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b4b6cad3ab03e582",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "01b6e242e9aee5c8",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "ba44ec73c37a6145",
+  "lastOpenFiles": [
+    "diary/entries/2026/Ancillary Justice.md",
+    "diary/entries/2026/Fugitive Telemetry.md",
+    "conflict-files-obsidian-git.md",
+    "diary/templates/entry.md",
+    "diary/templates",
+    "diary/series_overview.md",
+    "diary/series/Wax and Wayne.md",
+    "diary/series/Void Trilogy.md",
+    "diary/series/The Sun Eater.md",
+    "diary/series/The Radiant Emperor.md",
+    "diary/series/The Murderbot Diaries.md",
+    "diary/series/The Imperial Radch.md",
+    "diary/series/The First Law.md",
+    "diary/series/The Faithful and the Fallen.md",
+    "diary/series/The Expanse.md",
+    "diary/series/The Dark Tower.md",
+    "diary/series/The Captive's War.md",
+    "diary/series/The Broken Empire.md",
+    "diary/series/The Broken Earth.md",
+    "diary/series/Terra Incognita.md",
+    "diary/series/Teixcalaan.md",
+    "diary/series/Stormlight Archive.md",
+    "diary/series/Shardlake Series.md",
+    "diary/series/Revelation Space.md",
+    "diary/series/Red Rising Saga.md",
+    "diary/series/Realm of the Elderlings.md",
+    "diary/series/Prince of Nothing.md",
+    "diary/series",
+    "diary/entries/2026",
+    "diary/entries/2025",
+    "diary/entries/2024",
+    "diary/entries",
+    "diary/authors"
+  ]
+}

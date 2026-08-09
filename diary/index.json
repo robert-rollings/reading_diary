@@ -1,6 +1,6 @@
 {
   "meta": {
-    "entryCount": 133,
+    "entryCount": 134,
     "years": [
       2024,
       2025,
@@ -2013,7 +2013,27 @@
       "month": 7,
       "series": "The Imperial Radch",
       "seriesNumber": 1,
-      "started": "2026-07-23"
+      "rating": 3,
+      "started": "2026-07-23",
+      "finished": "2026-08-06",
+      "tags": [
+        "scifi",
+        "#recomended_by/Jeroen-Vlek"
+      ]
+    },
+    {
+      "id": "2026/Fugitive Telemetry",
+      "title": "Fugitive Telemetry",
+      "author": "Martha Wells",
+      "path": "entries/2026/Fugitive Telemetry.md",
+      "year": 2026,
+      "month": 8,
+      "series": "The Murderbot Diaries",
+      "seriesNumber": 6,
+      "started": "2026-08-06",
+      "tags": [
+        "scifi"
+      ]
     }
   ]
 }
