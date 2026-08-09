@@ -197,11 +197,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0894514fc47026c7",
+  "active": "ce6ba6e8e0d32802",
   "lastOpenFiles": [
+    "diary/authors/Steven Erikson.md",
+    "diary/authors/Ann Leckie.md",
     "diary/authors/Kazuo Ishiguro.md",
-    "diary/entries/2026/Ancillary Justice.md",
     "diary/entries/2026/The Remains of the Day.md",
+    "diary/entries/2026/Ancillary Justice.md",
     "conflict-files-obsidian-git.md",
     "diary/entries/2026/Fugitive Telemetry.md",
     "diary/entries/2026/The Midnight Library.md",
@@ -209,7 +211,6 @@
     "diary/entries/2026/Civilizations.md",
     "diary/entries/2026/James.md",
     "diary/series/The Imperial Radch.md",
-    "diary/authors/Ann Leckie.md",
     "diary/templates/entry.md",
     "Untitled.md",
     "diary/entries/2026/Adventures of Huckleberry Finn.md",
@@ -224,7 +225,6 @@
     "diary/authors/Ernest Cline.md",
     "2026-07-10.md",
     "diary/authors/David Benioff.md",
-    "diary/authors/Dan Simmons.md",
     "diary/series",
     "diary/authors",
     "scripts/_link_entries.py",
