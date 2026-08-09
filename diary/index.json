@@ -1,6 +1,6 @@
 {
   "meta": {
-    "entryCount": 134,
+    "entryCount": 135,
     "years": [
       2024,
       2025,
@@ -2033,6 +2033,20 @@
       "started": "2026-08-06",
       "tags": [
         "scifi"
+      ]
+    },
+    {
+      "id": "2026/The Remains of the Day",
+      "title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "path": "entries/2026/The Remains of the Day.md",
+      "year": 2026,
+      "month": 8,
+      "started": "2026-08-09",
+      "tags": [
+        "literary_fiction",
+        "historical_fiction",
+        "contemporary_classic"
       ]
     }
   ]
