@@ -9,7 +9,7 @@ parent_series:
 parent_series_number:
 rating:
 started: 2026-08-09
-finished:
+finished: 2026-08-16
 tags:
   - literary_fiction
   - historical_fiction
