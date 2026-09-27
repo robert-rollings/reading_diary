@@ -1,6 +1,6 @@
 {
   "meta": {
-    "entryCount": 135,
+    "entryCount": 137,
     "years": [
       2024,
       2025,
@@ -2047,6 +2047,36 @@
         "literary_fiction",
         "historical_fiction",
         "contemporary_classic"
+      ]
+    },
+    {
+      "id": "2026/System Collapse",
+      "title": "System Collapse",
+      "author": "Martha Wells",
+      "path": "entries/2026/System Collapse.md",
+      "year": 2026,
+      "month": 9,
+      "series": "The Murderbot Diaries",
+      "seriesNumber": 7,
+      "rating": 3,
+      "started": "2026-09-24",
+      "finished": "2026-09-27",
+      "tags": [
+        "scifi"
+      ]
+    },
+    {
+      "id": "2026/The Reality Dysfunction",
+      "title": "The Reality Dysfunction",
+      "author": "Peter F. Hamilton",
+      "path": "entries/2026/The Reality Dysfunction.md",
+      "year": 2026,
+      "month": 9,
+      "series": "Nights Dawn",
+      "seriesNumber": 1,
+      "started": "2026-09-27",
+      "tags": [
+        "scifi"
       ]
     }
   ]

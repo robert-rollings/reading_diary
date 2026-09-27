@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "sonnet",
+  "model": "haiku",
   "thinkingBudget": "off",
   "effortLevel": "medium",
   "serviceTier": "default",
@@ -40,7 +40,7 @@
       "modelEnvironmentType": "haiku",
       "titleModelEnvironmentType": "",
       "environmentVariables": "",
-      "environmentHash": "runtime-input:v1:ff2693879b8186830714fad7d810bb42f9c6be992d7209410f63ff4627b40db1"
+      "environmentHash": "runtime-input:v1:00315fc18a64edcdcb95500356f0ce353ccc2944733371054bc4ca31bbf6dabb"
     },
     "codex": {
       "enabled": false,
@@ -99,7 +99,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "sonnet"
+    "claude": "haiku"
   },
   "savedProviderEffort": {
     "claude": "medium"

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/entries/2026/The Remains of the Day.md",
+                "file": "diary/entries/2026/The Reality Dysfunction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Remains of the Day"
+              "title": "The Reality Dysfunction"
             }
           }
         ]
@@ -197,12 +197,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ce6ba6e8e0d32802",
+  "active": "33281220aa3ebc8a",
   "lastOpenFiles": [
+    "diary/entries/2026/System Collapse.md",
+    "diary/entries/2026/The Reality Dysfunction.md",
+    "diary/entries/2026/The Remains of the Day.md",
+    "diary/entries/2026/Network Effect.md",
     "diary/authors/Steven Erikson.md",
     "diary/authors/Ann Leckie.md",
     "diary/authors/Kazuo Ishiguro.md",
-    "diary/entries/2026/The Remains of the Day.md",
     "diary/entries/2026/Ancillary Justice.md",
     "conflict-files-obsidian-git.md",
     "diary/entries/2026/Fugitive Telemetry.md",
@@ -212,7 +215,6 @@
     "diary/entries/2026/James.md",
     "diary/series/The Imperial Radch.md",
     "diary/templates/entry.md",
-    "Untitled.md",
     "diary/entries/2026/Adventures of Huckleberry Finn.md",
     "diary/series/Firefall.md",
     "diary/series/Farseer Trilogy.md",
@@ -223,8 +225,6 @@
     "diary/series/Commonwealth Saga.md",
     "diary/series/Cemetery of Forgotten Books.md",
     "diary/authors/Ernest Cline.md",
-    "2026-07-10.md",
-    "diary/authors/David Benioff.md",
     "diary/series",
     "diary/authors",
     "scripts/_link_entries.py",
