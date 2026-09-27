@@ -7,9 +7,9 @@ series: "[[The Murderbot Diaries]]"
 series_number: 6
 parent_series:
 parent_series_number:
-rating:
+rating: 4
 started: 2026-08-06
-finished:
+finished: 2026-08-09
 tags:
   - scifi
 ---
