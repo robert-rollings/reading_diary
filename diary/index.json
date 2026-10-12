@@ -1,6 +1,6 @@
 {
   "meta": {
-    "entryCount": 137,
+    "entryCount": 138,
     "years": [
       2024,
       2025,
@@ -2083,6 +2083,22 @@
       "tags": [
         "scifi",
         "horror"
+      ]
+    },
+    {
+      "id": "2026/Fool's Errand",
+      "title": "Fool's Errand",
+      "author": "Robin Hobb",
+      "path": "entries/2026/Fool's Errand.md",
+      "year": 2026,
+      "month": 10,
+      "series": "Tawny Man",
+      "seriesNumber": 1,
+      "parentSeries": "Realm of the Elderlings",
+      "parentSeriesNumber": 7,
+      "started": "2026-10-12",
+      "tags": [
+        "fantasy"
       ]
     }
   ]

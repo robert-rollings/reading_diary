@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/entries/2026/The Reality Dysfunction.md",
+                "file": "diary/entries/2026/Fool's Errand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Reality Dysfunction"
+              "title": "Fool's Errand"
             }
           }
         ]
@@ -197,8 +197,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "33281220aa3ebc8a",
+  "active": "ce6ba6e8e0d32802",
   "lastOpenFiles": [
+    "diary/series/Realm of the Elderlings.md",
+    "diary/entries/2026/Fool's Errand.md",
     "diary/entries/2026/The Reality Dysfunction.md",
     "conflict-files-obsidian-git.md",
     "diary/series/Nights Dawn.md",
@@ -223,8 +225,6 @@
     "diary/series/Embers of War (series).md",
     "diary/series/Dungeon Crawler Carl (series).md",
     "diary/series/Culture Series.md",
-    "diary/series/Commonwealth Saga.md",
-    "diary/series/Cemetery of Forgotten Books.md",
     "diary/series",
     "diary/authors",
     "scripts/_link_entries.py",
