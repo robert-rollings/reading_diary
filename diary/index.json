@@ -2077,9 +2077,12 @@
       "month": 9,
       "series": "Nights Dawn",
       "seriesNumber": 1,
+      "rating": 3,
       "started": "2026-09-27",
+      "finished": "2026-10-12",
       "tags": [
-        "scifi"
+        "scifi",
+        "horror"
       ]
     }
   ]
