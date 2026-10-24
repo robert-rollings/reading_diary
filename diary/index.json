@@ -1,6 +1,6 @@
 {
   "meta": {
-    "entryCount": 138,
+    "entryCount": 139,
     "years": [
       2024,
       2025,
@@ -2101,6 +2101,20 @@
       "finished": "2026-10-24",
       "tags": [
         "fantasy"
+      ]
+    },
+    {
+      "id": "2026/The Neutronium Alchemist",
+      "title": "The Neutronium Alchemist",
+      "author": "Peter F. Hamilton",
+      "path": "entries/2026/The Neutronium Alchemist.md",
+      "year": 2026,
+      "month": 10,
+      "series": "Nights Dawn",
+      "seriesNumber": 2,
+      "started": "2026-10-24",
+      "tags": [
+        "scifi"
       ]
     }
   ]
