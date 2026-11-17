@@ -2112,7 +2112,9 @@
       "month": 10,
       "series": "Nights Dawn",
       "seriesNumber": 2,
+      "rating": 3,
       "started": "2026-10-24",
+      "finished": "2026-11-09",
       "tags": [
         "scifi"
       ]
