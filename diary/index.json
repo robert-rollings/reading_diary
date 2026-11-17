@@ -1,6 +1,6 @@
 {
   "meta": {
-    "entryCount": 139,
+    "entryCount": 140,
     "years": [
       2024,
       2025,
@@ -2115,6 +2115,20 @@
       "rating": 3,
       "started": "2026-10-24",
       "finished": "2026-11-09",
+      "tags": [
+        "scifi"
+      ]
+    },
+    {
+      "id": "2026/The Naked God",
+      "title": "The Naked God",
+      "author": "Peter F. Hamilton",
+      "path": "entries/2026/The Naked God.md",
+      "year": 2026,
+      "month": 11,
+      "series": "Nights Dawn",
+      "seriesNumber": 3,
+      "started": "2026-11-09",
       "tags": [
         "scifi"
       ]

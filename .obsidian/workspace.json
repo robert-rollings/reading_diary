@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/entries/2026/The Neutronium Alchemist.md",
+                "file": "diary/entries/2026/The Naked God.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Neutronium Alchemist"
+              "title": "The Naked God"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "ce6ba6e8e0d32802",
   "lastOpenFiles": [
-    "diary/entries/2026/Fool's Errand.md",
     "diary/entries/2026/The Neutronium Alchemist.md",
+    "diary/entries/2026/The Naked God.md",
+    "diary/entries/2026/Fool's Errand.md",
     "diary/series/Tawny Man (series).md",
     "diary/series/Realm of the Elderlings.md",
     "diary/entries/2026/The Reality Dysfunction.md",
@@ -224,7 +225,6 @@
     "diary/series/Firefall.md",
     "diary/series/Farseer Trilogy.md",
     "diary/series/Ender Saga.md",
-    "diary/series/Embers of War (series).md",
     "diary/series",
     "diary/authors",
     "scripts/_link_entries.py",
