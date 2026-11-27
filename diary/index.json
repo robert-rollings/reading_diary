@@ -1,6 +1,6 @@
 {
   "meta": {
-    "entryCount": 140,
+    "entryCount": 141,
     "years": [
       2024,
       2025,
@@ -2117,6 +2117,20 @@
       "finished": "2026-11-09",
       "tags": [
         "scifi"
+      ]
+    },
+    {
+      "id": "2026/The Demon Star",
+      "title": "The Demon Star",
+      "author": "Jesse Aragon",
+      "path": "entries/2026/The Demon Star.md",
+      "year": 2026,
+      "month": 11,
+      "started": "2026-11-26",
+      "tags": [
+        "scifi",
+        "fantasy",
+        "horror"
       ]
     },
     {
